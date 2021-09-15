@@ -32,7 +32,6 @@
             "overridesCommon": false
         },
         "options": [
-            "testnet",
             "crowdloans"
         ]
     },
@@ -69,7 +68,6 @@
             "overridesCommon": false
         },
         "options": [
-            "testnet",
             "crowdloans"
         ]
     },
