@@ -216,5 +216,23 @@
     "website": "https://parallel.fi/index.html",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/heiko.svg",
     "rewardRate": 200
+  },
+  {
+    "paraid": "2096",
+    "name": "Bit.Country Pioneer",
+    "token": "NEER",
+    "description": "An open protocol for managing & incentivizing communities using gamification",
+    "website": "https://bit.country/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/bitcountry.svg",
+    "rewardRate": 68
+  },
+  {
+    "paraid": "2095",
+    "name": "Quartz",
+    "token": "QTZ",
+    "description": "A scalable blockchain for composable NFTs with advanced economies",
+    "website": "https://unique.network/quartz/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/quartz.png",
+    "rewardRate": 237
   }
 ]
