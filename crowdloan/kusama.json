@@ -125,7 +125,7 @@
     "description": "Futuristic, secure, and server-less IoT platform on top of Ethereum && Polkadot",
     "website": "https://robonomics.network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/robonomics.png",
-    "rewardRate": 5
+    "rewardRate": 3.5
   },
   {
     "paraid": "2088",
