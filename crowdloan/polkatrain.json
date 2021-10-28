@@ -1,0 +1,21 @@
+[
+  {
+     "paraid": "2002",
+     "name": "Moonbeam",
+     "token": "GLMR",
+     "description": "Ethereum-compatible smart contract parachain on Polkadot",
+     "website": "https://moonbeam.network",
+     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/moonbeam.png",
+     "rewardRate": 10,
+     "flow": {
+         "name": "moonbeam",
+         "data": {
+             "devApiUrl": "https://wallet-test.api.purestake.xyz",
+             "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
+             "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
+             "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
+             "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md"
+         }
+     }
+   }
+]
