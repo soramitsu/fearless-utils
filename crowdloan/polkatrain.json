@@ -1,13 +1,5 @@
 [
   {
-    "paraid": "1",
-    "name": "name",
-    "token": "DOT",
-    "description": "description",
-    "website": "https://polkadot.network/",
-    "icon": "https://ibb.co/rbCbMCT"
-  },
-  {
      "paraid": "2002",
      "name": "Moonbeam",
      "token": "GLMR",

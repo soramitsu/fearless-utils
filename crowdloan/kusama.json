@@ -7,7 +7,10 @@
     "website": "https://acala.network/karura",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/chains/karura.svg",
     "rewardRate": 12,
-    "customFlow": "Karura"
+    "customFlow": "Karura",
+    "flow": {
+      "name": "karura"
+    }
   },
   {
     "paraid": "2007",
@@ -26,7 +29,10 @@
     "website": "https://bifrost.finance/",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/bifrost.svg",
     "rewardRate": 22,
-    "customFlow": "Bifrost"
+    "customFlow": "Bifrost",
+    "flow": {
+      "name": "bifrost"
+    }
   },
   {
     "paraid": "2013",
