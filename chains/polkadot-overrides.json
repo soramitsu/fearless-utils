@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "forcedIndex": 24,
+      "name": "Utility",
       "properIndex": 26
     }
   ]
