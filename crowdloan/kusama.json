@@ -9,15 +9,15 @@
     "rewardRate": 12,
     "customFlow": "Karura",
     "flow": {
-      "name": "karura"
-    },
-    "data": {
-             "devApiUrl": "",
-             "prodApiUrl": "",
-             "devApiKey":"",
-             "prodApiKey": "",
-             "termsUrl": ""
-         }
+      "name": "karura",
+      "data": {
+        "devApiUrl": "",
+        "prodApiUrl": "",
+        "devApiKey":"",
+        "prodApiKey": "",
+        "termsUrl": ""
+      }
+    }
   },
   {
     "paraid": "2007",
@@ -38,15 +38,15 @@
     "rewardRate": 22,
     "customFlow": "Bifrost",
     "flow": {
-      "name": "bifrost"
-    },
-    "data": {
-             "devApiUrl": "",
-             "prodApiUrl": "",
-             "devApiKey":"",
-             "prodApiKey": "",
-             "termsUrl": ""
-         }
+      "name": "bifrost",
+      "data": {
+        "devApiUrl": "",
+        "prodApiUrl": "",
+        "devApiKey":"",
+        "prodApiKey": "",
+        "termsUrl": ""
+      }
+    }
   },
   {
     "paraid": "2013",
