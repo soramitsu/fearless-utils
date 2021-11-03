@@ -10,7 +10,14 @@
     "customFlow": "Karura",
     "flow": {
       "name": "karura"
-    }
+    },
+    "data": {
+             "devApiUrl": "",
+             "prodApiUrl": "",
+             "devApiKey":"",
+             "prodApiKey": "",
+             "termsUrl": ""
+         }
   },
   {
     "paraid": "2007",
@@ -32,7 +39,14 @@
     "customFlow": "Bifrost",
     "flow": {
       "name": "bifrost"
-    }
+    },
+    "data": {
+             "devApiUrl": "",
+             "prodApiUrl": "",
+             "devApiKey":"",
+             "prodApiKey": "",
+             "termsUrl": ""
+         }
   },
   {
     "paraid": "2013",
