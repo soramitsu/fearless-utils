@@ -25,14 +25,5 @@
              "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md"
          }
      }
-   },
-  {
-    "paraid": "2096",
-    "name": "Bit.Country Pioneer",
-    "token": "NEER",
-    "description": "An open protocol for managing & incentivizing communities using gamification",
-    "website": "https://bit.country/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/bitcountry.svg",
-    "rewardRate": 68
-  }
+   }
 ]
