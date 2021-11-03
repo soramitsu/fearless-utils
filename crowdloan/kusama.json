@@ -220,7 +220,7 @@
     "token": "HKO",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
     "website": "https://parallel.fi/index.html",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/heiko.svg",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/parallel.svg",
     "rewardRate": 200
   },
   {
