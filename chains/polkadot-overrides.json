@@ -1,8 +1,8 @@
 {
-  "modules": {
+  "modules": [
     {
       "forcedIndex": 24,
       "properIndex": 26
     }
-  }
+  ]
 }
