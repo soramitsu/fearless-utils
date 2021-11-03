@@ -9,7 +9,14 @@
     "rewardRate": 12,
     "customFlow": "Karura",
     "flow": {
-      "name": "karura"
+      "name": "karura",
+      "data": {
+        "devApiUrl": "",
+        "prodApiUrl": "",
+        "devApiKey":"",
+        "prodApiKey": "",
+        "termsUrl": ""
+      }
     }
   },
   {
@@ -31,7 +38,14 @@
     "rewardRate": 22,
     "customFlow": "Bifrost",
     "flow": {
-      "name": "bifrost"
+      "name": "bifrost",
+      "data": {
+        "devApiUrl": "",
+        "prodApiUrl": "",
+        "devApiKey":"",
+        "prodApiKey": "",
+        "termsUrl": ""
+      }
     }
   },
   {
