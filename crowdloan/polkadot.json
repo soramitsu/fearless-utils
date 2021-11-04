@@ -16,7 +16,7 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg"
   },
   {
-     "paraid": "2002",
+     "paraid": "2004",
      "name": "Moonbeam",
      "token": "GLMR",
      "description": "Ethereum-compatible smart contract parachain on Polkadot",
