@@ -13,15 +13,15 @@
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
   },
   {
-     "paraid": "2002",
+     "paraid": "2004",
      "name": "Moonbeam",
      "token": "GLMR",
      "description": "Ethereum-compatible smart contract parachain on Polkadot",
-     "website": "https://moonbeam.network",
-     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/moonbeam.png",
+     "website": "https://moonbeam.network/",
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
      "flow": {
          "name": "moonbeam",
          "data": {
