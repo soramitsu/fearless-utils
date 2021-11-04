@@ -26,7 +26,6 @@
      "description": "Astar is the Polkadot-native dApp hub supporting Ethereum, WebAssembly, dApp Staking, and Layer2 solutions",
      "website": "https://astar.network/",
      "icon": "https://astar.network/images/brand-logo-mark.png",
-     "rewardRate": 10,
      "flow": {
          "name": "astar",
          "data": {
