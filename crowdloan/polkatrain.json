@@ -17,5 +17,20 @@
              "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md"
          }
      }
+   },
+   {
+     "paraid": "2001",
+     "name": "Astar",
+     "token": "ASTR",
+     "description": "Astar is the Polkadot-native dApp hub supporting Ethereum, WebAssembly, dApp Staking, and Layer2 solutions",
+     "website": "https://astar.network/",
+     "icon": "https://astar.network/images/brand-logo-mark.png",
+     "rewardRate": 10,
+     "flow": {
+         "name": "astar",
+         "data": {
+             "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k"
+         }
+     }
    }
 ]
