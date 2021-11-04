@@ -8,13 +8,20 @@
     "icon": "https://ibb.co/rbCbMCT"
   },
   {
+    "paraid": "2000",
+    "name": "Acala",
+    "token": "ACA",
+    "description": "All-in-one DeFi hub of Polkadot",
+    "website": "https://acala.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg"
+  },
+  {
      "paraid": "2002",
      "name": "Moonbeam",
      "token": "GLMR",
      "description": "Ethereum-compatible smart contract parachain on Polkadot",
      "website": "https://moonbeam.network",
      "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/moonbeam.png",
-     "rewardRate": 10,
      "flow": {
          "name": "moonbeam",
          "data": {
