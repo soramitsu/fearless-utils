@@ -33,6 +33,9 @@
      "description": "A Multi Chain Polkadot DApp Hub",
      "website": "https://astar.network/",
      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png"
+     "flow": {
+         "name": "astar"
+     }
    },
   {
     "paraid": "2013",
