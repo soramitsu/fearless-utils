@@ -32,5 +32,13 @@
              "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md"
          }
      }
+   },
+   {
+     "paraid": "2012",
+     "name": "Parallel",
+     "token": "PARA",
+     "description": "A decentralized lending & staking protocol built on top of the Polkadot ecosystem.",
+     "website": "https://parallel.fi/index.html",
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
    }
 ]
