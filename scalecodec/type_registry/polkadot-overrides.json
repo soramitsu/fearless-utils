@@ -12,6 +12,15 @@
           "value": "0x00751200"
         }
       ]
+    },
+    {
+      "name": "Crowdloan",
+      "constants": [
+        {
+          "name": "MinContribution",
+          "value": "0x00743ba40b0000000000000000000000"
+        }
+      ]
     }
   ]
 }
