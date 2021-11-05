@@ -31,5 +31,13 @@
              "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k"
          }
      }
-   }
+   },
+  {
+    "paraid": "2000",
+    "name": "Acala",
+    "token": "ACA",
+    "description": "All-in-one DeFi hub of Polkadot",
+    "website": "https://acala.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+  }
 ]
