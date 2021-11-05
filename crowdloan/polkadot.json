@@ -33,5 +33,13 @@
      "description": "A Multi Chain Polkadot DApp Hub",
      "website": "https://astar.network/",
      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png"
+   },
+  {
+    "paraid": "2013",
+    "name": "Litentry",
+    "token": "LIT",
+    "description": "A Decentralised Identity Aggregation protocol across multiple networks",
+    "website": "https://www.litentry.com/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
    }
 ]
