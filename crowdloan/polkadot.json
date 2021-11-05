@@ -39,6 +39,6 @@
      "token": "PARA",
      "description": "A decentralized lending & staking protocol built on top of the Polkadot ecosystem.",
      "website": "https://parallel.fi/index.html",
-     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/parallel.svg"
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
    }
 ]
