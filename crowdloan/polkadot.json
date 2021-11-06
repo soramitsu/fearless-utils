@@ -49,5 +49,13 @@
     "description": "Incentives decentralized storage & cloud ecosystem on Polkadot",
     "website": "https://crust.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png"
+  },
+  {
+    "paraid": "2012",
+    "name": "Paralel Finance",
+    "token": "PARA",
+    "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
+    "website": "https://parallel.fi/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
   }
 ]
