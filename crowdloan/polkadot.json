@@ -43,14 +43,6 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
    },
   {
-    "paraid": "2002",
-    "name": "Crust network",
-    "token": "CRU",
-    "description": "Incentivized decentralized storage & cloud ecosystem on Polkadot",
-    "website": "https://crust.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png"
-  },
-  {
     "paraid": "2012",
     "name": "Parallel Finance",
     "token": "PARA",
