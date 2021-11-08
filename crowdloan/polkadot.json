@@ -36,9 +36,7 @@
      "flow": {
                "name": "astar",
                "data": {
-                   "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
-                   "bonusRate":0,
-                   "referralRate": 0.01
+                   "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k"
                }
            }
    },
