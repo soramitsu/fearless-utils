@@ -65,5 +65,13 @@
     "description": "An interoperable privacy layer for the Polkadot ecosystem",
     "website": "https://manta.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/manta.png"
+  },
+  {
+    "paraid": "2018",
+    "name": "SubDAO",
+    "token": "GOV",
+    "description": "A Polkadot-based DAO management platform",
+    "website": "https://www.subdao.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subdao.png"
   }
 ]
