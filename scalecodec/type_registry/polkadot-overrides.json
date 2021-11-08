@@ -2,13 +2,26 @@
   "modules": [
     { "name": "System", "index": 0 },
     { "name": "Scheduler", "index": 1 },
+    {
+      "name": "Babe",
+      "index": 2,
+      "constants": [
+        {
+          "name": "EpochDuration",
+          "value": "0x6009000000000000"
+        }
+      ]
+    },
+    { "name": "Timestamp", "index": 3 },
     { "name": "Indices", "index": 4 },
     { "name": "Balances", "index": 5 },
+    { "name": "Authorship", "index": 6 },
     { "name": "Staking", "index": 7 },
     { "name": "Offences", "index": 8 },
     { "name": "Session", "index": 9 },
     { "name": "Grandpa", "index": 11 },
     { "name": "ImOnline", "index": 12 },
+    { "name": "Session", "index": 13 },
     { "name": "Democracy", "index": 14 },
     { "name": "Council", "index": 15 },
     { "name": "TechnicalCommittee", "index": 16 },
@@ -24,8 +37,13 @@
     { "name": "Bounties", "index": 34 },
     { "name": "Tips", "index": 35 },
     { "name": "ElectionProviderMultiPhase", "index": 36 },
+    { "name": "Configuration", "index": 51 },
+    { "name": "ParasShared", "index": 52 },
     { "name": "ParaInclusion", "index": 53 },
+    { "name": "ParaInherent", "index": 54 },
     { "name": "Paras", "index": 56 },
+    { "name": "Initializer", "index": 57 },
+    { "name": "Dmp", "index": 58 },
     { "name": "Ump", "index": 59 },
     { "name": "Hrmp", "index": 60 },
     { "name": "Registrar", "index": 70 },
