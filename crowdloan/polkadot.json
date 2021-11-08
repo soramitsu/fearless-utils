@@ -57,5 +57,13 @@
     "description": "A substrate-based smart contract platform built for Polkadot",
     "website": "https://clover.finance/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/clover.png"
+  },
+  {
+    "paraid": "2015",
+    "name": "Manta",
+    "token": "MANTA",
+    "description": "An interoperable privacy layer for the Polkadot ecosystem",
+    "website": "https://manta.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/manta.png"
   }
 ]
