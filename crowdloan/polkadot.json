@@ -34,7 +34,7 @@
      "website": "https://astar.network/",
      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png",
      "flow": {
-               "name": "",
+               "name": "astar",
                "data": {
                    "devApiUrl": "",
                    "prodApiUrl": "",
