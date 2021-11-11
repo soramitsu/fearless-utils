@@ -86,5 +86,13 @@
     "description": "A Polkadot-based DAO management platform",
     "website": "https://www.subdao.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subdao.png"
+  },
+  {
+    "paraid": "2017",
+    "name": "SubGame Gamma",
+    "token": "GSGB",
+    "description": "A public chain focusing on cross-chain interoperability for various applications including gaming",
+    "website": "https://www.subgame.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subgame.png"
   }
 ]
