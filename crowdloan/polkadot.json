@@ -5,7 +5,21 @@
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png",
+    "flow": {
+      "name": "acala",
+      "data": {
+        "devApiUrl": "https://crowdloan.aca-dev.network",
+        "prodApiUrl": "https://crowdloan.aca-api.network",
+        "devApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0MDg1OTg0fQ.3joSiklSRDNrCtVMQc6ReRnEgtp65QOzRt8IPA4bMtw",
+        "prodApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0Nzg2MDc3fQ.zwz3BSD68AKjo1BySkzrh7SfzO8yF-8YBhgiKZyE5lQ",
+        "bonusUrl": "https://wiki.acala.network/acala/acala-crowdloan/crowdloan-rewards",
+        "termsUrl": "https://acala.network/acala/terms",
+        "crowdloanInfoUrl": "https://wiki.acala.network/acala/acala-crowdloan/faq",
+        "fearlessReferral": "0x9642d0db9f3b301b44df74b63b0b930011e3f52154c5ca24b4dc67b3c7322f15",
+        "totalReward": "170000000"
+      }
+    }
   },
   {
      "paraid": "2004",
