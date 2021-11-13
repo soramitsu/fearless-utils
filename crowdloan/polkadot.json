@@ -7,7 +7,7 @@
     "website": "https://acala.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png",
     "flow": {
-      "name": "acala",
+      "name": "",
       "data": {
         "devApiUrl": "https://crowdloan.aca-dev.network",
         "prodApiUrl": "https://crowdloan.aca-api.network",
