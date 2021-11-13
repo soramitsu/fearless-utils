@@ -16,7 +16,7 @@
         "bonusUrl": "https://wiki.acala.network/acala/acala-crowdloan/crowdloan-rewards",
         "termsUrl": "https://acala.network/acala/terms",
         "crowdloanInfoUrl": "https://wiki.acala.network/acala/acala-crowdloan/faq",
-        "fearlessReferral": "0x9642d0db9f3b301b44df74b63b0b930011e3f52154c5ca24b4dc67b3c7322f15",
+        "fearlessReferral": "",
         "totalReward": "170000000"
       }
     }
