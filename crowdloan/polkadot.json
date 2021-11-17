@@ -6,7 +6,7 @@
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png",
-    "endingBlock": 1,
+    "disabled": true,
     "flow": {
       "name": "",
       "data": {
