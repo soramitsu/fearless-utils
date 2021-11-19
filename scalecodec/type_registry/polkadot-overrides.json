@@ -14,7 +14,16 @@
     },
     { "name": "Timestamp", "index": 3 },
     { "name": "Indices", "index": 4 },
-    { "name": "Balances", "index": 5 },
+    {
+      "name": "Balances",
+      "index": 5,
+      "constants": [
+        {
+          "name": "ExistentialDeposit",
+          "value": "0x00e40b54020000000000000000000000"
+        }
+      ]
+    },
     { "name": "Authorship", "index": 6 },
     {
       "name": "Staking",
