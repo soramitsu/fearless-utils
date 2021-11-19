@@ -123,6 +123,6 @@
     "token": "EFI",
     "description": "A next-generation blockchain to serve as the infrastructure of the decentralized metaverse",
     "website": "https://enjin.io/products/efinity",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/efinity.png"
   }
 ]
