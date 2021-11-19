@@ -113,8 +113,15 @@
     "paraid": "2003",
     "name": "Darwinia",
     "token": "RING",
-    "description": "the next generation of Web3.0 Metaverse",
+    "description": "The next generation of Web3.0 Metaverse",
     "website": "https://darwinia.network/plo",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/darwinia.png"
+  },
+  {
+    "paraid": "2021",
+    "name": "Efinity",
+    "token": "EFI",
+    "description": "A next-generation blockchain to serve as the infrastructure of the decentralized metaverse",
+    "website": "https://enjin.io/products/efinity"
   }
 ]
