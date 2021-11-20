@@ -29,7 +29,7 @@
      "website": "https://moonbeam.network/",
      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
      "flow": {
-         "name": "moonbeam",
+         "name": "",
          "data": {
              "devApiUrl": "https://wallet-test.api.purestake.xyz",
              "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
