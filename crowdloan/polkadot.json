@@ -124,5 +124,13 @@
     "description": "A next-generation blockchain to serve as the infrastructure of the decentralized metaverse",
     "website": "https://enjin.io/products/efinity",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/efinity.png"
+  },
+  {
+    "paraid": "2028",
+    "name": "Ares Protocol",
+    "token": "ARES",
+    "description": "A Decentralized Cross-Chain Oracle Platform",
+    "website": "https://www.aresprotocol.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/ares.png"
   }
 ]
