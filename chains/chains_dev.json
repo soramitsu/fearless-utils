@@ -262,7 +262,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/moonriver.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/moonriver.json",
             "overridesCommon": false
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
