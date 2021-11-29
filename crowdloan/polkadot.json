@@ -25,7 +25,7 @@
      "paraid": "2004",
      "name": "Moonbeam",
      "token": "GLMR",
-     "description": "THE MOONBEAM CROWDLOAN IS OVER. NO MORE CONTRIBUTIONS WILL BE ACCEPTED.",
+     "description": "Ethereum-compatible smart contract parachain on Polkadot",
      "website": "https://moonbeam.network/",
      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
      "flow": {
