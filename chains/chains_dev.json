@@ -29,7 +29,7 @@
         "addressPrefix": 0,
         "types": {
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/scalecodec/type_registry/polkadot_v14.json",
-            "overridesCommon": false
+            "overridesCommon": true
         },
         "externalApi": {
             "staking": {
