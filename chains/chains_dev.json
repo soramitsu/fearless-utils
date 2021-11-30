@@ -180,7 +180,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/statemine.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/statemine.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
