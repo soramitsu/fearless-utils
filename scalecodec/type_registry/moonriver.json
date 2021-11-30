@@ -1,26 +1,22 @@
 {
-  "runtime_id": 1,
-  "types": {
-    "EthereumSignature": {
-      "type": "struct",
-      "type_mapping": [
-        [
-          "r",
-          "H256"
-        ],
-        [
-          "s",
-          "H256"
-        ],
-        [
-          "v",
-          "u8"
-        ]
-      ]
-    },
-    "AccountId": "[u8; 20]",
-    "ExtrinsicSignature": "EthereumSignature",
-    "Address": "AccountId"
-  },
-  "versioning": []
+  "runtime_id": 900,
+  "types": { },
+  "versioning": [
+    {
+      "runtime_range": [
+        0,
+        null
+      ],
+      "types": {
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "75",
+        "Address": "0",
+        "ExtrinsicSignature": "232",
+        "ParaId": "101",
+        "21": "GenericEvent",
+        "169": "GenericCall"
+      }
+    }
+  ]
 }
