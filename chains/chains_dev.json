@@ -180,7 +180,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/statemine.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/statemine.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
@@ -225,7 +225,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/karura.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/karura.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
@@ -294,7 +294,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/shiden.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/shiden.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg",
@@ -326,7 +326,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/bifrost.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/bifrost.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
@@ -379,7 +379,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/kilt_spiritnet.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/kilt_spiritnet.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KILT%20Spiritnet.svg",
@@ -415,7 +415,7 @@
             }
         ],
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/calamari.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets/scalecodec/type_registry/calamari.json",
             "overridesCommon": true
         },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
