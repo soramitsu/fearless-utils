@@ -358,10 +358,6 @@
                 "name": "Phala node"
             }
         ],
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/khala.json",
-            "overridesCommon": true
-        },
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
         "addressPrefix": 30
     },
