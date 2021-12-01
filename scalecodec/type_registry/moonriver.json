@@ -11,11 +11,30 @@
         "Balance": "u128",
         "Index": "u32",
         "Phase": "75",
-        "Address": "0",
-        "ExtrinsicSignature": "232",
         "ParaId": "101",
         "21": "GenericEvent",
-        "169": "GenericCall"
+        "169": "GenericCall",
+        "EthereumSignature": {
+          "type": "struct",
+          "type_mapping": [
+            [
+              "r",
+              "H256"
+            ],
+            [
+              "s",
+              "H256"
+            ],
+            [
+              "v",
+              "u8"
+            ]
+          ]
+        },
+        "AccountId": "[u8; 20]",
+        "ExtrinsicSignature": "EthereumSignature",
+        "Address": "AccountId",
+        "Log": "EvmLog"
       }
     }
   ]
