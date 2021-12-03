@@ -272,5 +272,13 @@
     "description": "Subsocial - Decentralized social network on Polkadot & IPFS",
     "website": "https://subsocial.network/",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/subsocial.svg"
+  },
+  {
+    "paraid": "2101",
+    "name": "Zeitgest",
+    "token": "ZTG",
+    "description": "A decentralized network for creating, betting on, and resolving prediction markets",
+    "website": "https://zeitgeist.pm/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/zeitgest.png"
   }
 ]
