@@ -3,10 +3,11 @@
      "paraid": "2002",
      "name": "Moonbeam",
      "token": "GLMR",
-     "description": "Ethereum-compatible smart contract parachain on Polkadot",
+     "description": "THE MOONBEAM CROWDLOAN IS STOPPED. NO MORE CONTRIBUTION IS ACCEPTED.",
      "website": "https://moonbeam.network",
      "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/moonbeam.png",
-     "flow": {
+     "disabled": true,
+      "flow": {
          "name": "moonbeam",
          "data": {
              "devApiUrl": "https://wallet-test.api.purestake.xyz",
@@ -31,5 +32,13 @@
              "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k"
          }
      }
-   }
+   },
+  {
+    "paraid": "2000",
+    "name": "Acala",
+    "token": "ACA",
+    "description": "All-in-one DeFi hub of Polkadot",
+    "website": "https://acala.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+  }
 ]

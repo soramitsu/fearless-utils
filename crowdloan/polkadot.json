@@ -1,19 +1,25 @@
 [
   {
-    "paraid": "1",
-    "name": "name",
-    "token": "DOT",
-    "description": "description",
-    "website": "https://polkadot.network/",
-    "icon": "https://ibb.co/rbCbMCT"
-  },
-  {
     "paraid": "2000",
     "name": "Acala",
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png",
+    "flow": {
+      "name": "",
+      "data": {
+        "devApiUrl": "https://crowdloan.aca-dev.network",
+        "prodApiUrl": "https://crowdloan.aca-api.network",
+        "devApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0MDg1OTg0fQ.3joSiklSRDNrCtVMQc6ReRnEgtp65QOzRt8IPA4bMtw",
+        "prodApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZmVhcmVsZXNzd2FsbGV0IiwiaWF0IjoxNjM0Nzg2MDc3fQ.zwz3BSD68AKjo1BySkzrh7SfzO8yF-8YBhgiKZyE5lQ",
+        "bonusUrl": "https://wiki.acala.network/acala/acala-crowdloan/crowdloan-rewards",
+        "termsUrl": "https://acala.network/acala/terms",
+        "crowdloanInfoUrl": "https://wiki.acala.network/acala/acala-crowdloan/faq",
+        "fearlessReferral": "",
+        "totalReward": "170000000"
+      }
+    }
   },
   {
      "paraid": "2004",
@@ -29,8 +35,102 @@
              "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
              "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
              "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
-             "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md"
+             "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md",
+             "crowdloanInfoUrl": "https://moonbeam.foundation/moonbeam-crowdloan/"
          }
      }
-   }
+   },
+  {
+     "paraid": "2006",
+     "name": "Astar",
+     "token": "ASTR",
+     "description": "A Multi Chain Polkadot DApp Hub",
+     "website": "https://astar.network/",
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png",
+     "flow": {
+               "name": "astar",
+               "data": {
+                   "devApiUrl": "",
+                   "prodApiUrl": "",
+                   "devApiKey": "",
+                   "prodApiKey": "",
+                   "termsUrl": "",
+                   "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
+                   "bonusRate": 0,
+                   "referralRate": 0.01
+               }
+           }
+   },
+  {
+    "paraid": "2013",
+    "name": "Litentry",
+    "token": "LIT",
+    "description": "A Decentralised Identity Aggregation protocol across multiple networks",
+    "website": "https://www.litentry.com/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
+   },
+  {
+    "paraid": "2012",
+    "name": "Parallel Finance",
+    "token": "PARA",
+    "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
+    "website": "https://parallel.fi/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
+  },
+  {
+    "paraid": "2002",
+    "name": "Clover",
+    "token": "CLV",
+    "description": "A substrate-based smart contract platform built for Polkadot",
+    "website": "https://clover.finance/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/clover.png"
+  },
+  {
+    "paraid": "2015",
+    "name": "Manta",
+    "token": "MANTA",
+    "description": "An interoperable privacy layer for the Polkadot ecosystem",
+    "website": "https://manta.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/manta.png"
+  },
+  {
+    "paraid": "2018",
+    "name": "SubDAO",
+    "token": "GOV",
+    "description": "A Polkadot-based DAO management platform",
+    "website": "https://www.subdao.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subdao.png"
+  },
+  {
+    "paraid": "2017",
+    "name": "SubGame Gamma",
+    "token": "GSGB",
+    "description": "A public chain focusing on cross-chain interoperability for various applications including gaming",
+    "website": "https://www.subgame.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subgame.png"
+  },
+  {
+    "paraid": "2003",
+    "name": "Darwinia",
+    "token": "RING",
+    "description": "The next generation of Web3.0 Metaverse",
+    "website": "https://darwinia.network/plo",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/darwinia.png"
+  },
+  {
+    "paraid": "2021",
+    "name": "Efinity",
+    "token": "EFI",
+    "description": "A next-generation blockchain to serve as the infrastructure of the decentralized metaverse",
+    "website": "https://enjin.io/products/efinity",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/efinity.png"
+  },
+  {
+    "paraid": "2028",
+    "name": "Ares Protocol",
+    "token": "ARES",
+    "description": "A Decentralized Cross-Chain Oracle Platform",
+    "website": "https://www.aresprotocol.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/ares.png"
+  }
 ]
