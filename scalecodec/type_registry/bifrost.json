@@ -1,5 +1,5 @@
 {
-  "runtime_id": 909,
+  "runtime_id": 910,
   "types": { },
   "versioning": [
     {
@@ -10,12 +10,12 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "130",
-        "Address": "191",
-        "ExtrinsicSignature": "482",
+        "Phase": "131",
+        "Address": "192",
+        "ExtrinsicSignature": "496",
         "ParaId": "117",
         "20": "GenericEvent",
-        "244": "GenericCall"
+        "245": "GenericCall"
       }
     }
   ]
