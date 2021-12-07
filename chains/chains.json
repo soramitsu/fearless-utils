@@ -158,7 +158,8 @@
                 "assetId": 0,
                 "symbol": "KSM",
                 "precision": 12,
-                "priceId": "kusama"
+                "priceId": "kusama",
+                "name": "Kusama"
             }
         ],
         "nodes": [
