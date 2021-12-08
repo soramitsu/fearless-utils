@@ -1,0 +1,109 @@
+[
+  {
+    "id": "dot",
+    "originalNetwork": "Polkadot",
+    "symbol": "DOT",
+    "precision": 10,
+    "priceId": "polkadot",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+  },
+  {
+    "id": "ksm",
+    "originalNetwork": "Kusama",
+    "symbol": "KSM",
+    "precision": 12,
+    "priceId": "kusama",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+  },
+  {
+    "id": "wnd",
+    "originalNetwork": "Westend",
+    "symbol": "WND",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg"
+  },
+  {
+    "id": "kar",
+    "originalNetwork": "Karura",
+    "symbol": "KAR",
+    "precision": 12,
+    "priceId": "karura",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+  },
+  {
+    "id": "movr",
+    "originalNetwork": "Moonriver",
+    "symbol": "MOVR",
+    "precision": 18,
+    "priceId": "moonriver",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg"
+  },
+  {
+    "id": "sdn",
+    "originalNetwork": "Shiden",
+    "symbol": "SDN",
+    "precision": 18,
+    "priceId": "shiden",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg"
+  },
+  {
+    "id": "bnc",
+    "originalNetwork": "BifrostBonusService",
+    "symbol": "BNC",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg"
+  },
+  {
+    "id": "xor",
+    "originalNetwork": "SORA",
+    "symbol": "XOR",
+    "precision": 18,
+    "priceId": "sora",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg"
+  },
+  {
+    "id": "pha",
+    "originalNetwork": "Khala",
+    "symbol": "PHA",
+    "precision": 12,
+    "priceId": "pha",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg"
+  },
+  {
+    "id": "edg",
+    "originalNetwork": "Edgeware",
+    "symbol": "EDG",
+    "precision": 18,
+    "priceId": "edgeware",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Edgeware.svg"
+  },
+  {
+    "id": "sub",
+    "originalNetwork": "Subsocial",
+    "symbol": "SUB",
+    "precision": 11,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Subsocial.svg"
+  },
+  {
+    "id": "klp",
+    "originalNetwork": "Kulupu",
+    "symbol": "KLP",
+    "precision": 12,
+    "priceId": "kulupu",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kulupu.svg"
+  },
+  {
+    "id": "kilt",
+    "originalNetwork": "KILT",
+    "symbol": "KILT",
+    "precision": 15,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KILT%20Spiritnet.svg"
+  },
+  {
+    "id": "kma",
+    "originalNetwork": "Calamari",
+    "symbol": "KMA",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg"
+  }
+]
