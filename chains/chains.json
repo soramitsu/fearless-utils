@@ -293,8 +293,7 @@
         "name": "Bifrost",
         "assets": [
             {
-                "assetId": "bnc",
-                "native": true
+                "assetId": "bnc"
             }
         ],
         "nodes": [
