@@ -5,11 +5,11 @@
         "externalApi": {
           "staking": {
             "type": "subquery",
-            "url": "api.subquery.network/sq/ef1rspb/fearless-wallet"
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
           },
           "history": {
              "type": "subquery",
-             "url": "api.subquery.network/sq/ef1rspb/fearless-wallet"
+             "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
           }
         },
         "assets": [
@@ -57,16 +57,16 @@
         "externalApi": {
           "staking": {
             "type": "subquery",
-            "url": "api.subquery.network/sq/ef1rspb/fearless-wallet-ksm"
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
           },
           "history": {
             "type": "subquery",
-            "url": "api.subquery.network/sq/ef1rspb/fearless-wallet-ksm"
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
           }
         },
         "assets": [
             {
-                "assetId": 0,
+                "assetId": "ksm",
                 "native": true,
                 "staking": "relaychain",
                 "options": [
@@ -109,16 +109,16 @@
         "externalApi": {
           "staking": {
             "type": "subquery",
-            "url": "api.subquery.network/sq/ef1rspb/fearless-wallet-westend"
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
           },
           "history": {
             "type": "subquery",
-            "url": "api.subquery.network/sq/ef1rspb/fearless-wallet-westend"
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
           }
         },
         "assets": [
             {
-                "assetId": "westend",
+                "assetId": "wnd",
                 "native": true
             }
         ],
@@ -157,7 +157,7 @@
         "name": "Statemine",
         "assets": [
             {
-                "assetId": "kusama",
+                "assetId": "ksm",
                 "native": false
             }
         ],
@@ -188,7 +188,7 @@
         "name": "Karura",
         "assets": [
             {
-                "assetId": "karura",
+                "assetId": "kar",
                 "native": true
             }
         ],
@@ -231,7 +231,7 @@
         "name": "Moonriver",
         "assets": [
             {
-                "assetId": "karura",
+                "assetId": "movr",
                 "native": true
             }
         ],
@@ -269,7 +269,7 @@
         "name": "Shiden",
         "assets": [
             {
-                "assetId": "shiden",
+                "assetId": "sdn",
                 "native": true
             }
         ],
@@ -300,7 +300,7 @@
         "name": "Bifrost",
         "assets": [
             {
-                "assetId": "bifrost",
+                "assetId": "bnc",
                 "native": true
             }
         ],
@@ -330,7 +330,7 @@
         "name": "SORA",
         "assets": [
             {
-                "assetId": "sora",
+                "assetId": "xor",
                 "native": true
             }
         ],
@@ -365,7 +365,7 @@
         "name": "Khala",
         "assets": [
             {
-                "assetId": "khala",
+                "assetId": "pha",
                 "native": true
             }
         ],
@@ -391,7 +391,7 @@
         "name": "Edgeware",
         "assets": [
             {
-                "assetId": "edgeware",
+                "assetId": "edg",
                 "native": true
             }
         ],
@@ -421,7 +421,7 @@
         "name": "Subsocial",
         "assets": [
             {
-                "assetId": "subsocial",
+                "assetId": "sub",
                 "native": true
             }
         ],
@@ -443,7 +443,7 @@
         "name": "Kulupu",
         "assets": [
             {
-                "assetId": "kulupu",
+                "assetId": "klp",
                 "native": true
             }
         ],
@@ -493,7 +493,7 @@
         "name": "Calamari",
         "assets": [
             {
-                "assetId": "calamari",
+                "assetId": "kma",
                 "native": true
             }
         ],
