@@ -280,5 +280,13 @@
     "description": "A decentralized network for creating, betting on, and resolving prediction markets",
     "website": "https://zeitgeist.pm/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/zeitgeist.png"
+  },
+  {
+    "paraid": "2048",
+    "name": "Robonomics",
+    "token": "XRT",
+    "description": "An open-source platform for IoT applications",
+    "website": "https://robonomics.network",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/robonomics.png"
   }
 ]
