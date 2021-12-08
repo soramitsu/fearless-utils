@@ -15,9 +15,8 @@
         "assets": [
             {
                 "assetId": "dot",
-                "native": true,
                 "staking": "relaychain",
-                "options": [
+                "purchaseProviders": [
                   "moonpay",
                   "ramp"
                 ]
@@ -67,9 +66,8 @@
         "assets": [
             {
                 "assetId": "ksm",
-                "native": true,
                 "staking": "relaychain",
-                "options": [
+                "purchaseProviders": [
                   "moonpay",
                   "ramp"
                 ]
@@ -118,8 +116,7 @@
         },
         "assets": [
             {
-                "assetId": "wnd",
-                "native": true
+                "assetId": "wnd"
             }
         ],
         "nodes": [
@@ -157,8 +154,7 @@
         "name": "Statemine",
         "assets": [
             {
-                "assetId": "ksm",
-                "native": false
+                "assetId": "ksm"
             }
         ],
         "nodes": [
@@ -188,8 +184,7 @@
         "name": "Karura",
         "assets": [
             {
-                "assetId": "kar",
-                "native": true
+                "assetId": "kar"
             }
         ],
         "nodes": [
@@ -231,8 +226,7 @@
         "name": "Moonriver",
         "assets": [
             {
-                "assetId": "movr",
-                "native": true
+                "assetId": "movr"
             }
         ],
         "nodes": [
@@ -269,8 +263,7 @@
         "name": "Shiden",
         "assets": [
             {
-                "assetId": "sdn",
-                "native": true
+                "assetId": "sdn"
             }
         ],
         "nodes": [
@@ -330,8 +323,7 @@
         "name": "SORA",
         "assets": [
             {
-                "assetId": "xor",
-                "native": true
+                "assetId": "xor"
             }
         ],
         "nodes": [
@@ -365,8 +357,7 @@
         "name": "Khala",
         "assets": [
             {
-                "assetId": "pha",
-                "native": true
+                "assetId": "pha"
             }
         ],
         "nodes": [
@@ -391,8 +382,7 @@
         "name": "Edgeware",
         "assets": [
             {
-                "assetId": "edg",
-                "native": true
+                "assetId": "edg"
             }
         ],
         "nodes": [
@@ -421,8 +411,7 @@
         "name": "Subsocial",
         "assets": [
             {
-                "assetId": "sub",
-                "native": true
+                "assetId": "sub"
             }
         ],
         "nodes": [
@@ -443,8 +432,7 @@
         "name": "Kulupu",
         "assets": [
             {
-                "assetId": "klp",
-                "native": true
+                "assetId": "klp"
             }
         ],
         "nodes": [
@@ -466,8 +454,7 @@
         "name": "KILT Spiritnet",
         "assets": [
             {
-                "assetId": "kilt",
-                "native": true
+                "assetId": "kilt"
             }
         ],
         "nodes": [
@@ -493,8 +480,7 @@
         "name": "Calamari",
         "assets": [
             {
-                "assetId": "kma",
-                "native": true
+                "assetId": "kma"
             }
         ],
         "nodes": [
