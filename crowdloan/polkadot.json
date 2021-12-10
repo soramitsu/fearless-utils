@@ -132,5 +132,13 @@
     "description": "A Decentralized Cross-Chain Oracle Platform",
     "website": "https://www.aresprotocol.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/ares.png"
+  },
+  {
+    "paraid": "2008",
+    "name": "Crust",
+    "token": "CRU",
+    "description": "A decentralized storage network of Web3.0 ecosystem",
+    "website": "https://crust.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png"
   }
 ]
