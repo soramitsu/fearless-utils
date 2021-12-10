@@ -2,13 +2,28 @@
     {
         "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Polkadot",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+            },
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
+            }
+        },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "DOT",
-                "precision": 10,
-                "priceId": "polkadot",
-                "staking": "relaychain"
+                "assetId": "dot",
+                "staking": "relaychain",
+                "purchaseProviders": [
+                    "moonpay",
+                    "ramp"
+                ]
             }
         ],
         "nodes": [
@@ -28,22 +43,8 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/valentunn/py-scale-codec/fearless_stable/scalecodec/type_registry/polkadot.json",
+            "url": "https://raw.githubusercontent.com/polkascan/py-scale-codec/master/scalecodec/type_registry/polkadot.json",
             "overridesCommon": false
-        },
-        "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet"
-            },
-            "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet"
-            },
-            "crowdloans": {
-                "type": "github",
-                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
-            }
         },
         "options": [
             "crowdloans"
@@ -52,13 +53,28 @@
     {
         "chainId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Kusama",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+            },
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
+            }
+        },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KSM",
-                "precision": 12,
-                "priceId": "kusama",
-                "staking": "relaychain"
+                "assetId": "ksm",
+                "staking": "relaychain",
+                "purchaseProviders": [
+                    "moonpay",
+                    "ramp"
+                ]
             }
         ],
         "nodes": [
@@ -78,22 +94,8 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
         "addressPrefix": 2,
         "types": {
-            "url": "https://raw.githubusercontent.com/valentunn/py-scale-codec/fearless_stable/scalecodec/type_registry/kusama.json",
+            "url": "https://raw.githubusercontent.com/polkascan/py-scale-codec/master/scalecodec/type_registry/kusama.json",
             "overridesCommon": false
-        },
-        "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet-ksm"
-            },
-            "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet-ksm"
-            },
-            "crowdloans": {
-                "type": "github",
-                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
-            }
         },
         "options": [
             "crowdloans"
@@ -102,12 +104,23 @@
     {
         "chainId": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
         "name": "Westend",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+            },
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
+            }
+        },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "WND",
-                "precision": 12,
-                "staking": "relaychain"
+                "assetId": "wnd"
             }
         ],
         "nodes": [
@@ -131,22 +144,8 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
         "addressPrefix": 42,
         "types": {
-            "url": "https://raw.githubusercontent.com/valentunn/py-scale-codec/fearless_stable/scalecodec/type_registry/westend.json",
+            "url": "https://raw.githubusercontent.com/polkascan/py-scale-codec/master/scalecodec/type_registry/westend.json",
             "overridesCommon": false
-        },
-        "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet-westend"
-            },
-            "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/ef1rspb/fearless-wallet-westend"
-            },
-            "crowdloans": {
-                "type": "github",
-                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
-            }
         },
         "options": [
             "testnet",
@@ -159,10 +158,7 @@
         "name": "Statemine",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KSM",
-                "precision": 12,
-                "priceId": "kusama"
+                "assetId": "ksm"
             }
         ],
         "nodes": [
@@ -188,10 +184,7 @@
         "name": "Karura",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KAR",
-                "precision": 12,
-                "priceId": "karura"
+                "assetId": "kar"
             }
         ],
         "nodes": [
@@ -229,10 +222,7 @@
         "name": "Moonriver",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "MOVR",
-                "precision": 18,
-                "priceId": "moonriver"
+                "assetId": "movr"
             }
         ],
         "nodes": [
@@ -269,10 +259,7 @@
         "name": "Shiden",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "SDN",
-                "precision": 18,
-                "priceId": "shiden"
+                "assetId": "sdn"
             }
         ],
         "nodes": [
@@ -298,9 +285,7 @@
         "name": "Bifrost",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "BNC",
-                "precision": 12
+                "assetId": "bnc"
             }
         ],
         "nodes": [
@@ -321,15 +306,45 @@
         "addressPrefix": 6
     },
     {
+        "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+        "name": "SORA",
+        "assets": [
+            {
+                "assetId": "xor"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://ws.mof.sora.org",
+                "name": "SORA Parliament Ministry of Finance 1"
+            },
+            {
+                "url": "wss://mof2.sora.org",
+                "name": "SORA Parliament Ministry of Finance 2"
+            },
+            {
+                "url": "wss://mof3.sora.org",
+                "name": "SORA Parliament Ministry of Finance 3"
+            },
+            {
+                "url": "wss://ws.alb.sora.org",
+                "name": "SORAMITSU node"
+            },
+            {
+                "url": "wss://sora.lux8.net",
+                "name": "SORA Community (Lux8)"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
+        "addressPrefix": 69
+    },
+    {
         "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Khala",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "PHA",
-                "precision": 12,
-                "priceId": "pha"
+                "assetId": "pha"
             }
         ],
         "nodes": [
@@ -346,14 +361,83 @@
         "addressPrefix": 30
     },
     {
+        "chainId": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
+        "name": "Edgeware",
+        "assets": [
+            {
+                "assetId": "edg"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://edgeware.api.onfinality.io/ws",
+                "name": "OnFinality node",
+                "apikey": {
+                    "queryName": "apikey",
+                    "keyName": "ONFINALITY"
+                }
+            },
+            {
+                "url": "wss://mainnet.edgewa.re",
+                "name": "Commonwealth Labs node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/edgeware",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Edgeware.svg",
+        "addressPrefix": 7
+    },
+    {
+        "chainId": "0bd72c1c305172e1275278aaeb3f161e02eccb7a819e63f62d47bd53a28189f8",
+        "name": "Subsocial",
+        "assets": [
+            {
+                "assetId": "sub"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc.subsocial.network",
+                "name": "DappForce node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/subsocial",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Subsocial.svg",
+        "addressPrefix": 28
+    },
+    {
+        "chainId": "f7a99d3cb92853d00d5275c971c132c074636256583fee53b3bbe60d7b8769ba",
+        "name": "Kulupu",
+        "assets": [
+            {
+                "assetId": "klp"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc.kulupu.corepaper.org/ws",
+                "name": "Kulupu node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/kulupu",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kulupu.svg",
+        "addressPrefix": 16
+    },
+    {
         "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KILT",
-                "precision": 15
+                "assetId": "kilt"
             }
         ],
         "nodes": [
@@ -375,9 +459,7 @@
         "name": "Calamari",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KMA",
-                "precision": 12
+                "assetId": "kma"
             }
         ],
         "nodes": [
