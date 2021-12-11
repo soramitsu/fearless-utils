@@ -140,5 +140,14 @@
     "description": "A decentralized storage network of Web3.0 ecosystem",
     "website": "https://crust.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png"
+  },
+  {
+    "paraid": "2026",
+    "name": "Nodle",
+    "token": "NODL",
+    "description": "The decentralized IoT network of Polkadot, providing secure, low-cost connectivity and data liquidity to billions of IoT devices",
+    "website": "https://www.nodle.com/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/nodle.svg",
+    "rewardRate": 20
   }
 ]
