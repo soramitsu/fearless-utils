@@ -28,7 +28,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/scalecodec/type_registry/polkadot_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/polkadot_v14.json",
             "overridesCommon": true
         },
         "externalApi": {
@@ -78,7 +78,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
         "addressPrefix": 2,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/scalecodec/type_registry/kusama_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/kusama_v14.json",
             "overridesCommon": true
         },
         "externalApi": {
@@ -131,7 +131,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
         "addressPrefix": 42,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/scalecodec/type_registry/westend_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/multi_assets_pankra/scalecodec/type_registry/westend_v14.json",
             "overridesCommon": true
         },
         "externalApi": {
