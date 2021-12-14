@@ -130,5 +130,77 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring-test-bad-json/scalecodec/type_registry/bifrost.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Statemine",
+        "assets": [
+            {
+                "assetId": "ksm"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://statemine.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://kusama-statemine-rpc.paritytech.net",
+                "name": "Parity node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/statemine",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
+        "addressPrefix": 2,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/statemine.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Karura",
+        "assets": [
+            {
+                "assetId": "kar"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://karura.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://karura-rpc-0.aca-api.network",
+                "name": "Acala Foundation node 0"
+            },
+            {
+                "url": "wss://karura-rpc-1.aca-api.network",
+                "name": "Acala Foundation node 1"
+            },
+            {
+                "url": "wss://karura-rpc-2.aca-api.network/ws",
+                "name": "Acala Foundation node 2"
+            },
+            {
+                "url": "wss://karura-rpc-3.aca-api.network/ws",
+                "name": "Acala Foundation node 3"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/karura",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
+        "addressPrefix": 8,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring-test-bad-json/scalecodec/type_registry/karura.json",
+            "overridesCommon": true
+        }
     }
 ]
