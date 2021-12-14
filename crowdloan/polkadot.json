@@ -149,5 +149,13 @@
     "website": "https://www.nodle.com/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/nodle.png",
     "rewardRate": 20
+  },
+  {
+    "paraid": "2032",
+    "name": "Interlay",
+    "token": "INTR",
+    "description": "A decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum.",
+    "website": "https://crowdloan.interlay.io",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/interlay.png",
   }
 ]
