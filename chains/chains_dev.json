@@ -100,5 +100,35 @@
         "options": [
             "crowdloans"
         ]
+    },
+    {
+        "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Bifrost",
+        "assets": [
+            {
+                "assetId": "bnc"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://bifrost-parachain.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://bifrost-rpc.liebi.com/ws",
+                "name": "Liebi node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/bifrost",
+                "name": "Patract node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
+        "addressPrefix": 6,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring-test-bad-json/scalecodec/type_registry/bifrost.json",
+            "overridesCommon": true
+        }
     }
 ]
