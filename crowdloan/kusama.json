@@ -288,5 +288,14 @@
     "description": "An open-source platform for IoT applications",
     "website": "https://robonomics.network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/robonomics.png"
+  },
+  {
+    "paraid": "2102",
+    "name": "Pichiu",
+    "token": "PCHU",
+    "description": "A cross-chain platform powering the data economy on Kusama",
+    "website": "https://kylin.network/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/pichiu.png",
+    "rewardRate": 350
   }
 ]
