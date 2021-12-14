@@ -154,8 +154,17 @@
     "paraid": "2032",
     "name": "Interlay",
     "token": "INTR",
-    "description": "A decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum.",
+    "description": "A decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum",
     "website": "https://crowdloan.interlay.io",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/interlay.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/interlay.png",
+    "rewardRate": 3
+  },
+  {
+    "paraid": "2027",
+    "name": "Coinversation",
+    "token": "CTO",
+    "description": "DEFI 2.0 protocol platform of Polkadot",
+    "website": "https://www.coinversation.io/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/coinversation.png"
   }
 ]
