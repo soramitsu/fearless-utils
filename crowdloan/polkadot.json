@@ -183,5 +183,14 @@
     "website": "https://crowdloan.composable.finance/",
     "icon": "",
     "rewardRate": 0.48
+  },
+  {
+    "paraid": "2031",
+    "name": "Centrifuge",
+    "token": "CFG",
+    "description": "A network that provides access to fast, cheap capital for small businesses and stable yield for investors",
+    "website": "https://centrifuge.io/parachain/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/centrifuge.png",
+    "rewardRate": 3.65
   }
 ]
