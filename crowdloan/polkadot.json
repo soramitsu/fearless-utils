@@ -181,6 +181,7 @@
     "token": "LAYR",
     "description": "A multifaceted project that is trying to solve Layer 2's problem in Ethereum and cross-chain interoperability in Polkadot",
     "website": "https://crowdloan.composable.finance/",
+    "icon": "",
     "rewardRate": 0.48
   }
 ]
