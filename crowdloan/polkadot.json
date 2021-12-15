@@ -174,5 +174,13 @@
     "description": "DEFI 2.0 protocol platform of Polkadot",
     "website": "https://www.coinversation.io/",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/coinversation.png"
+  },
+  {
+    "paraid": "2019",
+    "name": "Composable Finance",
+    "token": "LAYR",
+    "description": "A multifaceted project that is trying to solve Layer 2's problem in Ethereum and cross-chain interoperability in Polkadot",
+    "website": "https://crowdloan.composable.finance/",
+    "rewardRate": 0.48
   }
 ]
