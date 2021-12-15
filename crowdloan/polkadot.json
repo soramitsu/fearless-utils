@@ -157,6 +157,14 @@
     "description": "A decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum",
     "website": "https://crowdloan.interlay.io",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/interlay.png",
+    "flow": {
+       "name": "interlay",
+       "data": {
+         "fearlessReferral": "0xc9658d8231fbd691a07ced96b295c232622fb503feefe479d686f70b65216c10",
+         "crowdloanInfoUrl": "https://docs.interlay.io/#/interlay/crowdloans",
+         "bonusUrl": "https://docs.interlay.io/#/interlay/crowdloans?id=bonuses"
+       }
+     },
     "rewardRate": 3
   },
   {
