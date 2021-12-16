@@ -120,7 +120,8 @@
         },
         "assets": [
             {
-                "assetId": "wnd"
+                "assetId": "wnd",
+                "staking": "relaychain"
             }
         ],
         "nodes": [
