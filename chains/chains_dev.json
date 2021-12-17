@@ -1,52 +1,5 @@
 [
     {
-        "chainId": "111979a679f11fc283d8968b657855f4afab1cff6905c7cb0451bdf2c50df47c",
-        "name": "Local Testnet",
-        "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/stepanLav/fearless-test__c3Rlc"
-            },
-            "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/stepanLav/fearless-test__c3Rlc"
-            }
-        },
-        "assets": [
-            {
-                "assetId": "dot",
-                "staking": "relaychain",
-                "purchaseProviders": [
-                    "moonpay",
-                    "ramp"
-                ]
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://ws.relaychain-node-1.p1.tst.fearless.soramitsu.co.jp",
-                "name": "Node 1"
-            },
-            {
-                "url": "wss://ws.relaychain-node-2.p1.tst.fearless.soramitsu.co.jp",
-                "name": "Node 2"
-            },
-            {
-                "url": "wss://ws.relaychain-node-3.p1.tst.fearless.soramitsu.co.jp",
-                "name": "Node 3"
-            },
-            {
-                "url": "wss://ws.relaychain-node-4.p1.tst.fearless.soramitsu.co.jp",
-                "name": "Node 4"
-            }
-        ],
-        "icon": "https://avatars.githubusercontent.com/u/20982409",
-        "addressPrefix": 0,
-        "options": [
-            "testnet"
-        ]
-    },
-    {
         "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Polkadot",
         "externalApi": {
