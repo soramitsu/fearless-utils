@@ -192,5 +192,14 @@
     "website": "https://centrifuge.io/parachain/crowdloan/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/centrifuge.png",
     "rewardRate": 3.65
+  },
+  {
+    "paraid": "2011",
+    "name": "Equilibrium",
+    "token": "EQ",
+    "description": "A decentralized cross-chain money market protocol",
+    "website": "https://equilibrium.io/en/crowdloan",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/equilibrium.png",
+    "rewardRate": 200
   }
 ]
