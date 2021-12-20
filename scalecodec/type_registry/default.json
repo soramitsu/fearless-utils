@@ -7719,7 +7719,7 @@
     "PrefixedStorageKey": "StorageKey",
     "AccountIndex": "GenericAccountIndex",
     "Address": "MultiAddress",
-    "sp_runtime::multiaddress::MultiAddress<AccountId::sp_core::crypto::AccountId32, AccountIndex::()>": "MultiAddress",
+    "sp_runtime::multiaddress::MultiAddress<AccountId: sp_core::crypto::AccountId32, AccountIndex: ()>": "MultiAddress",
     "AssetId": "u32",
     "Justification": "(ConsensusEngineId, EncodedJustification)",
     "EncodedJustification": "Bytes",
