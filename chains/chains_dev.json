@@ -375,7 +375,11 @@
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
-        "addressPrefix": 30
+        "addressPrefix": 30,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/khala_v14.json",
+            "overridesCommon": true
+        }
     },
     {
         "chainId": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
