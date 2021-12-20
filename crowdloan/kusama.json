@@ -5,7 +5,7 @@
     "token": "KAR",
     "description": "All-in-one DeFi hub of Kusama",
     "website": "https://acala.network/karura",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/chains/karura.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/karura.png",
     "rewardRate": 12,
     "customFlow": "Karura",
     "flow": {
@@ -26,7 +26,7 @@
     "token": "SDN",
     "description": "Multi-chain decentralized application layer on Kusama",
     "website": "https://shiden.astar.network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.png",
     "rewardRate": 25
   },
   {
@@ -35,7 +35,7 @@
     "token": "BNC",
     "description": "A parachain designed for staking's liquidity",
     "website": "https://bifrost.finance/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/bifrost.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/bifrost.png",
     "rewardRate": 22,
     "customFlow": "Bifrost",
     "flow": {
@@ -56,7 +56,7 @@
     "token": "KSX",
     "description": "Crypto Asset Gateway for Kusama Ecosystem",
     "website": "https://chainx-org.medium.com/chainx-kusama-parachain-sherpax-light-paper-5341ff855c9c",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/chainx.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sherpax.png",
     "rewardRate": 10
   },
   {
@@ -65,7 +65,7 @@
     "token": "CRU",
     "description": "Incentives decentralized storage & cloud ecosystem on Kusama",
     "website": "https://crust.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/shadow.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crustshadow.png",
     "rewardRate": 1
   },
   {
@@ -83,7 +83,7 @@
     "token": "PHA",
     "description": "Transparent and Private Global Computation Cloud on Kusama",
     "website": "https://phala.network/khala/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/khala.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/khala.png",
     "rewardRate": 150
   },
   {
@@ -92,7 +92,7 @@
     "token": "CRING",
     "description": "Cross-chain communication, smart contracts and NFT on Kusama",
     "website": "https://crab.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/crab.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crab.png",
     "rewardRate": 25
   },
   {
@@ -101,7 +101,7 @@
     "token": "PKS",
     "description": "Production hub for creating DeFi & NFT apps on Kusama",
     "website": "https://polkasmith.polkafoundry.com/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/polkasmith.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkasmith.png",
     "rewardRate": 350
   },
   {
@@ -110,7 +110,7 @@
     "token": "SKU",
     "description": "A foundational layer for cross-chain compatibility.",
     "website": "https://auction.clover.finance/#/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/sakura.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sakura.png",
     "rewardRate": 200
   },
   {
@@ -119,7 +119,7 @@
     "token": "SGB",
     "description": "Blockchain infrastructure for distributed games & mobile applications.",
     "website": "http://subgame.org/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/2467e0465bd8488bd7259c6b09a469fbd7aea38d/packages/apps-config/src/ui/logos/nodes/subgame.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subgame.png",
     "rewardRate": 28
   },
   {
@@ -128,7 +128,7 @@
     "token": "AMAS",
     "description": "A Decentralized Cross-chain Oracle Service Protocol.",
     "website": "https://www.aresprotocol.io/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/ares.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/ares.png"
   },
   {
     "paraid": "2089",
@@ -154,7 +154,7 @@
     "token": "AIR",
     "description": "The home for tokenizing experimental assets",
     "website": "https://centrifuge.io/altair",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/chains/altair.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/altair.png",
     "rewardRate": 400
   },
   {
@@ -172,7 +172,7 @@
     "token": "BSX",
     "description": "Liquidity protocol build on Kusama",
     "website": "https://bsx.fi/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/basilisk.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/basilisk.png",
     "rewardRate": 67500
   },
   {
@@ -190,7 +190,7 @@
     "token": "KILT",
     "description": "Blockchain identity protocol for issuing self-sovereign, anonymous, verifiable credentials",
     "website": "https://www.kilt.io/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/chains/icons/KILT.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kilt.png",
     "rewardRate": 25
   },
   {
@@ -199,7 +199,7 @@
     "token": "TEER",
     "description": "Scalable solution for securely processing sensitive data",
     "website": "https://www.integritee.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/integritee.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/integritee.png",
     "rewardRate": 10
   },
   {
@@ -208,7 +208,7 @@
     "token": "KINT",
     "description": "Radically open Bitcoin on Kusama",
     "website": "https://interlay.io/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/chains/kintsugi.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kintsugi.png",
     "rewardRate": 3.75
   },
   {
@@ -217,7 +217,7 @@
     "token": "KMA",
     "description": "Private layer built for the entire Kusama ecosystem",
     "website": "https://www.calamari.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/calamari.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/calamari.png",
     "rewardRate": 0
   },
   {
@@ -226,7 +226,7 @@
     "token": "PICA",
     "description": "Cross-chain interoperable infrastructure",
     "website": "https://picasso.composable.finance/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/picasso.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/picasso.png",
     "rewardRate": 20000
   },
   {
@@ -235,7 +235,7 @@
     "token": "HKO",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
     "website": "https://parallel.fi/index.html",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/parallel.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png",
     "rewardRate": 200
   },
   {
@@ -244,7 +244,7 @@
     "token": "NEER",
     "description": "An open protocol for managing & incentivizing communities using gamification",
     "website": "https://bit.country/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/bitcountry.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/bitcountry.png",
     "rewardRate": 68
   },
   {
@@ -253,7 +253,7 @@
     "token": "QTZ",
     "description": "A scalable blockchain for composable NFTs with advanced economies",
     "website": "https://unique.network/quartz/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/quartz.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/quartz.png",
     "rewardRate": 237
   },
   {
@@ -295,7 +295,7 @@
     "token": "PCHU",
     "description": "A cross-chain platform powering the data economy on Kusama",
     "website": "https://kylin.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/pichiu.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/pichiu.png",
     "rewardRate": 350
   }
 ]
