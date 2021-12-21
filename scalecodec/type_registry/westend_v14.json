@@ -14,8 +14,8 @@
         "Address": "180",
         "ExtrinsicSignature": "438",
         "ParaId": "72",
-        "20": "GenericEvent",
-        "269": "GenericCall"
+        "17": "GenericEvent",
+        "266": "GenericCall"
       }
     }
   ]
