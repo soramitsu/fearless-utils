@@ -1156,7 +1156,6 @@
       ]
     },
     "ParaId": "u32",
-    "polkadot_parachain::primitives::Id": "u32",
     "ParaIdOf": "ParaId",
     "ParaScheduling": {
       "type": "enum",
@@ -3690,23 +3689,6 @@
         ]
       ]
     },
-    "frame_system::Phase": {
-      "type": "enum",
-      "type_mapping": [
-        [
-          "ApplyExtrinsic",
-          "u32"
-        ],
-        [
-          "Finalization",
-          "Null"
-        ],
-        [
-          "Initialization",
-          "Null"
-        ]
-      ]
-    },
     "PhragmenScore": "[u128; 3]",
     "PreimageStatusAvailable": {
       "type": "struct",
@@ -4381,7 +4363,6 @@
       ]
     },
     "ExtrinsicSignature": "MultiSignature",
-    "sp_runtime::MultiSignature": "MultiSignature",
     "schedule::period<blocknumber>": "(BlockNumber, u32)",
     "OpaqueCall": "OpaqueCall",
     "OriginCaller": {
@@ -7719,7 +7700,6 @@
     "PrefixedStorageKey": "StorageKey",
     "AccountIndex": "GenericAccountIndex",
     "Address": "MultiAddress",
-    "sp_runtime::multiaddress::MultiAddress<AccountId: sp_core::crypto::AccountId32, AccountIndex: ()>": "MultiAddress",
     "AssetId": "u32",
     "Justification": "(ConsensusEngineId, EncodedJustification)",
     "EncodedJustification": "Bytes",
