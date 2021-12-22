@@ -8,8 +8,8 @@
         null
       ],
       "types": {
-        "Balance": "u128",
-        "Index": "u32",
+        "Balance": "6",
+        "Index": "4",
         "GenericEvent": "polkadot_runtime::Event",
         "GenericCall": "polkadot_runtime::Call"
       }
