@@ -238,7 +238,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/AcalaNetwork/karura"
+                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-karura"
             }
         },
         "assets": [
@@ -350,6 +350,12 @@
         "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Bifrost",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-bitfrost"
+            }
+        },
         "assets": [
             {
                 "assetId": "bnc"
@@ -510,6 +516,12 @@
         "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-kilt"
+            }
+        },
         "assets": [
             {
                 "assetId": "kilt"
