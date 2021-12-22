@@ -1,6 +1,6 @@
 {
   "runtime_id": 1,
-  "types": {},
+  "types": { },
   "versioning": [
     {
       "runtime_range": [
@@ -10,8 +10,8 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "17": "GenericEvent",
-        "266": "GenericCall"
+        "GenericEvent": "kusama_runtime::Event",
+        "GenericCall": "kusama_runtime::Call"
       }
     }
   ]

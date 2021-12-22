@@ -10,8 +10,8 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "17": "GenericEvent",
-        "266": "GenericCall"
+        "GenericEvent": "rococo_runtime::Event",
+        "GenericCall": "rococo_runtime::Call"
       }
     }
   ]
