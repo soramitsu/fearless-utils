@@ -1,0 +1,18 @@
+{
+  "runtime_id": 1,
+  "types": { },
+  "versioning": [
+    {
+      "runtime_range": [
+        0,
+        null
+      ],
+      "types": {
+        "Balance": "6",
+        "Index": "4",
+        "GenericEvent": "polkadot_runtime::Event",
+        "GenericCall": "polkadot_runtime::Call"
+      }
+    }
+  ]
+}
