@@ -335,39 +335,6 @@
         }
     },
     {
-        "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
-        "name": "SORA",
-        "assets": [
-            {
-                "assetId": "xor"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://ws.mof.sora.org",
-                "name": "SORA Parliament Ministry of Finance 1"
-            },
-            {
-                "url": "wss://mof2.sora.org",
-                "name": "SORA Parliament Ministry of Finance 2"
-            },
-            {
-                "url": "wss://mof3.sora.org",
-                "name": "SORA Parliament Ministry of Finance 3"
-            },
-            {
-                "url": "wss://ws.alb.sora.org",
-                "name": "SORAMITSU node"
-            },
-            {
-                "url": "wss://sora.lux8.net",
-                "name": "SORA Community (Lux8)"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
-        "addressPrefix": 69
-    },
-    {
         "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Khala",
