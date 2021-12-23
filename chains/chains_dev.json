@@ -503,7 +503,7 @@
         "name": "Kintsugi",
         "assets": [
             {
-                "assetId": "dot"
+                "assetId": "kint"
             }
         ],
         "nodes": [
