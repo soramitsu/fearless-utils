@@ -188,9 +188,13 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Karura",
         "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
+            },
             "history": {
                 "type": "subquery",
-                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-karura"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
             }
         },
         "assets": [
@@ -303,9 +307,13 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Bifrost",
         "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost__c29yY"
+            },
             "history": {
                 "type": "subquery",
-                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-bitfrost"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost__c29yY"
             }
         },
         "assets": [
@@ -436,9 +444,13 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
         "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
+            },
             "history": {
                 "type": "subquery",
-                "url": "https://project.subquery.network/project/bgodlin/fearless-wallet-kilt"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
             }
         },
         "assets": [
