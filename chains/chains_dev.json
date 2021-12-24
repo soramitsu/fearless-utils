@@ -496,31 +496,5 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/calamari.json",
             "overridesCommon": true
         }
-    },
-    {
-        "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b",
-        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Kintsugi",
-        "assets": [
-            {
-                "assetId": "kint"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://kintsugi.api.onfinality.io/public-ws",
-                "name": "OnFinality node"
-            },
-            {
-                "url": "wss://api-kusama.interlay.io/parachain",
-                "name": "Kintsugi labs node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
-        "addressPrefix": 2092,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/kintsugi.json",
-            "overridesCommon": true
-        }
     }
 ]
