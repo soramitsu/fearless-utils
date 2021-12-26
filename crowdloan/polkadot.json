@@ -201,5 +201,14 @@
     "website": "https://equilibrium.io/en/crowdloan",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/equilibrium.png",
     "rewardRate": 200
+  },
+  {
+    "paraid": "2035",
+    "name": "Phala",
+    "token": "PHA",
+    "description": "Privacy-enhanced permissionless computing protocol",
+    "website": "https://phala.network/en/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/phala.svg",
+    "rewardRate": 12
   }
 ]
