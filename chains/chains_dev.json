@@ -182,6 +182,47 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/statemine.json",
             "overridesCommon": true
         }
+    },{
+        "chainId": "6e966844cfd406ac4d2e9ff66ae485d60677d8b514fe8cfefb54e19a7c12e6c3",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Acala",
+        "assets": [
+            {
+                "assetId": "aca"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://acala-rpc-0.aca-api.network",
+                "name": "Acala Foundation node 0"
+            },
+            {
+                "url": "wss://acala-rpc-1.aca-api.network",
+                "name": "Acala Foundation node 1"
+            },
+            {
+                "url": "wss://acala-rpc-2.aca-api.network/ws",
+                "name": "Acala Foundation node 2"
+            },
+            {
+                "url": "wss://acala-rpc-3.aca-api.network/ws",
+                "name": "Acala Foundation node 3"
+            },
+            {
+                "url": "wss://acala.polkawallet.io",
+                "name": "Polkawallet node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
+        "addressPrefix": 10,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/acala.json",
+            "overridesCommon": true
+        }
     },
     {
         "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",

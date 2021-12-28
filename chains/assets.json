@@ -20,6 +20,13 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg"
   },
   {
+    "id": "aca",
+    "chainId": "6e966844cfd406ac4d2e9ff66ae485d60677d8b514fe8cfefb54e19a7c12e6c3",
+    "precision": 12,
+    "priceId": "polkadot",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+  },
+  {
     "id": "kar",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
