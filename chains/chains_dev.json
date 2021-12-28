@@ -28,7 +28,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://polkadot.api.onfinality.io/public-ws",
+                "url": "wss://polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -79,7 +79,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://kusama.api.onfinality.io/public-ws",
+                "url": "wss://kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -126,7 +126,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://westend.api.onfinality.io/public-ws",
+                "url": "wss://westend.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -164,7 +164,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://statemine.api.onfinality.io/public-ws",
+                "url": "wss://statemine.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -245,7 +245,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://karura.api.onfinality.io/public-ws",
+                "url": "wss://karura.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -287,7 +287,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://moonriver.api.onfinality.io/public-ws",
+                "url": "wss://moonriver.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -324,7 +324,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://shiden.api.onfinality.io/public-ws",
+                "url": "wss://shiden.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -364,7 +364,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://bifrost-parachain.api.onfinality.io/public-ws",
+                "url": "wss://bifrost-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -394,7 +394,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://khala.api.onfinality.io/public-ws",
+                "url": "wss://khala.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -419,7 +419,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://edgeware.api.onfinality.io/public-ws",
+                "url": "wss://edgeware.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -476,7 +476,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://spiritnet.api.onfinality.io/public-ws",
+                "url": "wss://spiritnet.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
@@ -502,7 +502,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://calamari.api.onfinality.io/public-ws",
+                "url": "wss://calamari.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
