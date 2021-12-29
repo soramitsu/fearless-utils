@@ -410,31 +410,6 @@
         }
     },
     {
-        "chainId": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
-        "name": "Edgeware",
-        "assets": [
-            {
-                "assetId": "edg"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://edgeware.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-                "name": "OnFinality node"
-            },
-            {
-                "url": "wss://mainnet.edgewa.re",
-                "name": "Commonwealth Labs node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/edgeware",
-                "name": "Patract node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Edgeware.svg",
-        "addressPrefix": 7
-    },
-    {
         "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
