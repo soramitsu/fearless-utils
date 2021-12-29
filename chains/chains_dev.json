@@ -435,27 +435,6 @@
         "addressPrefix": 7
     },
     {
-        "chainId": "f7a99d3cb92853d00d5275c971c132c074636256583fee53b3bbe60d7b8769ba",
-        "name": "Kulupu",
-        "assets": [
-            {
-                "assetId": "klp"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://rpc.kulupu.corepaper.org/ws",
-                "name": "Kulupu node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/kulupu",
-                "name": "Patract node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kulupu.svg",
-        "addressPrefix": 16
-    },
-    {
         "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
