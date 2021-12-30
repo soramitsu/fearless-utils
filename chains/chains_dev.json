@@ -623,5 +623,31 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/altair.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Bit.Country Poineer",
+        "assets": [
+            {
+                "assetId": "neer"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://pioneer-1-rpc.bit.country",
+                "name": "Bit.Country node"
+            },
+            {
+                "url": "wss://pioneer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
+        "addressPrefix": 268,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/bitcountry.json",
+            "overridesCommon": true
+        }
     }
 ]
