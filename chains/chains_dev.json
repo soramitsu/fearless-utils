@@ -182,10 +182,21 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/statemine.json",
             "overridesCommon": true
         }
-    },{
+    },
+    {
         "chainId": "6e966844cfd406ac4d2e9ff66ae485d60677d8b514fe8cfefb54e19a7c12e6c3",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Acala",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala__c29yY"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala__c29yY"
+            }
+        },
         "assets": [
             {
                 "assetId": "aca"
@@ -449,6 +460,16 @@
         "chainId": "4ac80c99289841dd946ef92765bf659a307d39189b3ce374a92b5f0415ee17a1",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Calamari",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari__c29yY"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari__c29yY"
+            }
+        },
         "assets": [
             {
                 "assetId": "kma"
@@ -483,6 +504,16 @@
         "chainId": "cd4d732201ebe5d6b014edda071c4203e16867305332301dc8d092044b28e554",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Quartz",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+            }
+        },
         "assets": [
             {
                 "assetId": "qtz"
