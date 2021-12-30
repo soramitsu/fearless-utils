@@ -671,7 +671,7 @@
         ],
         "nodes": [
             {
-                "url": "rpc-para.clover.finance",
+                "url": "wss://rpc-para.clover.finance",
                 "name": "Clover node"
             },
             {
