@@ -587,5 +587,41 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/picasso.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "aa3876c1dc8a1afcc2e9a685a49ff7704cfd36ad8c90bf2702b9d1b00cc40011",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Altair",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair__c29yY"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair__c29yY"
+            }
+        },
+        "assets": [
+            {
+                "assetId": "air"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://fullnode.altair.centrifuge.io",
+                "name": "Centrifuge node"
+            },
+            {
+                "url": "wss://altair.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
+        "addressPrefix": 136,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/altair.json",
+            "overridesCommon": true
+        }
     }
 ]
