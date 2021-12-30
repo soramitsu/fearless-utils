@@ -546,7 +546,7 @@
         "name": "Parallel Heiko",
         "assets": [
             {
-                "assetId": "HKO"
+                "assetId": "hko"
             }
         ],
         "nodes": [
@@ -572,7 +572,7 @@
         "name": "Picasso",
         "assets": [
             {
-                "assetId": "PICA"
+                "assetId": "pica"
             }
         ],
         "nodes": [
