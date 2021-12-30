@@ -121,7 +121,7 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg"
   },
   {
-    "id": "pika",
+    "id": "pica",
     "chainId": "6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
     "precision": 12,
     "icon": "https://polkadot.js.org/apps/static/picasso.8201ec26.svg"
