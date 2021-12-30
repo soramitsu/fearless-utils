@@ -521,7 +521,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://eu-ws-quartz.unique.network/",
+                "url": "wss://eu-ws-quartz.unique.network",
                 "name": "Unique Europe node"
             },
             {
