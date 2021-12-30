@@ -14,11 +14,12 @@
         },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "DOT",
-                "precision": 10,
-                "priceId": "polkadot",
-                "staking": "relaychain"
+                "assetId": "dot",
+                "staking": "relaychain",
+                "purchaseProviders": [
+                  "moonpay",
+                  "ramp"
+                ]
             }
         ],
         "nodes": [
@@ -64,11 +65,12 @@
         },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KSM",
-                "precision": 12,
-                "priceId": "kusama",
-                "staking": "relaychain"
+                "assetId": "ksm",
+                "staking": "relaychain",
+                "purchaseProviders": [
+                  "moonpay",
+                  "ramp"
+                ]
             }
         ],
         "nodes": [
@@ -114,10 +116,7 @@
         },
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "WND",
-                "precision": 12,
-                "staking": "relaychain"
+                "assetId": "wnd"
             }
         ],
         "nodes": [
@@ -155,10 +154,7 @@
         "name": "Statemine",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KSM",
-                "precision": 12,
-                "priceId": "kusama"
+                "assetId": "ksm"
             }
         ],
         "nodes": [
@@ -188,10 +184,7 @@
         "name": "Karura",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KAR",
-                "precision": 12,
-                "priceId": "karura"
+                "assetId": "kar"
             }
         ],
         "nodes": [
@@ -233,10 +226,7 @@
         "name": "Moonriver",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "MOVR",
-                "precision": 18,
-                "priceId": "moonriver"
+                "assetId": "movr"
             }
         ],
         "nodes": [
@@ -273,10 +263,7 @@
         "name": "Shiden",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "SDN",
-                "precision": 18,
-                "priceId": "shiden"
+                "assetId": "sdn"
             }
         ],
         "nodes": [
@@ -306,9 +293,7 @@
         "name": "Bifrost",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "BNC",
-                "precision": 12
+                "assetId": "bnc"
             }
         ],
         "nodes": [
@@ -337,10 +322,7 @@
         "name": "SORA",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "XOR",
-                "precision": 18,
-                "priceId": "sora"
+                "assetId": "xor"
             }
         ],
         "nodes": [
@@ -374,10 +356,7 @@
         "name": "Khala",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "PHA",
-                "precision": 12,
-                "priceId": "pha"
+                "assetId": "pha"
             }
         ],
         "nodes": [
@@ -402,10 +381,7 @@
         "name": "Edgeware",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "EDG",
-                "precision": 18,
-                "priceId": "edgeware"
+                "assetId": "edg"
             }
         ],
         "nodes": [
@@ -434,9 +410,7 @@
         "name": "Subsocial",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "SUB",
-                "precision": 11
+                "assetId": "sub"
             }
         ],
         "nodes": [
@@ -457,10 +431,7 @@
         "name": "Kulupu",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KLP",
-                "precision": 12,
-                "priceId": "kulupu"
+                "assetId": "klp"
             }
         ],
         "nodes": [
@@ -482,9 +453,7 @@
         "name": "KILT Spiritnet",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KILT",
-                "precision": 15
+                "assetId": "kilt"
             }
         ],
         "nodes": [
@@ -510,9 +479,7 @@
         "name": "Calamari",
         "assets": [
             {
-                "assetId": 0,
-                "symbol": "KMA",
-                "precision": 12
+                "assetId": "kma"
             }
         ],
         "nodes": [
