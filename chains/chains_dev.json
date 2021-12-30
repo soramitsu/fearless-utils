@@ -649,5 +649,41 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/bitcountry.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "5c7bd13edf349b33eb175ffae85210299e324d852916336027391536e686f267",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Clover",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+            }
+        },
+        "assets": [
+            {
+                "assetId": "clv"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "rpc-para.clover.finance",
+                "name": "Clover node"
+            },
+            {
+                "url": "wss://clover.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
+        "addressPrefix": 128,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/clover.json",
+            "overridesCommon": true
+        }
     }
 ]
