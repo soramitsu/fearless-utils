@@ -154,36 +154,6 @@
         ]
     },
     {
-        "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a",
-        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Statemine",
-        "assets": [
-            {
-                "assetId": "ksm"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://statemine.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-                "name": "OnFinality node"
-            },
-            {
-                "url": "wss://kusama-statemine-rpc.paritytech.net",
-                "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/statemine",
-                "name": "Patract node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
-        "addressPrefix": 2,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/statemine.json",
-            "overridesCommon": true
-        }
-    },
-    {
         "chainId": "6e966844cfd406ac4d2e9ff66ae485d60677d8b514fe8cfefb54e19a7c12e6c3",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Acala",
