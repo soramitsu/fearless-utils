@@ -297,5 +297,13 @@
     "website": "https://kylin.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/pichiu.png",
     "rewardRate": 350
+  },
+  {
+    "paraid": "2105",
+    "name": "Darwinia Crab",
+    "token": "CRAB",
+    "description": "Cross-chain communication, smart contracts and NFT on Kusama",
+    "website": "https://crab.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crab.png"
   }
 ]
