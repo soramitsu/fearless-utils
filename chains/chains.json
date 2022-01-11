@@ -83,10 +83,6 @@
                 }
             },
             {
-                "url": "wss://kusama-rpc.polkadot.io",
-                "name": "Parity node"
-            },
-            {
                 "url": "wss://pub.elara.patract.io/kusama",
                 "name": "Patract node"
             }
