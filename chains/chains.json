@@ -10,6 +10,10 @@
           "history": {
              "type": "subquery",
              "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+          },
+          "crowdloans": {
+              "type": "github",
+              "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
           }
         },
         "assets": [
@@ -61,6 +65,10 @@
           "history": {
             "type": "subquery",
             "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+          },
+          "crowdloans": {
+              "type": "github",
+              "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
           }
         },
         "assets": [
