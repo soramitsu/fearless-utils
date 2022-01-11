@@ -178,7 +178,7 @@
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://kusama-statemine-rpc.paritytech.net",
+                "url": "wss://statemine-rpc.polkadot.io",
                 "name": "Parity node"
             },
             {
@@ -220,10 +220,6 @@
             {
                 "url": "wss://statemint-rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/statemine",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
