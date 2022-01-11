@@ -96,5 +96,57 @@
         "options": [
             "crowdloans"
         ]
+    },
+    {
+        "chainId": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
+        "name": "Westend",
+        "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+            },
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+            },
+            "crowdloans": {
+                "type": "github",
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
+            }
+        },
+        "assets": [
+            {
+                "assetId": "wnd",
+                "staking": "relaychain"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://westend.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://westend-rpc.polkadot.io",
+                "name": "Parity node"
+            },
+            {
+                "url": "wss://pub.elara.patract.io/westend",
+                "name": "Patract node"
+            },
+            {
+                "url": "wss://rpc.pinknode.io/westend/explorer",
+                "name": "Pinknode node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
+        "addressPrefix": 42,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/westend_v14.json",
+            "overridesCommon": true
+        },
+        "options": [
+            "testnet",
+            "crowdloans"
+        ]
     }
 ]
