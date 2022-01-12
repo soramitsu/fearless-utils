@@ -136,10 +136,6 @@
             {
                 "url": "wss://pub.elara.patract.io/westend",
                 "name": "Patract node"
-            },
-            {
-                "url": "wss://rpc.pinknode.io/westend/explorer",
-                "name": "Pinknode node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
@@ -246,8 +242,8 @@
                 "name": "Acala Foundation node 3"
             },
             {
-                "url": "wss://pub.elara.patract.io/karura",
-                "name": "Patract node"
+                "url": "wss://karura.polkawallet.io",
+                "name": "Polkawallet node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
@@ -274,10 +270,6 @@
             {
                 "url": "wss://wss.moonriver.moonbeam.network",
                 "name": "PureStake node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/moonriver",
-                "name": "Patract node"
             },
             {
                 "url": "wss://rpc.pinknode.io/moonriver/explorer",
@@ -351,10 +343,6 @@
             {
                 "url": "wss://bifrost-rpc.liebi.com/ws",
                 "name": "Liebi node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/bifrost",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
@@ -462,15 +450,11 @@
             },
             {
                 "url": "wss://falafel.calamari.systems/",
-                "name": "Manta Network node 0"
+                "name": "Calamari Falafel node"
             },
             {
-                "url": "wss://fritti.calamari.systems/",
-                "name": "Manta Network node 1"
-            },
-            {
-                "url": "wss://smoothie.calamari.systems/",
-                "name": "Manta Network node 2"
+                "url": "wss://pasta.calamari.systems/",
+                "name": "Calamari Pasta node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
@@ -500,6 +484,10 @@
             }
         ],
         "nodes": [
+            {
+                "url": "wss://quartz.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            },
             {
                 "url": "wss://eu-ws-quartz.unique.network",
                 "name": "Unique Europe node"
@@ -609,12 +597,12 @@
         ],
         "nodes": [
             {
-                "url": "wss://fullnode.altair.centrifuge.io",
-                "name": "Centrifuge node"
-            },
-            {
                 "url": "wss://altair.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://fullnode.altair.centrifuge.io",
+                "name": "Centrifuge node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
@@ -635,12 +623,12 @@
         ],
         "nodes": [
             {
-                "url": "wss://pioneer-1-rpc.bit.country",
-                "name": "Bit.Country node"
-            },
-            {
                 "url": "wss://pioneer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://pioneer-1-rpc.bit.country",
+                "name": "Bit.Country node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
@@ -671,12 +659,12 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc-para.clover.finance",
-                "name": "Clover node"
-            },
-            {
                 "url": "wss://clover.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://rpc-para.clover.finance",
+                "name": "Clover node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
@@ -743,12 +731,12 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc.parallel.fi",
-                "name": "Parallel node"
-            },
-            {
                 "url": "wss://parallel.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://rpc.parallel.fi",
+                "name": "Parallel node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
@@ -768,10 +756,6 @@
             }
         ],
         "nodes": [
-            {
-                "url": "wss://rpc-01.basilisk.hydradx.io",
-                "name": "HydraDX node"
-            },
             {
                 "url": "wss://basilisk.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
