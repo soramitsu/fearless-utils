@@ -114,8 +114,8 @@
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
             },
             "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+                "type": "subscan",
+                "url": "https://westend.api.subscan.io/"
             },
             "crowdloans": {
                 "type": "github",
