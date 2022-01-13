@@ -72,7 +72,6 @@
                 "assetId": "ksm",
                 "staking": "relaychain",
                 "purchaseProviders": [
-                    "moonpay",
                     "ramp"
                 ]
             }
