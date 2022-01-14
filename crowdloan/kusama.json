@@ -305,5 +305,13 @@
     "description": "Cross-chain communication, smart contracts and NFT on Kusama",
     "website": "https://crab.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crab.png"
+  },
+  {
+    "paraid": "2011",
+    "name": "SORA",
+    "token": "XOR",
+    "description": "SORA is working to become the decentralized multiverse economic system for Many Worlds",
+    "website": "https://sora.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png"
   }
 ]

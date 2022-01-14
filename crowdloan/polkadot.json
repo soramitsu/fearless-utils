@@ -208,7 +208,7 @@
     "token": "PHA",
     "description": "Privacy-enhanced permissionless computing protocol",
     "website": "https://phala.network/en/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/phala.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/phala.png",
     "rewardRate": 12
   },
   {
