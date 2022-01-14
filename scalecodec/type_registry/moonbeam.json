@@ -10,9 +10,32 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "79",
-        "Address": "2",
-        "ExtrinsicSignature": "245",
+        "Phase": "frame_system.Phase",
+        "primitive_types.H160": "[u8; 20]",
+        "account.AccountId20": "primitive_types.H160",
+        "Address": "account.AccountId20",
+        "EthereumSignature": {
+          "type": "struct",
+          "type_mapping": [
+            [
+              "r",
+              "H256"
+            ],
+            [
+              "s",
+              "H256"
+            ],
+            [
+              "v",
+              "u8"
+            ]
+          ]
+        },
+        "ExtrinsicSignature": "EthereumSignature",
+        "moonbeam_runtime.Event": "GenericEvent",
+        "moonbeam_runtime.Call": "GenericCall",
+        "sp_core.crypto.AccountId32": "GenericAccountId",
+        "pallet_identity.types.Data": "Data",
         "ParaId": "107",
         "21": "GenericEvent",
         "184": "GenericCall"
