@@ -155,6 +155,7 @@
     "id": "astr",
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 18,
+    "priceId": "astar",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg"
   },
   {
