@@ -740,6 +740,18 @@
             {
                 "url": "wss://rpc-para.clover.finance",
                 "name": "Clover node"
+            },
+            {
+                "url": "wss://api-ivy-elastic.clover.finance",
+                "name": "Ivy node"
+            },
+            {
+                "url": "wss://api-ivy-2.clover.finance",
+                "name": "Ivy node 2"
+            },
+            {
+                "url": "wss://api-ivy-3.clover.finance",
+                "name": "Ivy node 3"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
