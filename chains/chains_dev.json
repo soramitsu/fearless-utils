@@ -14,7 +14,19 @@
             "crowdloans": {
                 "type": "github",
                 "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://polkadot.subscan.io/{type}/{value}"
+                },
+                {
+                    "type": "polkascan",
+                    "types": ["extrinsic", "account", "event"],
+                    "url": "https://polkascan.io/polkadot/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -65,7 +77,19 @@
             "crowdloans": {
                 "type": "github",
                 "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://kusama.subscan.io/{type}/{value}"
+                },
+                {
+                    "type": "polkascan",
+                    "types": ["extrinsic", "account", "event"],
+                    "url": "https://polkascan.io/kusama/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -115,7 +139,14 @@
             "crowdloans": {
                 "type": "github",
                 "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://westend.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -160,7 +191,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://statemine.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -236,7 +274,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://acala.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -268,7 +313,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://karura.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -316,7 +368,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://moonriver.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -351,6 +410,15 @@
         "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Shiden",
+        "externalApi": {
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://shiden.subscan.io/{type}/{value}"
+                }
+            ]
+        },
         "assets": [
             {
                 "assetId": "sdn"
@@ -389,7 +457,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://bifrost.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -425,7 +500,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://khala.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -461,7 +543,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://spiritnet.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -497,7 +586,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://calamari.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -581,7 +677,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://parallel-heiko.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -617,7 +720,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://picasso.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -717,7 +827,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://clover.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -753,7 +870,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://astar.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -789,7 +913,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://parallel.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -843,7 +974,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://moonbeam.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -877,7 +1015,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://moonbase.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
@@ -931,6 +1076,15 @@
         "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Robonomics",
+        "externalApi": {
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://robonomics-testnet.subscan.io/{type}/{value}"
+                }
+            ]
+        },
         "assets": [
             {
                 "assetId": "xrt"
