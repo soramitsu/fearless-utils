@@ -430,11 +430,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
             }
         },
         "assets": [
@@ -582,11 +582,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
             }
         },
         "assets": [
@@ -615,6 +615,12 @@
         "chainId": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Bit.Country Pioneer",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bit_country_pioneer"
+            }
+        },
         "assets": [
             {
                 "assetId": "neer"
@@ -680,11 +686,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
             }
         },
         "assets": [
