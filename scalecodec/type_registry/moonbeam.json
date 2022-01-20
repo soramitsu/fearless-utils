@@ -10,7 +10,7 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "130",
+                "Phase": "79",
                 "H160": "[u8; 20]",
                 "0": "H160",
                 "Address": "0",
@@ -32,9 +32,9 @@
                     ]
                 },
                 "ExtrinsicSignature": "EthereumSignature",
-                "ParaId": "156",
+                "ParaId": "107",
                 "21": "GenericEvent",
-                "230": "GenericCall"
+                "184": "GenericCall"
             }
         }
     ]
