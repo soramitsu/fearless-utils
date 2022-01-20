@@ -887,6 +887,11 @@
     {
         "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
         "name": "Moonbase Alpha",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
+            }        },
         "assets": [
             {
                 "assetId": "dev"
