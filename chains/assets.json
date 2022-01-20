@@ -183,5 +183,12 @@
     "precision": 12,
     "priceId": "crust-storage-market",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crust.svg"
+  },
+  {
+    "id": "gens",
+    "chainId": "9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243",
+    "precision": 9,
+    "priceId": "genshiro",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg"
   }
 ]
