@@ -883,5 +883,38 @@
         "options": [
             "ethereumBased"
         ]
+    },
+    {
+        "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
+        "name": "Moonbase Alpha",
+        "assets": [
+            {
+                "assetId": "dev"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://moonbeam-alpha.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://wss.api.moonbase.moonbeam.network",
+                "name": "Moonbeam Network node"
+            },
+            {
+                "url": "wss://rpc.pinknode.io/alphanet/explorer",
+                "name": "Pinknode node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
+        "addressPrefix": 1287,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/moonbasealpha.json",
+            "overridesCommon": true
+        },
+        "options": [
+            "testnet",
+            "ethereumBased"
+        ]
     }
 ]
