@@ -224,7 +224,8 @@
     "name": "Polkadex",
     "token": "PDEX",
     "description": "The trading engine for Web3 and DeFi",
-    "website": "https://polkadex.trade/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png"
+    "website": "https://www.polkadex.trade/crowdloans",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
+    "rewardRate": 0.1875
   }
 ]
