@@ -218,5 +218,13 @@
     "description": "A natural swap solution for all assets built on Substrate",
     "website": "https://hydradx.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/hydradx.png"
+  },
+  {
+    "paraid": "2036",
+    "name": "Polkadex",
+    "token": "PDEX",
+    "description": "The trading engine for Web3 and DeFi",
+    "website": "https://polkadex.trade/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png"
   }
 ]
