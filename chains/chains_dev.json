@@ -874,7 +874,7 @@
                 "name": "PureStake node"
             }
         ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
         "addressPrefix": 1284,
         "types": {
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/moonbeam.json",

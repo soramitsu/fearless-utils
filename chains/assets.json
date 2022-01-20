@@ -45,7 +45,7 @@
     "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d",
     "precision": 18,
     "priceId": "moonbeam",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg"
   },
   {
     "id": "sdn",
