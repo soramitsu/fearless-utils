@@ -877,7 +877,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
         "addressPrefix": 1284,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/moonbeam/scalecodec/type_registry/moonbeam.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/moonbeam.json",
             "overridesCommon": true
         },
         "options": [
