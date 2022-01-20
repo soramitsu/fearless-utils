@@ -859,6 +859,12 @@
         "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Moonbeam",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam__c29yY"
+            }
+        },
         "assets": [
             {
                 "assetId": "glmr"
@@ -891,7 +897,8 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
-            }        },
+            }
+        },
         "assets": [
             {
                 "assetId": "dev"
