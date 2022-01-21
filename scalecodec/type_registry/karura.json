@@ -12,10 +12,13 @@
                 "Index": "u32",
                 "Phase": "174",
                 "Address": "214",
-                "ExtrinsicSignature": "540",
+                "ExtrinsicSignature": "539",
                 "ParaId": "111",
                 "17": "GenericEvent",
-                "198": "GenericCall"
+                "198": "GenericCall",
+                "GenericCall": "karura_runtime::Call",
+                "GenericEvent": "karura_runtime::Event",
+                "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature"
             }
         }
     ]
