@@ -13,6 +13,7 @@
                 "Phase": "169",
                 "Address": "209",
                 "ExtrinsicSignature": "526",
+                "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "ParaId": "109",
                 "17": "GenericEvent",
                 "193": "GenericCall"
