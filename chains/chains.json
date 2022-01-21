@@ -155,11 +155,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
             }
         },
         "assets": [
@@ -322,11 +322,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
             }
         },
         "assets": [
