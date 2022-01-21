@@ -16,7 +16,9 @@
                 "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "ParaId": "109",
                 "17": "GenericEvent",
-                "193": "GenericCall"
+                "195": "GenericCall",
+                "GenericCall": "acala_runtime::Call",
+                "GenericEvent": "acala_runtime::Event"
             }
         }
     ]
