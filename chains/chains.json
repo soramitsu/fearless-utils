@@ -1,156 +1,38 @@
 [
     {
-        "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-        "name": "Polkadot",
-        "externalApi": {
-          "staking": {
-            "type": "subquery",
-            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
-          },
-          "history": {
-             "type": "subquery",
-             "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
-          },
-          "crowdloans": {
-              "type": "github",
-              "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
-          }
-        },
-        "assets": [
-            {
-                "assetId": "dot",
-                "staking": "relaychain",
-                "purchaseProviders": [
-                  "moonpay",
-                  "ramp"
-                ]
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://polkadot.api.onfinality.io/ws",
-                "name": "OnFinality node",
-                "apikey": {
-                    "queryName": "apikey",
-                    "keyName": "ONFINALITY"
+            "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
+            "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+            "name": "Astar",
+            "externalApi": {
+                "staking": {
+                    "type": "subquery",
+                    "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
+                },
+                "history": {
+                    "type": "subquery",
+                    "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
                 }
             },
-            {
-                "url": "wss://rpc.polkadot.io",
-                "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/polkadot",
-                "name": "Patract node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
-        "addressPrefix": 0,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadot.json",
-            "overridesCommon": true
-        },
-        "options": [
-            "crowdloans"
-        ]
-    },
-    {
-        "chainId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Kusama",
-        "externalApi": {
-          "staking": {
-            "type": "subquery",
-            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
-          },
-          "history": {
-            "type": "subquery",
-            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
-          },
-          "crowdloans": {
-              "type": "github",
-              "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
-          }
-        },
-        "assets": [
-            {
-                "assetId": "ksm",
-                "staking": "relaychain",
-                "purchaseProviders": [
-                  "moonpay",
-                  "ramp"
-                ]
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://kusama.api.onfinality.io/ws",
-                "name": "OnFinality node",
-                "apikey": {
-                    "queryName": "apikey",
-                    "keyName": "ONFINALITY"
+            "assets": [
+                {
+                    "assetId": "astr"
                 }
-            },
-            {
-                "url": "wss://pub.elara.patract.io/kusama",
-                "name": "Patract node"
+            ],
+            "nodes": [
+                {
+                    "url": "wss://rpc.astar.network",
+                    "name": "Astar node"
+                },
+                {
+                    "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                    "name": "OnFinality node"
+                }
+            ],
+            "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
+            "addressPrefix": 5,
+            "types": {
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/astar.json",
+                "overridesCommon": true
             }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
-        "addressPrefix": 2,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
-            "overridesCommon": true
-        },
-        "options": [
-            "crowdloans"
-        ]
-    },
-    {
-        "chainId": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
-        "name": "Westend",
-        "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
-            },
-            "history": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
-            },
-            "crowdloans": {
-                "type": "github",
-                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
-            }
-        },
-        "assets": [
-            {
-                "assetId": "wnd",
-                "staking": "relaychain"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://westend-rpc.polkadot.io",
-                "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/westend",
-                "name": "Patract node"
-            },
-            {
-                "url": "wss://rpc.pinknode.io/westend/explorer",
-                "name": "Pinknode node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
-        "addressPrefix": 42,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/pankra/multi-assets-refactoring/scalecodec/type_registry/westend_v14.json",
-            "overridesCommon": true
-        },
-        "options": [
-            "testnet",
-            "crowdloans"
-        ]
-    }
+        }
 ]
