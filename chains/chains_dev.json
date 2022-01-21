@@ -492,7 +492,7 @@
                 "name": "KILT Protocol node"
             }
         ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KILT%20Spiritnet.svg",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg",
         "addressPrefix": 38,
         "types": {
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/kilt_spiritnet.json",
