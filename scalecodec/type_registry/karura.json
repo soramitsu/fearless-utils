@@ -8,6 +8,8 @@
                 null
             ],
             "types": {
+                "pallet_transaction_payment::ChargeTransactionPayment": "module_transaction_payment::ChargeTransactionPayment",
+                "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "Balance": "u128",
                 "Index": "u32",
                 "Phase": "174",
@@ -15,8 +17,7 @@
                 "ExtrinsicSignature": "539",
                 "ParaId": "111",
                 "17": "GenericEvent",
-                "198": "GenericCall",
-                "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature"
+                "198": "GenericCall"
             }
         }
     ]
