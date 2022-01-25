@@ -9,6 +9,7 @@
             ],
             "types": {
                 "pallet_transaction_payment::ChargeTransactionPayment": "module_transaction_payment::ChargeTransactionPayment",
+                "sp_runtime::multiaddress::MultiAddress<AccountId: sp_core::crypto::AccountId32, AccountIndex: ()>": "sp_runtime::multiaddress::MultiAddress<AccountId: sp_core::crypto::AccountId32, AccountIndex: u32>",
                 "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "Balance": "u128",
                 "Index": "u32",
