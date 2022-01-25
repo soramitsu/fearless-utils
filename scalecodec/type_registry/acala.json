@@ -1,5 +1,5 @@
 {
-    "runtime_id": 2020,
+    "runtime_id": 2021,
     "types": { },
     "versioning": [
         {
@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "171",
-                "Address": "211",
-                "ExtrinsicSignature": "526",
+                "Phase": "174",
+                "Address": "214",
+                "ExtrinsicSignature": "539",
                 "ParaId": "111",
                 "17": "GenericEvent",
-                "195": "GenericCall"
+                "198": "GenericCall"
             }
         }
     ]
