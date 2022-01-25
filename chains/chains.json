@@ -171,26 +171,6 @@
             {
                 "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
-            },
-            {
-                "url": "wss://acala-rpc-0.aca-api.network",
-                "name": "Acala Foundation node 0"
-            },
-            {
-                "url": "wss://acala-rpc-1.aca-api.network",
-                "name": "Acala Foundation node 1"
-            },
-            {
-                "url": "wss://acala-rpc-2.aca-api.network/ws",
-                "name": "Acala Foundation node 2"
-            },
-            {
-                "url": "wss://acala-rpc-3.aca-api.network/ws",
-                "name": "Acala Foundation node 3"
-            },
-            {
-                "url": "wss://acala.polkawallet.io",
-                "name": "Polkawallet node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
