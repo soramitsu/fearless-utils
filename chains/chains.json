@@ -155,11 +155,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
             }
         },
         "assets": [
@@ -195,11 +195,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
             }
         },
         "assets": [
@@ -263,11 +263,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             }
         },
         "assets": [
@@ -315,7 +315,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
             }
         },
         "assets": [
@@ -420,11 +420,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
             }
         },
         "assets": [
@@ -456,11 +456,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
             }
         },
         "assets": [
@@ -532,11 +532,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
             }
         },
         "assets": [
@@ -576,11 +576,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
             }
         },
         "assets": [
@@ -612,11 +612,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
             }
         },
         "assets": [
@@ -712,11 +712,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
             }
         },
         "assets": [
@@ -784,11 +784,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
             }
         },
         "assets": [
@@ -842,7 +842,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam"
             }
         },
         "assets": [
