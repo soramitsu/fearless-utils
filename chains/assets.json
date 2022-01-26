@@ -21,9 +21,9 @@
   },
   {
     "id": "aca",
-    "chainId": "6e966844cfd406ac4d2e9ff66ae485d60677d8b514fe8cfefb54e19a7c12e6c3",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 12,
-    "priceId": "acala-token",
+    "priceId": "acala",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg"
   },
   {
@@ -106,7 +106,7 @@
     "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
     "precision": 15,
     "priceId": "kilt-protocol",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KILT%20Spiritnet.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg"
   },
   {
     "id": "kma",
@@ -190,5 +190,11 @@
     "precision": 9,
     "priceId": "genshiro",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg"
+  },
+  {
+    "id": "xrt",
+    "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg"
   }
 ]
