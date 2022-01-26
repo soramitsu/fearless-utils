@@ -1,0 +1,41 @@
+{
+    "runtime_id": 1102,
+    "types": {},
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "Phase": "130",
+                "H160": "[u8; 20]",
+                "0": "H160",
+                "Address": "0",
+                "EthereumSignature": {
+                    "type": "struct",
+                    "type_mapping": [
+                        [
+                            "r",
+                            "H256"
+                        ],
+                        [
+                            "s",
+                            "H256"
+                        ],
+                        [
+                            "v",
+                            "u8"
+                        ]
+                    ]
+                },
+                "ExtrinsicSignature": "EthereumSignature",
+                "ParaId": "156",
+                "21": "GenericEvent",
+                "230": "GenericCall"
+            }
+        }
+    ]
+}
