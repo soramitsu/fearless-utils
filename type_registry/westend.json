@@ -1,5 +1,5 @@
 {
-  "runtime_id": 1,
+  "runtime_id": 9150,
   "types": {},
   "versioning": [
     {
@@ -8,10 +8,14 @@
         null
       ],
       "types": {
-        "Balance": "6",
-        "Index": "4",
-        "GenericEvent": "westend_runtime::Event",
-        "GenericCall": "westend_runtime::Call"
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "124",
+        "Address": "177",
+        "ExtrinsicSignature": "436",
+        "ParaId": "69",
+        "17": "GenericEvent",
+        "266": "GenericCall"
       }
     }
   ]
