@@ -43,7 +43,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/polkadot_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadot.json",
             "overridesCommon": true
         },
         "options": [
@@ -93,7 +93,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
         "addressPrefix": 2,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/kusama_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
             "overridesCommon": true
         },
         "options": [
@@ -140,7 +140,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
         "addressPrefix": 42,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/westend_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/westend.json",
             "overridesCommon": true
         },
         "options": [
@@ -176,7 +176,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
         "addressPrefix": 10,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/acala.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/acala.json",
             "overridesCommon": true
         }
     },
@@ -228,7 +228,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
         "addressPrefix": 8,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/karura.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/karura.json",
             "overridesCommon": true
         }
     },
@@ -258,7 +258,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
         "addressPrefix": 1285,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/moonriver.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonriver.json",
             "overridesCommon": true
         },
         "options": [
@@ -291,7 +291,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg",
         "addressPrefix": 5,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/shiden.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/shiden.json",
             "overridesCommon": true
         }
     },
@@ -327,7 +327,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
         "addressPrefix": 6,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/bifrost.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bifrost.json",
             "overridesCommon": true
         }
     },
@@ -363,7 +363,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
         "addressPrefix": 30,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/khala_v14.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/khala.json",
             "overridesCommon": true
         }
     },
@@ -399,7 +399,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg",
         "addressPrefix": 38,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/kilt_spiritnet.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kilt_spiritnet.json",
             "overridesCommon": true
         }
     },
@@ -439,7 +439,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
         "addressPrefix": 78,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/calamari.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/calamari.json",
             "overridesCommon": true
         }
     },
@@ -483,7 +483,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
         "addressPrefix": 255,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/quartz.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/quartz.json",
             "overridesCommon": true
         }
     },
@@ -519,7 +519,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
         "addressPrefix": 110,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/parallelheiko.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/parallelheiko.json",
             "overridesCommon": true
         }
     },
@@ -551,7 +551,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/picasso.svg",
         "addressPrefix": 49,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/picasso.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/picasso.json",
             "overridesCommon": true
         }
     },
@@ -587,7 +587,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
         "addressPrefix": 136,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/altair.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/altair.json",
             "overridesCommon": true
         }
     },
@@ -619,7 +619,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
         "addressPrefix": 268,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/bitcountry.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitcountry.json",
             "overridesCommon": true
         }
     },
@@ -655,7 +655,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
         "addressPrefix": 128,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/clover.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/clover.json",
             "overridesCommon": true
         }
     },
@@ -691,7 +691,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
         "addressPrefix": 5,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/astar.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/astar.json",
             "overridesCommon": true
         }
     },
@@ -727,7 +727,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
         "addressPrefix": 172,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/parallel.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/parallel.json",
             "overridesCommon": true
         }
     },
@@ -749,7 +749,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg",
         "addressPrefix": 10041,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.x/scalecodec/type_registry/basilisk.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/basilisk.json",
             "overridesCommon": true
         }
     }
