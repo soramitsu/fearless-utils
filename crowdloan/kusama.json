@@ -318,9 +318,18 @@
     "paraid": "2106",
     "name": "Litmus",
     "token": "LIT",
-    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks.",
+    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks",
     "website": "https://kusama-crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litmus.png",
     "rewardRate": 30
+  },
+  {
+    "paraid": "2107",
+    "name": "KICO",
+    "token": "KICO",
+    "description": "ICO platform for decentralized auto organization",
+    "website": "https://dico.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kico.png",
+    "rewardRate": 20000
   }
 ]
