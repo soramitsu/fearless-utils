@@ -269,11 +269,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             },
             "explorers": [
                 {
@@ -367,7 +367,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             },
             "explorers": [
                 {
