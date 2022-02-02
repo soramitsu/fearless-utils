@@ -153,10 +153,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Statemine",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
@@ -193,10 +189,6 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Statemint",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
@@ -257,10 +249,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Karura",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
@@ -378,10 +366,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Bifrost",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
@@ -414,10 +398,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Khala",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
@@ -450,10 +430,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "KILT Spiritnet",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
@@ -486,10 +462,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Calamari",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
@@ -526,10 +498,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Quartz",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
@@ -570,10 +538,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Parallel Heiko",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
@@ -606,10 +570,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Picasso",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
@@ -638,10 +598,6 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Altair",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
@@ -706,10 +662,6 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Clover",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
@@ -742,10 +694,6 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Astar",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
@@ -778,10 +726,6 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Parallel",
         "externalApi": {
-            "staking": {
-                "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
-            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
