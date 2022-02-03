@@ -711,7 +711,14 @@
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
-            }
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://altair.subscan.io/{type}/{value}"
+                }
+            ]
         },
         "assets": [
             {
