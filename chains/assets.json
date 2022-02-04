@@ -201,6 +201,7 @@
     "id": "xor",
     "chainId": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
     "precision": 12,
+    "priceId": "sora",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg"
   }
 ]
