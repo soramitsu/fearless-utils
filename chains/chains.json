@@ -299,7 +299,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
             }
         },
         "assets": [

@@ -351,7 +351,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
             },
             "explorers": [
                 {
