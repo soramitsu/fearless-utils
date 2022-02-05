@@ -1034,7 +1034,7 @@
                 {
                     "type": "subscan",
                     "types": ["extrinsic", "account"],
-                    "url": "https://robonomics-testnet.subscan.io/{type}/{value}"
+                    "url": "https://robonomics.subscan.io/{type}/{value}"
                 }
             ],
             "history": {
