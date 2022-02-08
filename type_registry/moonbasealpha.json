@@ -37,5 +37,13 @@
                 "151": "GenericCall"
             }
         }
+    ],
+    "overrides": [
+      {
+        "module": "Babe",
+        "constants": [
+          { "name": "ExpectedBlockTime", "value": "12000" }
+        ]
+      }
     ]
 }
