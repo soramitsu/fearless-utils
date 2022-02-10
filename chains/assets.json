@@ -195,6 +195,7 @@
     "id": "xrt",
     "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
     "precision": 9,
+    "priceId": "robonomics-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg"
   }
 ]

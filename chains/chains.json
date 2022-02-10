@@ -34,10 +34,6 @@
             {
                 "url": "wss://rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/polkadot",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
@@ -84,10 +80,6 @@
             {
                 "url": "wss://kusama-rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/kusama",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
