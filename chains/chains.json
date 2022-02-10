@@ -36,8 +36,8 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://pub.elara.patract.io/polkadot",
-                "name": "Patract node"
+                "url": "wss://polkadot-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
@@ -86,8 +86,8 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://pub.elara.patract.io/kusama",
-                "name": "Patract node"
+                "url": "wss://kusama-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
@@ -131,10 +131,6 @@
             {
                 "url": "wss://westend-rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/westend",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
@@ -171,10 +167,6 @@
             {
                 "url": "wss://statemine-rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/statemine",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
