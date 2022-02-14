@@ -474,8 +474,8 @@
                 "name": "Calamari Falafel node"
             },
             {
-                "url": "wss://pasta.calamari.systems/",
-                "name": "Calamari Pasta node"
+                "url": "wss://ws.calamari.systems/",
+                "name": "Manta Network node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
