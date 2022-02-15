@@ -36,8 +36,8 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://pub.elara.patract.io/polkadot",
-                "name": "Patract node"
+                "url": "wss://polkadot-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
@@ -86,8 +86,8 @@
                 "name": "Parity node"
             },
             {
-                "url": "wss://pub.elara.patract.io/kusama",
-                "name": "Patract node"
+                "url": "wss://kusama-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
@@ -131,10 +131,6 @@
             {
                 "url": "wss://westend-rpc.polkadot.io",
                 "name": "Parity node"
-            },
-            {
-                "url": "wss://pub.elara.patract.io/westend",
-                "name": "Patract node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
@@ -187,11 +183,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
             }
         },
         "assets": [
@@ -305,11 +301,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
             }
         },
         "assets": [
@@ -341,11 +337,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
             }
         },
         "assets": [
@@ -417,11 +413,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
             }
         },
         "assets": [
@@ -461,11 +457,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
             }
         },
         "assets": [
@@ -497,11 +493,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
             }
         },
         "assets": [
@@ -597,11 +593,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
             }
         },
         "assets": [
@@ -669,11 +665,11 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
             },
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
             }
         },
         "assets": [
@@ -721,43 +717,31 @@
         }
     },
     {
-        "chainId": "9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243",
-        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Genshiro",
-        "assets": [
-            {
-                "assetId": "gens"
+            "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
+            "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+            "name": "Robonomics",
+            "externalApi": {
+                "history": {
+                    "type": "subquery",
+                    "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-robonomics"
+                }
+            },
+            "assets": [
+                {
+                    "assetId": "xrt"
+                }
+            ],
+            "nodes": [
+                {
+                    "url": "wss://kusama.rpc.robonomics.network/",
+                    "name": "Airalab node"
+                }
+            ],
+            "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg",
+            "addressPrefix": 32,
+            "types": {
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/robonomics.json",
+                "overridesCommon": true
             }
-        ],
-        "nodes": [
-            {
-                "url": "wss://node1.genshiro.io/",
-                "name": "Genshiro node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg",
-        "addressPrefix": 67
-    },
-    {
-        "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
-        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Robonomics",
-        "assets": [
-            {
-                "assetId": "xrt"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://kusama.rpc.robonomics.network/",
-                "name": "Airalab node"
-            }
-        ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg",
-        "addressPrefix": 32,
-        "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/robonomics.json",
-            "overridesCommon": true
         }
-    }
 ]
