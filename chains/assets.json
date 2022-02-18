@@ -206,5 +206,11 @@
     "precision": 12,
     "priceId": "sora",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg"
+  },
+  {
+    "id": "ztg",
+    "chainId": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
+    "precision": 10,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/zeitgeist.svg"
   }
 ]
