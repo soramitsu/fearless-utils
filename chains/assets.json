@@ -126,6 +126,7 @@
     "id": "qtz",
     "chainId": "cd4d732201ebe5d6b014edda071c4203e16867305332301dc8d092044b28e554",
     "precision": 18,
+    "priceId": "quartz",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg"
   },
   {
