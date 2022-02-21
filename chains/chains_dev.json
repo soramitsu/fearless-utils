@@ -1061,12 +1061,7 @@
                 "assetId": "xor"
             }
         ],
-        "nodes": [
-            {
-                "url": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp",
-                "name": "Soramitsu node"
-            }
-        ],
+        "nodes": [],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
         "addressPrefix": 420,
         "types": {
