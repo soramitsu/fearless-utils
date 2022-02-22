@@ -331,5 +331,14 @@
     "website": "https://dico.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kico.png",
     "rewardRate": 20000
+  },
+  {
+    "paraid": "2110",
+    "name": "Mangata X",
+    "token": "MGX",
+    "description": "A community-owned exchange for experienced traders & experimental tokens",
+    "website": "https://x.mangata.finance/",
+    "icon": "",
+    "rewardRate": 6250
   }
 ]
