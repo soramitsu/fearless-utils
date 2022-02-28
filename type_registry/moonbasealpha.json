@@ -1,5 +1,5 @@
 {
-    "runtime_id": 1201,
+    "runtime_id": 1300,
     "types": {},
     "versioning": [
         {
@@ -10,7 +10,7 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "130",
+                "Phase": "134",
                 "H160": "[u8; 20]",
                 "0": "H160",
                 "Address": "0",
@@ -32,9 +32,9 @@
                     ]
                 },
                 "ExtrinsicSignature": "EthereumSignature",
-                "ParaId": "163",
+                "ParaId": "80",
                 "18": "GenericEvent",
-                "151": "GenericCall"
+                "155": "GenericCall"
             }
         }
     ],
