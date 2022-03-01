@@ -234,7 +234,7 @@
     "token": "GEM",
     "description": "Geminis takes Ethereum chain support to the next level through WasmEdge",
     "website": "https://geminis.network/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/chains/geminis.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Geminis.png",
     "rewardRate": 10.5
   }
 ]
