@@ -338,7 +338,7 @@
     "token": "MGX",
     "description": "A community-owned exchange for experienced traders & experimental tokens",
     "website": "https://x.mangata.finance/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/MagnataX.png",
     "rewardRate": 6250
   }
 ]
