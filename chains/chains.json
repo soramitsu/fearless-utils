@@ -954,6 +954,52 @@
         ]
     },
     {
+        "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
+        "name": "Moonbase Alpha",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
+            },
+            "explorers": [
+                {
+                    "type": "subscan",
+                    "types": ["extrinsic", "account"],
+                    "url": "https://moonbase.subscan.io/{type}/{value}"
+                }
+            ]
+        },
+        "assets": [
+            {
+                "assetId": "dev"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://moonbeam-alpha.api.onfinality.io/public-ws",
+                "name": "OnFinality node"
+            },
+            {
+                "url": "wss://wss.api.moonbase.moonbeam.network",
+                "name": "Moonbeam Network node"
+            },
+            {
+                "url": "wss://rpc.pinknode.io/alphanet/explorer",
+                "name": "Pinknode node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
+        "addressPrefix": 1287,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonbasealpha.json",
+            "overridesCommon": true
+        },
+        "options": [
+            "testnet",
+            "ethereumBased"
+        ]
+    },
+    {
         "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Robonomics",
@@ -1039,6 +1085,28 @@
         "addressPrefix": 28,
         "types": {
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/subsocial.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Zeitgeist",
+        "assets": [
+            {
+                "assetId": "ztg"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc-0.zeitgeist.pm",
+                "name": "ZeitgeistPM node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/zeitgeist.svg",
+        "addressPrefix": 73,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/zeitgeist.json",
             "overridesCommon": true
         }
     }
