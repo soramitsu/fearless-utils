@@ -1,0 +1,14 @@
+[
+  {
+    "id": "usd",
+    "symbol": "$",
+    "name": "US Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/fiat/acala.svg"
+  },
+  {
+    "id": "rub",
+    "symbol": "₽",
+    "name": "Russian Ruble",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/fiat/acala.svg"
+  }
+]
