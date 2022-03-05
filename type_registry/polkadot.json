@@ -18,5 +18,13 @@
         "167": "GenericCall"
       }
     }
+  ],
+  "overrides": [
+    {
+      "module": "Staking",
+      "constants": [
+        { "name": "MaxNominations", "value": "16" }
+      ]
+    }
   ]
 }
