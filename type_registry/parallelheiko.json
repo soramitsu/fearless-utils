@@ -10,12 +10,12 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "135",
-        "Address": "164",
-        "ExtrinsicSignature": "423",
-        "ParaId": "111",
+        "Phase": "143",
+        "Address": "173",
+        "ExtrinsicSignature": "501",
+        "ParaId": "57",
         "17": "GenericEvent",
-        "159": "GenericCall"
+        "168": "GenericCall"
       }
     }
   ]
