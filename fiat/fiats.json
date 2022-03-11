@@ -10,5 +10,275 @@
     "symbol": "₽",
     "name": "Russian Ruble",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "eur",
+    "symbol": "€",
+    "name": "Euro",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "cny",
+    "symbol": "¥",
+    "name": "Chinese yuan",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "aed",
+    "symbol": "د.إ",
+    "name": "United Arab Emirates Dirham",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "idr",
+    "symbol": "Rp",
+    "name": "Indonesian Rupiah",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "jpy",
+    "symbol": "¥",
+    "name": "Japanese Yen",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "krw",
+    "symbol": "₩",
+    "name": "South Korean Won",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "twd",
+    "symbol": "$",
+    "name": "New Taiwan Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "ars",
+    "symbol": "$",
+    "name": "Argentine Peso",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "aud",
+    "symbol": "$",
+    "name": "Australian Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "bdt",
+    "symbol": "৳",
+    "name": "Bangladeshi Taka",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "bhd",
+    "symbol": ".د.ب",
+    "name": "Bahraini Dinar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "bmd",
+    "symbol": "$",
+    "name": "Bermudian Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "brl",
+    "symbol": "$",
+    "name": "Brazil Real",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "cad",
+    "symbol": "$",
+    "name": "Canadian Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "chf",
+    "symbol": "F",
+    "name": "Swiss Franc",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "clp",
+    "symbol": "$",
+    "name": "Chilean Peso",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "czk",
+    "symbol": "Kč",
+    "name": "Czech Koruna",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "dkk",
+    "symbol": "kr",
+    "name": "Danish Krone",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "gbp",
+    "symbol": "£",
+    "name": "British Pound Sterling",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "hkd",
+    "symbol": "$",
+    "name": "Hong Kong Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "huf",
+    "symbol": "Ft",
+    "name": "Hungarian Forint",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "ils",
+    "symbol": "₪",
+    "name": "Israel New Shekel",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "inr",
+    "symbol": "₹",
+    "name": "Indian Rupee",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "kwd",
+    "symbol": "د.ك",
+    "name": "Kuwaiti Dinar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "lkr",
+    "symbol": "₨",
+    "name": "Sri Lankan Rupee",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "mmk",
+    "symbol": "K",
+    "name": "Burmese Kyat",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "mxn",
+    "symbol": "$",
+    "name": "Mexican Peso",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "myr",
+    "symbol": "RM",
+    "name": "Malaysian Ringgit",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "ngn",
+    "symbol": "₦",
+    "name": "Nigerian Naira",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "nok",
+    "symbol": "kr",
+    "name": "Norwegian Krone",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "nzd",
+    "symbol": "$",
+    "name": "New Zealand Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "php",
+    "symbol": "₱",
+    "name": "Philippine Pesso",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "pkr",
+    "symbol": "₨",
+    "name": "Pakistani Rupee",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "pln",
+    "symbol": "zł",
+    "name": "Polish Zloty",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "sar",
+    "symbol": "ر.س",
+    "name": "Saudi Riyal",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "sek",
+    "symbol": "kr",
+    "name": "Swedish Krona",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "sgd",
+    "symbol": "$",
+    "name": "Singapore Dollar",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "thb",
+    "symbol": "฿",
+    "name": "Thai Baht",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "try",
+    "symbol": "₺",
+    "name": "Turkish Lira",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "uah",
+    "symbol": "₴",
+    "name": "Ukrainian hryvnia",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "vef",
+    "symbol": "Bs.S.",
+    "name": "Venezuelan bolivar fuerte",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "vnd",
+    "symbol": "₫",
+    "name": "Vietnamese dong",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "zar",
+    "symbol": "R",
+    "name": "South African Rand",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "xdr",
+    "symbol": "SDR",
+    "name": "IMF Special Drawing Rights",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
+  },
+  {
+    "id": "xdr",
+    "symbol": "SDR",
+    "name": "IMF Special Drawing Rights",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/acala.svg"
   }
 ]
