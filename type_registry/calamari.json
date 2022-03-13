@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "102",
-                "Address": "163",
-                "ExtrinsicSignature": "329",
-                "ParaId": "52",
-                "17": "GenericEvent",
-                "190": "GenericCall"
+                "Phase": "frame_system.Phase",
+                "Address": "sp_runtime.multiaddress.MultiAddress",
+                "ExtrinsicSignature": "sp_runtime.MultiSignature",
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "calamari_runtime.Event": "GenericEvent",
+                "calamari_runtime.Call": "GenericCall"
             }
         }
     ]

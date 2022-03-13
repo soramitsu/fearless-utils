@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "92",
-                "Address": "120",
-                "ExtrinsicSignature": "296",
-                "ParaId": "129",
-                "17": "GenericEvent",
-                "117": "GenericCall"
+                "Phase": "frame_system.Phase",
+                "Address": "sp_runtime.multiaddress.MultiAddress",
+                "ExtrinsicSignature": "sp_runtime.MultiSignature",
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "picasso_runtime.Event": "GenericEvent",
+                "picasso_runtime.Call": "GenericCall"
             }
         }
     ]

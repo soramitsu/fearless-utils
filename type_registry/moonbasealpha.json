@@ -10,7 +10,7 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "134",
+                "Phase": "frame_system.Phase",
                 "H160": "[u8; 20]",
                 "0": "H160",
                 "Address": "0",
@@ -32,9 +32,9 @@
                     ]
                 },
                 "ExtrinsicSignature": "EthereumSignature",
-                "ParaId": "80",
-                "18": "GenericEvent",
-                "155": "GenericCall"
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "moonbase_runtime.Event": "GenericEvent",
+                "moonbase_runtime.Call": "GenericCall"
             }
         }
     ],

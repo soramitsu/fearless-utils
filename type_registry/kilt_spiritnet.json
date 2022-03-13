@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u64",
-                "Phase": "55",
-                "Address": "94",
-                "ExtrinsicSignature": "221",
-                "ParaId": "230",
-                "17": "GenericEvent",
-                "171": "GenericCall"
+                "Phase": "frame_system.Phase",
+                "Address": "sp_runtime.multiaddress.MultiAddress",
+                "ExtrinsicSignature": "sp_runtime.MultiSignature",
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "spiritnet_runtime.Event": "GenericEvent",
+                "spiritnet_runtime.Call": "GenericCall"
             }
         }
     ]

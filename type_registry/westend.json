@@ -10,12 +10,14 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "128",
-        "Address": "181",
-        "ExtrinsicSignature": "442",
-        "ParaId": "72",
-        "17": "GenericEvent",
-        "269": "GenericCall"
+        "Phase": "frame_system.Phase",
+        "Address": "sp_runtime.multiaddress.MultiAddress",
+        "ExtrinsicSignature": "sp_runtime.MultiSignature",
+        "ParaId": "polkadot_parachain.primitives.Id",
+        "westend_runtime.Event": "GenericEvent",
+        "westend_runtime.Call": "GenericCall",
+        "sp_core.crypto.AccountId32": "GenericAccountId",
+        "pallet_identity.types.Data": "Data"
       }
     }
   ],

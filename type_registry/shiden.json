@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "61",
-                "Address": "129",
-                "ExtrinsicSignature": "285",
-                "ParaId": "145",
-                "17": "GenericEvent",
-                "87": "GenericCall"
+                "Phase": "frame_system.Phase",
+                "Address": "sp_runtime.multiaddress.MultiAddress",
+                "ExtrinsicSignature": "sp_runtime.MultiSignature",
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "shiden_runtime.Event": "GenericEvent",
+                "shiden_runtime.Call": "GenericCall"
             }
         }
     ]

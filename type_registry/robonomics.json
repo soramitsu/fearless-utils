@@ -1,5 +1,5 @@
 {
-    "runtime_id": 13,
+    "runtime_id": 16,
     "types": { },
     "versioning": [
         {
@@ -10,12 +10,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "60",
-                "Address": "131",
-                "ExtrinsicSignature": "276",
-                "ParaId": "146",
-                "17": "GenericEvent",
-                "86": "GenericCall"
+                "Phase": "frame_system.Phase",
+                "Address": "sp_runtime.multiaddress.MultiAddress",
+                "ExtrinsicSignature": "sp_runtime.MultiSignature",
+                "ParaId": "polkadot_parachain.primitives.Id",
+                "main_runtime.Event": "GenericEvent",
+                "main_runtime.Call": "GenericCall"
             }
         }
     ]
