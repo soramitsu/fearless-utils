@@ -1,5 +1,5 @@
 {
-  "runtime_id": 1,
+  "runtime_id": 9160,
   "types": {},
   "versioning": [
     {
@@ -8,11 +8,23 @@
         null
       ],
       "types": {
-        "Balance": "6",
-        "Index": "4",
-        "GenericEvent": "westend_runtime::Event",
-        "GenericCall": "westend_runtime::Call"
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "128",
+        "Address": "181",
+        "ExtrinsicSignature": "442",
+        "ParaId": "72",
+        "17": "GenericEvent",
+        "269": "GenericCall"
       }
+    }
+  ],
+  "overrides": [
+    {
+      "module": "Staking",
+      "constants": [
+        { "name": "MaxNominations", "value": "16" }
+      ]
     }
   ]
 }

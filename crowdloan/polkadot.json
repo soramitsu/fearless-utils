@@ -208,7 +208,7 @@
     "token": "PHA",
     "description": "Privacy-enhanced permissionless computing protocol",
     "website": "https://phala.network/en/",
-    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/phala.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/phala.png",
     "rewardRate": 12
   },
   {
@@ -218,5 +218,23 @@
     "description": "A natural swap solution for all assets built on Substrate",
     "website": "https://hydradx.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/hydradx.png"
+  },
+  {
+    "paraid": "2036",
+    "name": "Polkadex",
+    "token": "PDEX",
+    "description": "The trading engine for Web3 and DeFi",
+    "website": "https://www.polkadex.trade/crowdloans",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
+    "rewardRate": 0.1875
+  },
+  {
+    "paraid": "2038",
+    "name": "Geminis",
+    "token": "GEM",
+    "description": "Geminis takes Ethereum chain support to the next level through WasmEdge",
+    "website": "https://geminis.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Geminis.png",
+    "rewardRate": 10.5
   }
 ]

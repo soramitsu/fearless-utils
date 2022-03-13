@@ -1,5 +1,5 @@
 {
-  "runtime_id": 1,
+  "runtime_id": 9170,
   "types": { },
   "versioning": [
     {
@@ -8,11 +8,23 @@
         null
       ],
       "types": {
-        "Balance": "6",
-        "Index": "4",
-        "GenericEvent": "kusama_runtime::Event",
-        "GenericCall": "kusama_runtime::Call"
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "148",
+        "Address": "201",
+        "ExtrinsicSignature": "517",
+        "ParaId": "90",
+        "17": "GenericEvent",
+        "305": "GenericCall"
       }
+    }
+  ],
+  "overrides": [
+    {
+      "module": "Staking",
+      "constants": [
+        { "name": "MaxNominations", "value": "24" }
+      ]
     }
   ]
 }

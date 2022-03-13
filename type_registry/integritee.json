@@ -1,6 +1,6 @@
 {
-  "runtime_id": 9142,
-  "types": { },
+  "runtime_id": 2,
+  "types": {},
   "versioning": [
     {
       "runtime_range": [
@@ -10,12 +10,12 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "128",
-        "Address": "182",
-        "ExtrinsicSignature": "360",
-        "ParaId": "45",
+        "Phase": "37",
+        "Address": "96",
+        "ExtrinsicSignature": "123",
+        "ParaId": "70",
         "17": "GenericEvent",
-        "388": "GenericCall"
+        "94": "GenericCall"
       }
     }
   ]
