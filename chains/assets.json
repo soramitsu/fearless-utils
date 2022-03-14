@@ -206,5 +206,12 @@
         "precision": 12,
         "priceId": "integritee",
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg"
-    }
+    },
+    {
+        "id": "efi",
+        "chainId": "335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f",
+        "precision": 18,
+        "priceId": "efinity",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/efinity.svg"
+      }
 ]
