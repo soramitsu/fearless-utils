@@ -236,5 +236,14 @@
     "website": "https://geminis.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Geminis.png",
     "rewardRate": 10.5
+  },
+  {
+    "paraid": "2037",
+    "name": "Unique Network",
+    "token": "UNQ",
+    "description": "A scalable blockchain for composable NFTs with advanced economies",
+    "website": "https://unique.network/token/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/unique.png",
+    "rewardRate": 5.28
   }
 ]
