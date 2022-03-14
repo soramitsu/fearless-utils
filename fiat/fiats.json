@@ -274,11 +274,5 @@
     "symbol": "SDR",
     "name": "IMF Special Drawing Rights",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/xdr.svg"
-  },
-  {
-    "id": "xdr",
-    "symbol": "SDR",
-    "name": "IMF Special Drawing Rights",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/xdr.svg"
   }
 ]
