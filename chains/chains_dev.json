@@ -1104,7 +1104,10 @@
         "types": {
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kintsugi.json",
             "overridesCommon": true
-        }
+        },
+        "options": [
+            "orml"
+        ]
     },
     {
         "chainId": "4a12be580bb959937a1c7a61d5cf24428ed67fa571974b4007645d1886e7c89f",
