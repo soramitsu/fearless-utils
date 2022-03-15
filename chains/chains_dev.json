@@ -1099,8 +1099,7 @@
             "overridesCommon": true
         },
         "options": [
-            "testnet",
-            "orml"
+            "testnet"
         ]
   },
   {
