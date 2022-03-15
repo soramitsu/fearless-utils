@@ -1099,7 +1099,8 @@
             "overridesCommon": true
         },
         "options": [
-            "testnet"
+          "testnet",
+          "crowdloans"
         ]
   },
   {
