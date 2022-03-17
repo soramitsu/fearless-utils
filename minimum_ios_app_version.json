@@ -1,0 +1,8 @@
+{
+  "min_supported_version": {
+    "ios": "2.0.6"
+  },
+  "exсluded_versions": {
+    "ios": ["2.0.3"]
+  }
+}
