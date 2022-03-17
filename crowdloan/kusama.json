@@ -340,5 +340,13 @@
     "website": "https://x.mangata.finance/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/MagnataX.png",
     "rewardRate": 6250
+  },
+  {
+    "paraid": "2114",
+    "name": "Turing Network",
+    "token": "TUR",
+    "description": "A Web 3.0 hub for automated DeFi and payments",
+    "website": "https://oak.tech/turing/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/polkadot-js/apps/tree/master/packages/apps-config/src/ui/logos/chains/turing.png"
   }
 ]
