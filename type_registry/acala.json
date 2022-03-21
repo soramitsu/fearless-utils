@@ -12,12 +12,12 @@
                 "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system.Phase",
-                "Address": "sp_runtime.multiaddress.MultiAddress",
-                "ExtrinsicSignature": "acala_primitives.signature.AcalaMultiSignature",
-                "ParaId": "polkadot_parachain.primitives.Id",
-                "acala_runtime.Event": "GenericEvent",
-                "acala_runtime.Call": "GenericCall"
+                "Phase": "frame_system::Phase",
+                "Address": "sp_runtime::multiaddress::MultiAddress",
+                "ExtrinsicSignature": "acala_primitives::signature::AcalaMultiSignature",
+                "ParaId": "polkadot_parachain::primitives::Id",
+                "acala_runtime::Event": "GenericEvent",
+                "acala_runtime::Call": "GenericCall"
             }
         }
     ]

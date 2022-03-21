@@ -10,7 +10,7 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system.Phase",
+                "Phase": "frame_system::Phase",
                 "H160": "[u8; 20]",
                 "0": "H160",
                 "Address": "0",
@@ -32,9 +32,9 @@
                     ]
                 },
                 "ExtrinsicSignature": "EthereumSignature",
-                "ParaId": "polkadot_parachain.primitives.Id",
-                "moonriver_runtime.Event": "GenericEvent",
-                "moonriver_runtime.Call": "GenericCall"
+                "ParaId": "polkadot_parachain::primitives::Id",
+                "moonriver_runtime::Event": "GenericEvent",
+                "moonriver_runtime::Call": "GenericCall"
             }
         }
     ],
