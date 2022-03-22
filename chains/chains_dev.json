@@ -1235,5 +1235,101 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/efinity.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "afdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "HydraDX",
+        "assets": [
+            {
+                "assetId": "hdx"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc-01.hydradx.io",
+                "name": "Galactic Council node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg",
+        "addressPrefix": 63,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/hydradx.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Centrifuge",
+        "assets": [
+            {
+                "assetId": "cfg"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://fullnode.parachain.centrifuge.io",
+                "name": "Centrufge node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/centrifuge.svg",
+        "addressPrefix": 36,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/centrifuge.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Nodle Parachain",
+        "assets": [
+            {
+                "assetId": "nodl"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://nodle-parachain.api.onfinality.io",
+                "name": "OnFinality node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg",
+        "addressPrefix": 37,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/nodle.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Interlay",
+        "assets": [
+            {
+                "assetId": "intr"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://api.interlay.io/parachain",
+                "name": "Kintsugi Labs node"
+            },
+            {
+                "url": "wss://interlay.api.onfinality.io",
+                "name": "OnFinality node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
+        "addressPrefix": 42,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/interlay.json",
+            "overridesCommon": true
+        }
     }
 ]
