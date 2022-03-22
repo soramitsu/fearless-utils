@@ -17,7 +17,8 @@
                 "ExtrinsicSignature": "acala_primitives::signature::AcalaMultiSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "acala_runtime::Event": "GenericEvent",
-                "acala_runtime::Call": "GenericCall"
+                "acala_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ]

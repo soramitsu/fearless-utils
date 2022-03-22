@@ -15,7 +15,8 @@
         "ExtrinsicSignature": "sp_runtime::MultiSignature",
         "ParaId": "polkadot_parachain::primitives::Id",
         "zeitgeist_runtime::Event": "GenericEvent",
-        "zeitgeist_runtime::Call": "GenericCall"
+        "zeitgeist_runtime::Call": "GenericCall",
+        "sp_core::crypto::AccountId32": "GenericAccountId"
       }
     }
   ]

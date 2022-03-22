@@ -15,7 +15,8 @@
         "ExtrinsicSignature": "sp_runtime::MultiSignature",
         "ParaId": "polkadot_parachain::primitives::Id",
         "khala_parachain_runtime::Event": "GenericEvent",
-        "khala_parachain_runtime::Call": "GenericCall"
+        "khala_parachain_runtime::Call": "GenericCall",
+        "sp_core::crypto::AccountId32": "GenericAccountId"
       }
     }
   ]

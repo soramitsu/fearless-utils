@@ -15,7 +15,8 @@
                 "ExtrinsicSignature": "sp_runtime::MultiSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "clover_runtime::Event": "GenericEvent",
-                "clover_runtime::Call": "GenericCall"
+                "clover_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ]

@@ -15,7 +15,8 @@
                 "ExtrinsicSignature": "sp_runtime::MultiSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "astar_runtime::Event": "GenericEvent",
-                "astar_runtime::Call": "GenericCall"
+                "astar_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ]

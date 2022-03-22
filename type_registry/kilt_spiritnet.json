@@ -15,7 +15,8 @@
                 "ExtrinsicSignature": "sp_runtime::MultiSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "spiritnet_runtime::Event": "GenericEvent",
-                "spiritnet_runtime::Call": "GenericCall"
+                "spiritnet_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ]

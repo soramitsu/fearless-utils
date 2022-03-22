@@ -15,7 +15,8 @@
                 "ExtrinsicSignature": "sp_runtime::MultiSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "bifrost_kusama_runtime::Event": "GenericEvent",
-                "bifrost_kusama_runtime::Call": "GenericCall"
+                "bifrost_kusama_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ]

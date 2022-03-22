@@ -34,7 +34,8 @@
                 "ExtrinsicSignature": "EthereumSignature",
                 "ParaId": "polkadot_parachain::primitives::Id",
                 "moonbeam_runtime::Event": "GenericEvent",
-                "moonbeam_runtime::Call": "GenericCall"
+                "moonbeam_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
     ],
