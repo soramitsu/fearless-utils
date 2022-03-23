@@ -10,13 +10,6 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "56",
-        "Address": "91",
-        "ExtrinsicSignature": "188",
-        "ParaId": "128",
-        "20": "GenericEvent",
-        "103": "GenericCall",
-
         "Phase": "frame_system::Phase",
         "Address": "sp_runtime::multiaddress::MultiAddress",
         "ExtrinsicSignature": "sp_runtime::MultiSignature",
