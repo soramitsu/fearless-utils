@@ -1101,7 +1101,7 @@
     "options": [
       "orml"
     ],
-    "iosMinAppVersion": "2.0.7"
+    "iosMinAppVersion": "2.0.8"
   },
   {
     "chainId": "9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243",
@@ -1317,7 +1317,8 @@
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/nodle.json",
       "overridesCommon": true
-    }
+    },
+    "iosMinAppVersion": "2.0.8"
   },
   {
     "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
@@ -1365,6 +1366,7 @@
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/litmus.json",
       "overridesCommon": true
-    }
+    },
+    "iosMinAppVersion": "2.0.8"
   }
 ]
