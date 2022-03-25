@@ -1263,7 +1263,7 @@
         "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Centrifuge",
-        "minSupportedVersion": "2.0.5",
+        "minSupportedVersion": "2.0.4",
         "assets": [
             {
                 "assetId": "cfg"
@@ -1337,7 +1337,7 @@
         "chainId": "da5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Litmus",
-        "minSupportedVersion": "2.0.5",
+        "minSupportedVersion": "2.0.4",
         "assets": [
             {
                 "assetId": "lit"
