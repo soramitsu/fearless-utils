@@ -55,7 +55,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadot.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/polkadot.json",
             "overridesCommon": true
         },
         "options": [
@@ -117,7 +117,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
         "addressPrefix": 2,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/kusama.json",
             "overridesCommon": true
         },
         "options": [
@@ -162,12 +162,16 @@
             {
                 "url": "wss://westend-rpc.polkadot.io",
                 "name": "Parity node"
+            },
+            {
+                "url": "wss://westend-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
         "addressPrefix": 42,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/westend.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/westend.json",
             "overridesCommon": true
         },
         "options": [
@@ -205,12 +209,16 @@
             {
                 "url": "wss://statemine-rpc.polkadot.io",
                 "name": "Parity node"
+            },
+            {
+                "url": "wss://statemine-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
         "addressPrefix": 2,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/statemine.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/statemine.json",
             "overridesCommon": true
         }
     },
@@ -237,12 +245,16 @@
             {
                 "url": "wss://statemint-rpc.polkadot.io",
                 "name": "Parity node"
+            },
+            {
+                "url": "wss://statemint-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
         "addressPrefix": 0,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/statemint.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/statemint.json",
             "overridesCommon": true
         }
     },
@@ -272,12 +284,32 @@
             {
                 "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
+            },
+            {
+                "url": "wss://acala-rpc-0.aca-api.network",
+                "name": "Acala Foundation 0 node"
+            },
+            {
+                "url": "wss://acala-rpc-1.aca-api.network",
+                "name": "Acala Foundation 1 node"
+            },
+            {
+                "url": "wss://acala-rpc-3.aca-api.network/ws",
+                "name": "Acala Foundation 3 node"
+            },
+            {
+                "url": "wss://acala-rpc.dwellir.com",
+                "name": "Dwellir node"
+            },
+            {
+                "url": "wss://acala.polkawallet.io",
+                "name": "Polkawallet node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
         "addressPrefix": 10,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/acala.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/acala.json",
             "overridesCommon": true
         }
     },
@@ -327,12 +359,16 @@
             {
                 "url": "wss://karura.polkawallet.io",
                 "name": "Polkawallet node"
+            },
+            {
+                "url": "wss://karura-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
         "addressPrefix": 8,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/karura.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/karura.json",
             "overridesCommon": true
         }
     },
@@ -364,18 +400,18 @@
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://wss.moonriver.moonbeam.network",
-                "name": "PureStake node"
+                "url": "wss://wss.api.moonriver.moonbeam.network",
+                "name": "Moonbeam Foundation node"
             },
             {
-                "url": "wss://rpc.pinknode.io/moonriver/explorer",
-                "name": "Pinknode node"
+                "url": "wss://moonriver-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
         "addressPrefix": 1285,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonriver.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/moonriver.json",
             "overridesCommon": true
         },
         "options": [
@@ -412,12 +448,16 @@
             {
                 "url": "wss://rpc.pinknode.io/shiden/explorer",
                 "name": "Pinknode node"
+            },
+            {
+                "url": "wss://shiden-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg",
         "addressPrefix": 5,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/shiden.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/shiden.json",
             "overridesCommon": true
         }
     },
@@ -450,13 +490,21 @@
             },
             {
                 "url": "wss://bifrost-rpc.liebi.com/ws",
-                "name": "Liebi node"
+                "name": "Liebi 0 node"
+            },
+            {
+                "url": "wss://us.bifrost-rpc.liebi.com/ws",
+                "name": "Liebi 1 node"
+            },
+            {
+                "url": "wss://eu.bifrost-rpc.liebi.com/ws",
+                "name": "Liebi 2 node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
         "addressPrefix": 6,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bifrost.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/bifrost.json",
             "overridesCommon": true
         }
     },
@@ -495,7 +543,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
         "addressPrefix": 30,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/khala.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/khala.json",
             "overridesCommon": true
         }
     },
@@ -529,12 +577,16 @@
             {
                 "url": "wss://spiritnet.kilt.io/",
                 "name": "KILT Protocol node"
+            },
+            {
+                "url": "wss://kilt-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg",
         "addressPrefix": 38,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kilt_spiritnet.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/kilt_spiritnet.json",
             "overridesCommon": true
         }
     },
@@ -566,10 +618,6 @@
                 "name": "OnFinality node"
             },
             {
-                "url": "wss://falafel.calamari.systems/",
-                "name": "Calamari Falafel node"
-            },
-            {
                 "url": "wss://ws.calamari.systems/",
                 "name": "Manta Network node"
             }
@@ -577,7 +625,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
         "addressPrefix": 78,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/calamari.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/calamari.json",
             "overridesCommon": true
         }
     },
@@ -617,7 +665,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
         "addressPrefix": 255,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/quartz.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/quartz.json",
             "overridesCommon": true
         }
     },
@@ -656,7 +704,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
         "addressPrefix": 110,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/parallelheiko.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/parallelheiko.json",
             "overridesCommon": true
         }
     },
@@ -691,7 +739,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/picasso.svg",
         "addressPrefix": 49,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/picasso.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/picasso.json",
             "overridesCommon": true
         }
     },
@@ -730,7 +778,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
         "addressPrefix": 136,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/altair.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/altair.json",
             "overridesCommon": true
         }
     },
@@ -762,7 +810,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
         "addressPrefix": 268,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitcountry.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/bitcountry.json",
             "overridesCommon": true
         }
     },
@@ -801,7 +849,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
         "addressPrefix": 128,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/clover.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/clover.json",
             "overridesCommon": true
         }
     },
@@ -829,18 +877,22 @@
         ],
         "nodes": [
             {
+                "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            },
+            {
                 "url": "wss://rpc.astar.network",
                 "name": "Astar node"
             },
             {
-                "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-                "name": "OnFinality node"
+                "url": "wss://astar-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
         "addressPrefix": 5,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/astar.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/astar.json",
             "overridesCommon": true
         }
     },
@@ -879,7 +931,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
         "addressPrefix": 172,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/parallel.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/parallel.json",
             "overridesCommon": true
         }
     },
@@ -907,7 +959,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg",
         "addressPrefix": 10041,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/basilisk.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/basilisk.json",
             "overridesCommon": true
         }
     },
@@ -940,13 +992,17 @@
             },
             {
                 "url": "wss://wss.api.moonbeam.network",
-                "name": "PureStake node"
+                "name": "Moonbeam Foundation node"
+            },
+            {
+                "url": "wss://moonbeam-rpc.dwellir.com",
+                "name": "Dwellir node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
         "addressPrefix": 1284,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonbeam.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/moonbeam.json",
             "overridesCommon": true
         },
         "options": [
@@ -981,17 +1037,13 @@
             },
             {
                 "url": "wss://wss.api.moonbase.moonbeam.network",
-                "name": "Moonbeam Network node"
-            },
-            {
-                "url": "wss://rpc.pinknode.io/alphanet/explorer",
-                "name": "Pinknode node"
+                "name": "Moonbeam Foundation node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
         "addressPrefix": 1287,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonbasealpha.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/moonbasealpha.json",
             "overridesCommon": true
         },
         "options": [
@@ -1030,7 +1082,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg",
         "addressPrefix": 32,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/robonomics.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/robonomics.json",
             "overridesCommon": true
         }
     },
@@ -1062,7 +1114,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg",
         "addressPrefix": 2092,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kintsugi.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/kintsugi.json",
             "overridesCommon": true
         }
     },
@@ -1084,7 +1136,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/subsocial_new.svg",
         "addressPrefix": 28,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/subsocial.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/subsocial.json",
             "overridesCommon": true
         }
     },
@@ -1106,7 +1158,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/zeitgeist.svg",
         "addressPrefix": 73,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/zeitgeist.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/zeitgeist.json",
             "overridesCommon": true
         }
     },
@@ -1134,7 +1186,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
         "addressPrefix": 13,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/integritee.json",
             "overridesCommon": true
         }
     }
