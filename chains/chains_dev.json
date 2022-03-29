@@ -332,7 +332,9 @@
         },
         "assets": [
             {
-                "assetId": "kar",
+                "assetId": "kar"
+            },
+            {
                 "assetId": "tai"
             }
         ],
