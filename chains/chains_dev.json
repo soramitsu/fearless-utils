@@ -997,7 +997,8 @@
         },
         "assets": [
             {
-                "assetId": "glmr"
+                "assetId": "glmr",
+                "staking": "parachain"
             }
         ],
         "nodes": [
