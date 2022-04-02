@@ -985,5 +985,71 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/efinity.json",
       "overridesCommon": true
     }
+  },
+  {
+    "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Centrifuge",
+    "assets": [
+      {
+        "assetId": "cfg"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://fullnode.parachain.centrifuge.io",
+        "name": "Centrufge node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/centrifuge.svg",
+    "addressPrefix": 36,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/centrifuge.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Nodle Parachain",
+    "assets": [
+      {
+        "assetId": "nodl"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://nodle-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg",
+    "addressPrefix": 37,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/nodle.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "da5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Litmus",
+    "assets": [
+      {
+        "assetId": "lit"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc.litmus-parachain.litentry.io",
+        "name": "Litentry node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litmus.svg",
+    "addressPrefix": 131,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/litmus.json",
+      "overridesCommon": true
+    }
   }
 ]
