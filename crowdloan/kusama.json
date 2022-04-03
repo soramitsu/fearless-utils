@@ -359,5 +359,14 @@
     "icon": "",
     "rewardRate": 20
   },
+  {
+    "paraid": "2118",
+    "name": "Listen",
+    "token": "LT",
+    "description": "Voice social software based on decentralized data storage technology and blockchain technology",
+    "website": "https://listen.io/",
+    "icon": "",
+    "rewardRate": 1
+  }
   
 ]
