@@ -349,5 +349,15 @@
     "website": "https://dorafactory.org/kusama/",
     "icon": "",
     "rewardRate": 3
-  }
+  },
+  {
+    "paraid": "2116",
+    "name": "Tanganika",
+    "token": "DHX",
+    "description": "Inter-Chain Data Market and LPWAN",
+    "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
+    "icon": "",
+    "rewardRate": 20
+  },
+  
 ]
