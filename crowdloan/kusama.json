@@ -340,5 +340,14 @@
     "website": "https://x.mangata.finance/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/MagnataX.png",
     "rewardRate": 6250
+  },
+  {
+    "paraid": "2115",
+    "name": "Dora Factory",
+    "token": "DORA",
+    "description": "The DAO infrastructure of the Kusama ecosystem",
+    "website": "https://dorafactory.org/kusama/",
+    "icon": "",
+    "rewardRate": 3
   }
 ]
