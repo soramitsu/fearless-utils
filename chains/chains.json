@@ -985,7 +985,7 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/efinity.json",
       "overridesCommon": true
     },
-    "iosMinAppVersion": "2.0.8"
+    "iosMinAppVersion": "2.0.7"
   },
   {
     "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b",
