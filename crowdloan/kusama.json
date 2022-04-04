@@ -356,7 +356,7 @@
     "token": "DORA",
     "description": "The DAO infrastructure of the Kusama ecosystem",
     "website": "https://dorafactory.org/kusama/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DoraFactory.png",
     "rewardRate": 3
   },
   {
@@ -365,7 +365,7 @@
     "token": "DHX",
     "description": "Inter-Chain Data Market and LPWAN",
     "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DataHighway.png",
     "rewardRate": 20
   },
   {
@@ -374,7 +374,7 @@
     "token": "LT",
     "description": "Voice social software based on decentralized data storage technology and blockchain technology",
     "website": "https://listen.io/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Listen.png",
     "rewardRate": 1
   }
 ]
