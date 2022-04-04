@@ -349,5 +349,32 @@
     "website": "https://oak.tech/turing/crowdloan/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/TUR.png",
     "rewardRate": 1150
+  },
+  {
+    "paraid": "2115",
+    "name": "Dora Factory",
+    "token": "DORA",
+    "description": "The DAO infrastructure of the Kusama ecosystem",
+    "website": "https://dorafactory.org/kusama/",
+    "icon": "",
+    "rewardRate": 3
+  },
+  {
+    "paraid": "2116",
+    "name": "Tanganika",
+    "token": "DHX",
+    "description": "Inter-Chain Data Market and LPWAN",
+    "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
+    "icon": "",
+    "rewardRate": 20
+  },
+  {
+    "paraid": "2118",
+    "name": "Listen",
+    "token": "LT",
+    "description": "Voice social software based on decentralized data storage technology and blockchain technology",
+    "website": "https://listen.io/",
+    "icon": "",
+    "rewardRate": 1
   }
 ]
