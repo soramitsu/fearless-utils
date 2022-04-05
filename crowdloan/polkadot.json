@@ -245,5 +245,14 @@
     "website": "https://unique.network/token/crowdloan/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/unique.png",
     "rewardRate": 5.28
+  },
+  {
+    "paraid": "2013",
+    "name": "Litentry",
+    "token": "LIT",
+    "description": "Litentry is a decentralized cross-chain identity aggregation protocol that links different identity across networks in a privacy-preserving way",
+    "website": "https://crowdloan.litentry.com",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Litentry.png",
+    "rewardRate": 12
   }
 ]
