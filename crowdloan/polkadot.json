@@ -253,6 +253,6 @@
     "description": "Litentry is a decentralized cross-chain identity aggregation protocol that links different identity across networks in a privacy-preserving way",
     "website": "https://crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Litentry.png",
-    "rewardRate": 12
+    "rewardRate": 12.0
   }
 ]
