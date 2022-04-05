@@ -254,5 +254,14 @@
     "website": "https://crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Litentry.png",
     "rewardRate": 12.0
+  },
+  {
+    "paraid": "2040",
+    "name": "Polkadex",
+    "token": "PDEX",
+    "description": "The trading engine for Web3 and DeFi",
+    "website": "https://www.polkadex.trade/crowdloans",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
+    "rewardRate": 2.0
   }
 ]
