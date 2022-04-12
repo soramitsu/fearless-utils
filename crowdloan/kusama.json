@@ -376,5 +376,14 @@
     "website": "https://listen.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Listen.png",
     "rewardRate": 1
+  },
+   {
+    "paraid": "2113",
+    "name": "Kabocha",
+    "token": "KAB",
+    "description": "Kabocha is a holistic self-evolving grass-roots parachain project spawned from Edgeware, funding and incubating teams to build new public infrastructure",
+    "website": "https://crowdloan.kabocha.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kabocha.png",
+    "rewardRate": 160.0
   }
 ]
