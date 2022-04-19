@@ -1409,7 +1409,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://api.phala.network",
+                "url": "wss://api.phala.network/ws",
                 "name": "Phala node"
             }
 
