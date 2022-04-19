@@ -1358,5 +1358,68 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/litmus.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Turing Network",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "tur"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc.turing.oak.tech",
+                "name": "OAK node"
+            },
+            {
+                "url": "turing.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "Onfinality node"
+            }
+            
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
+        "addressPrefix": 51,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/turing.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Phala",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "pha"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://api.phala.network",
+                "name": "Phala node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/phala.svg",
+        "addressPrefix": 30,
+        "types": {
+            "url": "https://github.com/soramitsu/fearless-utils/blob/android/v2/type_registry/phala.json",
+            "overridesCommon": true
+        }
     }
+
 ]
