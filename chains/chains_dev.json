@@ -1371,7 +1371,7 @@
         },
         "assets": [
             {
-                "assetId": "TUR"
+                "assetId": "tur"
             }
         ],
         "nodes": [
@@ -1404,7 +1404,7 @@
         },
         "assets": [
             {
-                "assetId": "PHA"
+                "assetId": "pha"
             }
         ],
         "nodes": [
