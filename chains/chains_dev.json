@@ -1376,14 +1376,13 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc.turing.oak.tech",
-                "name": "OAK node"
-            },
-            {
                 "url": "turing.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "Onfinality node"
+            },
+            {
+                "url": "wss://rpc.turing.oak.tech",
+                "name": "OAK node"
             }
-            
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
         "addressPrefix": 51,
@@ -1412,14 +1411,12 @@
                 "url": "wss://api.phala.network/ws",
                 "name": "Phala node"
             }
-
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/phala.svg",
         "addressPrefix": 30,
         "types": {
-            "url": "https://github.com/soramitsu/fearless-utils/blob/android/v2/type_registry/phala.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/phala.json",
             "overridesCommon": true
         }
     }
-
 ]
