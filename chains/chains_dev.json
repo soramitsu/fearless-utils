@@ -394,7 +394,8 @@
         },
         "assets": [
             {
-                "assetId": "movr"
+                "assetId": "movr",
+                "staking": "parachain"
             }
         ],
         "nodes": [
@@ -1043,7 +1044,8 @@
         },
         "assets": [
             {
-                "assetId": "dev"
+                "assetId": "dev",
+                "staking": "parachain"
             }
         ],
         "nodes": [
