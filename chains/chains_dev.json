@@ -1376,7 +1376,7 @@
         ],
         "nodes": [
             {
-                "url": "turing.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "url": "wss://turing.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "Onfinality node"
             },
             {
