@@ -263,5 +263,14 @@
     "website": "https://www.polkadex.trade/crowdloans",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
     "rewardRate": 2.0
-  }
+  },
+  {
+    "paraid": "2030",
+    "name": "Bifrost",
+    "token": "BNC",
+    "description": "A parachain designed for staking's liquidity",
+    "website": "https://bifrost.finance/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/bifrost.png",
+    "rewardRate": 10
+  },
 ]
