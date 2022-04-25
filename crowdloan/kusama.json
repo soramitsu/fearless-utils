@@ -385,5 +385,14 @@
     "website": "https://crowdloan.kabocha.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kabocha.png",
     "rewardRate": 160.0
+  },
+  {
+    "paraid": "2120",
+    "name": "Shiden",
+    "token": "SDN",
+    "description": "Multi-chain decentralized application layer on Kusama Network",
+    "website": "https://shiden.astar.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.png",
+    "rewardRate": 23.33
   }
 ]
