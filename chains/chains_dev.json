@@ -384,8 +384,7 @@
     },
     "assets": [
       {
-        "assetId": "movr",
-        "staking": "parachain"
+        "assetId": "movr"
       }
     ],
     "nodes": [
@@ -996,8 +995,7 @@
     },
     "assets": [
       {
-        "assetId": "glmr",
-        "staking": "parachain"
+        "assetId": "glmr"
       }
     ],
     "nodes": [
@@ -1041,8 +1039,7 @@
     },
     "assets": [
       {
-        "assetId": "dev",
-        "staking": "parachain"
+        "assetId": "dev"
       }
     ],
     "nodes": [
