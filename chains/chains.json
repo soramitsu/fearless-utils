@@ -1151,6 +1151,10 @@
         ],
         "nodes": [
             {
+                "url": "wss://zeitgeist-rpc.dwellir.com",
+                "name": "Dwellir node"
+            },
+            {
                 "url": "wss://rpc-0.zeitgeist.pm",
                 "name": "ZeitgeistPM node"
             }
