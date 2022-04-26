@@ -1407,10 +1407,6 @@
             }
         ],
         "nodes": [
-            {
-                "url": "wss://api.phala.network/ws",
-                "name": "Phala node"
-            }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/phala.svg",
         "addressPrefix": 30,
