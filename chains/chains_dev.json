@@ -1064,10 +1064,6 @@
             }
         ],
         "nodes": [
-            {
-                "url": "wss://node1.genshiro.io/",
-                "name": "Genshiro node"
-            }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg",
         "addressPrefix": 67
