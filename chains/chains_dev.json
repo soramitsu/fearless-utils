@@ -13,7 +13,7 @@
             },
             "crowdloans": {
                 "type": "github",
-                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/polkadot.json"
+                "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/crowdloan-update/crowdloan/polkadot.json"
             },
             "explorers": [
                 {
