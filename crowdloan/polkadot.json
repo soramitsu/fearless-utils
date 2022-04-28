@@ -239,6 +239,7 @@
   },
   {
     "paraid": "2037",
+    "disabled": true,
     "name": "Unique Network",
     "token": "UNQ",
     "description": "THE UNIQUE CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
@@ -248,6 +249,7 @@
   },
   {
     "paraid": "2013",
+    "disabled": true,
     "name": "Litentry",
     "token": "LIT",
     "description": "THE LITENTRY CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
