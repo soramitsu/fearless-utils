@@ -37,7 +37,7 @@
     },
     "assets": [
       {
-        "assetId": "dot",
+        "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75",
         "staking": "relaychain",
         "purchaseProviders": [
           "moonpay",
@@ -107,7 +107,7 @@
     },
     "assets": [
       {
-        "assetId": "ksm",
+        "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b",
         "staking": "relaychain",
         "purchaseProviders": [
           "ramp"
@@ -167,7 +167,7 @@
     },
     "assets": [
       {
-        "assetId": "wnd",
+        "assetId": "a3868e1b-922e-42d4-b73e-b41712f0843c",
         "staking": "relaychain"
       }
     ],
@@ -214,7 +214,7 @@
     },
     "assets": [
       {
-        "assetId": "ksm"
+        "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b"
       }
     ],
     "nodes": [
@@ -246,7 +246,7 @@
     },
     "assets": [
       {
-        "assetId": "dot"
+        "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75"
       }
     ],
     "nodes": [
@@ -288,7 +288,7 @@
     },
     "assets": [
       {
-        "assetId": "aca"
+        "assetId": "c801d6c1-3edf-41a9-9aea-da705eab249b"
       }
     ],
     "nodes": [
@@ -326,7 +326,7 @@
     },
     "assets": [
       {
-        "assetId": "kar"
+        "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5"
       }
     ],
     "nodes": [
@@ -384,7 +384,7 @@
     },
     "assets": [
       {
-        "assetId": "movr"
+        "assetId": "35346815-009a-4cf9-a5ad-85a0167e594d"
       }
     ],
     "nodes": [
@@ -429,7 +429,7 @@
     },
     "assets": [
       {
-        "assetId": "sdn"
+        "assetId": "6dbb524b-a2d7-4c32-b0f9-6825b3e7d2c4"
       }
     ],
     "nodes": [
@@ -475,7 +475,7 @@
     },
     "assets": [
       {
-        "assetId": "bnc"
+        "assetId": "559e80d6-fb38-4dd5-bbd6-c0a7c2f600e1"
       }
     ],
     "nodes": [
@@ -517,7 +517,7 @@
     },
     "assets": [
       {
-        "assetId": "pha"
+        "assetId": "3feb7de3-e881-4c04-a4de-1b9091dbc324"
       }
     ],
     "nodes": [
@@ -559,7 +559,7 @@
     },
     "assets": [
       {
-        "assetId": "kilt"
+        "assetId": "f0d5cadc-4999-45f3-8160-15243f2909d3"
       }
     ],
     "nodes": [
@@ -601,7 +601,7 @@
     },
     "assets": [
       {
-        "assetId": "kma"
+        "assetId": "39d4080e-e2ab-43f3-bcc2-2fa281d9290c"
       }
     ],
     "nodes": [
@@ -637,7 +637,7 @@
     },
     "assets": [
       {
-        "assetId": "qtz"
+        "assetId": "d0f2e718-99ee-4bc2-8dc2-1ce07f21c5ac"
       }
     ],
     "nodes": [
@@ -687,7 +687,7 @@
     },
     "assets": [
       {
-        "assetId": "hko"
+        "assetId": "02b54158-4f4f-4077-b6a7-7c9edd75a1ca"
       }
     ],
     "nodes": [
@@ -729,7 +729,7 @@
     },
     "assets": [
       {
-        "assetId": "pica"
+        "assetId": "d24959cd-72fb-4155-9880-86d42b1d1cbb"
       }
     ],
     "nodes": [
@@ -767,7 +767,7 @@
     },
     "assets": [
       {
-        "assetId": "air"
+        "assetId": "56c7f785-23d6-4199-accf-846be58011e6"
       }
     ],
     "nodes": [
@@ -799,7 +799,7 @@
     },
     "assets": [
       {
-        "assetId": "neer"
+        "assetId": "d3b93409-97b1-42e0-8dbc-99d3fb93fc10"
       }
     ],
     "nodes": [
@@ -841,7 +841,7 @@
     },
     "assets": [
       {
-        "assetId": "clv"
+        "assetId": "4b7ab596-bff4-4fd8-9c60-24ef1cbe9584
       }
     ],
     "nodes": [
@@ -883,7 +883,7 @@
     },
     "assets": [
       {
-        "assetId": "astr"
+        "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab"
       }
     ],
     "nodes": [
@@ -925,7 +925,7 @@
     },
     "assets": [
       {
-        "assetId": "para"
+        "assetId": "f78aa731-a33c-4d8d-a3bb-74835064366b"
       }
     ],
     "nodes": [
@@ -957,7 +957,7 @@
     },
     "assets": [
       {
-        "assetId": "bsx"
+        "assetId": "7dae28e2-9f5e-49ff-9140-aa750a9579ea"
       }
     ],
     "nodes": [
@@ -995,7 +995,7 @@
     },
     "assets": [
       {
-        "assetId": "glmr"
+        "assetId": "e40c8161-9fc9-4749-a3b8-ed1c0ad16475"
       }
     ],
     "nodes": [
@@ -1039,7 +1039,7 @@
     },
     "assets": [
       {
-        "assetId": "dev"
+        "assetId": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5"
       }
     ],
     "nodes": [
@@ -1079,7 +1079,7 @@
     },
     "assets": [
       {
-        "assetId": "kint"
+        "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db"
       }
     ],
     "nodes": [
@@ -1143,7 +1143,7 @@
     },
     "assets": [
       {
-        "assetId": "xrt"
+        "assetId": "ca39e03e-dde3-41ac-b1f4-a3d20202b79e"
       }
     ],
     "nodes": [
@@ -1165,7 +1165,7 @@
     "name": "SORA Kusama",
     "assets": [
       {
-        "assetId": "xor"
+        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604"
       }
     ],
     "nodes": [
@@ -1187,7 +1187,7 @@
     "name": "Subsocial",
     "assets": [
       {
-        "assetId": "sub"
+        "assetId": "07f9e907-d099-4893-a67b-96cb2fe63049"
       }
     ],
     "nodes": [
@@ -1209,7 +1209,7 @@
     "name": "Zeitgeist",
     "assets": [
       {
-        "assetId": "ztg"
+        "assetId": "2246fe14-4ec4-460c-8d92-e15bd337f8af"
       }
     ],
     "nodes": [
@@ -1237,7 +1237,7 @@
     },
     "assets": [
       {
-        "assetId": "efi"
+        "assetId": "80b7c347-161d-40a9-aed6-b2f202e3577e"
       }
     ],
     "nodes": [
@@ -1259,7 +1259,7 @@
     "name": "HydraDX",
     "assets": [
       {
-        "assetId": "hdx"
+        "assetId": "fce79b6c-e071-4271-837e-6ec87a719390"
       }
     ],
     "nodes": [
@@ -1281,7 +1281,7 @@
     "name": "Centrifuge",
     "assets": [
       {
-        "assetId": "cfg"
+        "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee"
       }
     ],
     "nodes": [
@@ -1303,7 +1303,7 @@
     "name": "Nodle Parachain",
     "assets": [
       {
-        "assetId": "nodl"
+        "assetId": "e0e1107-e323-43aa-bb93-d7618d2c8cf5"
       }
     ],
     "nodes": [
@@ -1325,7 +1325,7 @@
     "name": "Interlay",
     "assets": [
       {
-        "assetId": "intr"
+        "assetId": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd"
       }
     ],
     "nodes": [
@@ -1351,7 +1351,7 @@
     "name": "Litmus",
     "assets": [
       {
-        "assetId": "lit"
+        "assetId": "15076759-6a5b-4cd6-b84c-e64842f094e5"
       }
     ],
     "nodes": [
