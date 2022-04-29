@@ -113,7 +113,7 @@
     "id": "07f9e907-d099-4893-a67b-96cb2fe63049",
     "symbol": "SUB",
     "chainId": "4a12be580bb959937a1c7a61d5cf24428ed67fa571974b4007645d1886e7c89f",
-    "precision": 11,
+    "precision": 10,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/subsocial_new.svg"
   },
   {
