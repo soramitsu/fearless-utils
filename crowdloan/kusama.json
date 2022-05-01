@@ -394,5 +394,13 @@
     "website": "https://shiden.astar.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.png",
     "rewardRate": 23.33
+  },
+  {
+    "paraid": "2119",
+    "name": "Bajun Network",
+    "token": "BAJUN",
+    "description": "Multi-chain decentralized application layer on Kusama Network",
+    "website": "https://ajuna.io/",
+    "icon": "",
   }
 ]
