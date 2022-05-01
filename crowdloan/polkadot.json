@@ -283,5 +283,14 @@
     "website": "https://parachain.origintrail.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OriginTrail.png",
     "rewardRate": 20
+  },
+  {
+    "paraid": "2007",
+    "name": "Kapex",
+    "token": "KAPEX",
+    "description": "We take accounting off your to-do list",
+    "website": "https://totemaccounting.com/",
+    "icon": "",
+    "rewardRate": 0.1
   }
 ]
