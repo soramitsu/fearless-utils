@@ -290,7 +290,7 @@
     "token": "KAPEX",
     "description": "We take accounting off your to-do list",
     "website": "https://totemaccounting.com/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kapex (Totem).png",
     "rewardRate": 0.1
   }
 ]
