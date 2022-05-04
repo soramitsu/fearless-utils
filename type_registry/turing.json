@@ -11,7 +11,7 @@
                 "Balance": "u128",
                 "Index": "u32",
                 "GenericEvent": "turing_runtime::Event",
-                "GenericCall": "turing_runtime::Call",
+                "GenericCall": "turing_runtime::Call"
             }
         }
     ]
