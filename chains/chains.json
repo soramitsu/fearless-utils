@@ -1110,5 +1110,54 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/litmus.json",
       "overridesCommon": true
     }
-  }
+  },
+  {
+        "chainId": "d4c0c08ca49dc7c680c3dac71a7c0703e5b222f4b6c03fe4c5219bb8f22c18dc",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Crust Shadow Parachain",
+        "assets": [
+            {
+                "assetId": "csm"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc-shadow.crust.network",
+                "name": "Crust node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crustshadow.svg",
+        "addressPrefix": 66,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crustshadow.json",
+            "overridesCommon": true
+        }
+    },
+  {
+        "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Turing Network",
+        "assets": [
+            {
+                "assetId": "tur"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://turing.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "Onfinality node"
+            },
+            {
+                "url": "wss://rpc.turing.oak.tech",
+                "name": "OAK node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
+        "addressPrefix": 51,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/turing.json",
+            "overridesCommon": true
+        }
+    }
 ]
