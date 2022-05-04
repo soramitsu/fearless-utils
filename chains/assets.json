@@ -258,5 +258,11 @@
     "precision": 12,
     "priceId": "litentry",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litmus.svg"
-  }
+  },
+  {
+      "id": "tur",
+      "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
+      "precision": 10,
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg"
+    }
 ]
