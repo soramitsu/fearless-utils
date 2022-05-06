@@ -1338,6 +1338,9 @@
         "name": "Kintsugi Labs node"
       }
     ],
+    "options": [
+      "orml"
+    ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
     "addressPrefix": 42,
     "types": {
