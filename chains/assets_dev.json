@@ -319,5 +319,49 @@
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
     "precision": 9,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
+  },
+  {
+    "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
+    "symbol": "aUSD",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "tether",
+    "icon": "",
+    "currencyIdScale": "0x0081",
+    "existentialDeposit": "10000000000",
+    "transfersEnabled": true
+  },
+  {
+    "id": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8",
+    "symbol": "KSM",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "kusama",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "currencyIdScale": "0x0082",
+    "existentialDeposit": "100000000",
+    "transfersEnabled": true
+  },
+  {
+    "id": "e605149c-0f41-4ec9-960f-21c07e2d9361",
+    "symbol": "RMRK",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 10,
+    "priceId": "rmrk",
+    "icon": "",
+    "currencyIdScale": "0x050000",
+    "existentialDeposit": "100000000",
+    "transfersEnabled": true
+  },
+  {
+    "id": "10757cfa-b590-43c1-8524-efc28d798bcb",
+    "symbol": "BNC",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "bifrost-native-coin",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
+    "currencyIdScale": "0x00a8",
+    "existentialDeposit": "8000000000",
+    "transfersEnabled": true
   }
 ]
