@@ -327,7 +327,15 @@
     "assets": [
       {
         "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5"
-      }
+      },
+      {
+       "currencyIdType": "acala_primitives.currency.CurrencyId",
+       "type": "orml",
+       "assetId": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
+       "assetId": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8",
+       "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361",
+       "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
+       }
     ],
     "nodes": [
       {
