@@ -1456,7 +1456,7 @@
         },
         "assets": [
             {
-                "assetId": "TOKEN"
+                "assetId": "token"
             }
         ],
         "nodes": [
