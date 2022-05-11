@@ -1221,6 +1221,12 @@
         "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Centrifuge",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-centrifuge"
+            }
+        },
         "minSupportedVersion": "2.0.4",
         "assets": [
             {
@@ -1245,6 +1251,12 @@
         "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Nodle Parachain",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-nodle"
+            }
+        },
         "assets": [
             {
                 "assetId": "nodl"
@@ -1294,7 +1306,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-efinity__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-efinity"
             }
         },
         "assets": [
