@@ -220,15 +220,6 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/hydradx.png"
   },
   {
-    "paraid": "2036",
-    "name": "Polkadex",
-    "token": "PDEX",
-    "description": "The trading engine for Web3 and DeFi",
-    "website": "https://www.polkadex.trade/crowdloans",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
-    "rewardRate": 0.1875
-  },
-  {
     "paraid": "2038",
     "name": "Geminis",
     "token": "GEM",
@@ -245,7 +236,8 @@
     "description": "THE UNIQUE CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
     "website": "https://unique.network/token/crowdloan/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/unique.png",
-    "rewardRate": 5.28
+    "rewardRate": 5.28,
+    "disabled": true
   },
   {
     "paraid": "2013",
@@ -255,7 +247,8 @@
     "description": "THE LITENTRY CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
     "website": "https://crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Litentry.png",
-    "rewardRate": 8.0
+    "rewardRate": 8.0,
+    "disabled": true
   },
   {
     "paraid": "2040",
@@ -264,7 +257,8 @@
     "description": "THE POLKADEX CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
     "website": "https://www.polkadex.trade/crowdloans",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
-    "rewardRate": 2.0
+    "rewardRate": 2.0,
+    "disabled": true
   },
   {
     "paraid": "2030",
