@@ -282,7 +282,7 @@
     "paraid": "2007",
     "name": "Kapex",
     "token": "KAPEX",
-    "description": "We take accounting off your to-do list",
+    "description": "The world's first peer-to-peer accounting consensus protocol in the blockchain space",
     "website": "https://totemaccounting.com/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kapex (Totem).png",
     "rewardRate": 0.1
