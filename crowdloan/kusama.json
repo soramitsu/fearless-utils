@@ -357,7 +357,8 @@
     "description": "The DAO infrastructure of the Kusama ecosystem",
     "website": "https://dorafactory.org/kusama/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DoraFactory.png",
-    "rewardRate": 3
+    "rewardRate": 3,
+    "disabled": true
   },
   {
     "paraid": "2116",
@@ -393,7 +394,8 @@
     "description": "Multi-chain decentralized application layer on Kusama Network",
     "website": "https://shiden.astar.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.png",
-    "rewardRate": 23.33
+    "rewardRate": 23.33,
+    "disabled": true
   },
   {
     "paraid": "2119",
