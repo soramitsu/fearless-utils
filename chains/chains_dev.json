@@ -1168,6 +1168,10 @@
         ],
         "nodes": [
             {
+                "url": "wss://zeitgeist.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "OnFinality node"
+            },
+            {
                 "url": "wss://zeitgeist-rpc.dwellir.com",
                 "name": "Dwellir node"
             },
