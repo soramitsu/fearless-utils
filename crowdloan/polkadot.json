@@ -276,7 +276,8 @@
     "description": "THE ORIGINTRAIL CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
     "website": "https://parachain.origintrail.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OriginTrail.png",
-    "rewardRate": 20
+    "rewardRate": 20,
+    "disabled": true
   },
   {
     "paraid": "2007",
