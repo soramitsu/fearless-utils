@@ -1,22 +1,33 @@
 {
-    "runtime_id": 4,
-    "types": { },
-    "versioning": [
+  "runtime_id": 4,
+  "types": {},
+  "versioning": [
+    {
+      "runtime_range": [
+        0,
+        null
+      ],
+      "types": {
+        "17": "GenericEvent",
+        "84": "GenericCall",
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "57",
+        "Address": "126",
+        "ExtrinsicSignature": "267",
+        "ParaId": "142"
+      }
+    }
+  ],
+  "overrides": [
+    {
+      "module": "Balances",
+      "constants": [
         {
-            "runtime_range": [
-                0,
-                null
-            ],
-            "types": {
-                "Balance": "u128",
-                "Index": "u32",
-                "Phase": "57",
-                "Address": "126",
-                "ExtrinsicSignature": "267",
-                "ParaId": "142",
-                "17": "GenericEvent",
-                "84": "GenericCall"
-            }
+          "name": "DefaultTip",
+          "value": "0.000001"
         }
-    ]
+      ]
+    }
+  ]
 }
