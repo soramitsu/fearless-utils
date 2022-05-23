@@ -25,7 +25,7 @@
       "constants": [
         {
           "name": "DefaultTip",
-          "value": "0.000001"
+          "value": "1000000000000"
         }
       ]
     }
