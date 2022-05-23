@@ -650,7 +650,7 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
     "addressPrefix": 5,
     "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/astar.json",
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/ios-astar-default-tip/type_registry/astar.json",
       "overridesCommon": true
     },
     "options": [
