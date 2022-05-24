@@ -62,5 +62,13 @@
     "currencyIdScale": "0x00a8",
     "existentialDeposit": "8000000000",
     "transfersEnabled": true
+  },
+  {
+    "id": "f5d1db12-0a68-4897-903d-51a887daa1db",
+    "symbol": "KINT",
+    "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b",
+    "precision": 12,
+    "priceId": "kintsugi",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg"
   }
 ]
