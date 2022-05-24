@@ -19,5 +19,16 @@
                 "sp_core::crypto::AccountId32": "GenericAccountId"
             }
         }
+    ],
+    "overrides": [
+        {
+            "module": "Balances",
+            "constants": [
+                {
+                    "name": "DefaultTip",
+                    "value": "1000000000000"
+                }
+            ]
+        }
     ]
 }
