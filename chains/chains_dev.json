@@ -42,6 +42,11 @@
         "currencyIdType": "acala_primitives.currency.CurrencyId",
         "type": "orml",
         "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
+       },
+      {
+        "currencyIdType": "acala_primitives.currency.CurrencyId",
+        "type": "orml",
+        "assetId": "5446a3b1-9bb1-44f1-a6e1-114119b01913"
        }
     ],
     "nodes": [

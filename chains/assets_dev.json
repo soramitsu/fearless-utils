@@ -50,5 +50,15 @@
     "currencyIdScale": "0x00a8",
     "existentialDeposit": "8000000000",
     "transfersEnabled": true
+  },
+  {
+    "id": "5446a3b1-9bb1-44f1-a6e1-114119b01913",
+    "symbol": "LKSM",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "bifrost-native-coin",
+    "currencyIdScale": "0x00a8",
+    "existentialDeposit": "8000000000",
+    "transfersEnabled": true
   }
 ]
