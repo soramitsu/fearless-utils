@@ -1,0 +1,24 @@
+{
+    "runtime_id": 2012,
+    "types": { },
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "pallet_transaction_payment::ChargeTransactionPayment": "module_transaction_payment::ChargeTransactionPayment",
+                "sp_runtime::MultiSignature": "acala_primitives::signature::AcalaMultiSignature",
+                "Balance": "u128",
+                "Index": "u32",
+                "Phase": "169",
+                "Address": "209",
+                "ExtrinsicSignature": "526",
+                "ParaId": "109",
+                "17": "GenericEvent",
+                "195": "GenericCall"
+            }
+        }
+    ]
+}
