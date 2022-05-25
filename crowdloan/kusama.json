@@ -318,9 +318,91 @@
     "paraid": "2106",
     "name": "Litmus",
     "token": "LIT",
-    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks.",
+    "description": "A companion canary network to Litentry. Litentry is a Decentralized Identity Aggregation protocol across multiple networks",
     "website": "https://kusama-crowdloan.litentry.com",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litmus.png",
     "rewardRate": 30
+  },
+  {
+    "paraid": "2107",
+    "name": "KICO",
+    "token": "KICO",
+    "description": "ICO platform for decentralized auto organization",
+    "website": "https://dico.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/kico.png",
+    "rewardRate": 20000
+  },
+  {
+    "paraid": "2110",
+    "name": "Mangata X",
+    "token": "MGX",
+    "description": "A community-owned exchange for experienced traders & experimental tokens",
+    "website": "https://x.mangata.finance/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/MagnataX.png",
+    "rewardRate": 6250
+  },
+  {
+    "paraid": "2114",
+    "name": "Turing Network",
+    "token": "TUR",
+    "description": "A Web 3.0 hub for automated DeFi and payments",
+    "website": "https://oak.tech/turing/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/TUR.png",
+    "rewardRate": 1150
+  },
+  {
+    "paraid": "2115",
+    "name": "Dora Factory",
+    "token": "DORA",
+    "description": "The DAO infrastructure of the Kusama ecosystem",
+    "website": "https://dorafactory.org/kusama/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DoraFactory.png",
+    "rewardRate": 3,
+    "disabled": true
+  },
+  {
+    "paraid": "2116",
+    "name": "Tanganika Network",
+    "token": "DHX",
+    "description": "Inter-Chain Data Market and LPWAN",
+    "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DataHighway.png",
+    "rewardRate": 20
+  },
+  {
+    "paraid": "2118",
+    "name": "Listen",
+    "token": "LT",
+    "description": "Voice social software based on decentralized data storage technology and blockchain technology",
+    "website": "https://listen.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Listen.png",
+    "rewardRate": 1
+  },
+   {
+    "paraid": "2113",
+    "name": "Kabocha",
+    "token": "KAB",
+    "description": "Kabocha is a holistic self-evolving grass-roots parachain project spawned from Edgeware, funding and incubating teams to build new public infrastructure",
+    "website": "https://crowdloan.kabocha.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kabocha.png",
+    "rewardRate": 160.0
+  },
+  {
+    "paraid": "2120",
+    "name": "Shiden Crowdloan 2",
+    "token": "SDN",
+    "description": "Multi-chain decentralized application layer on Kusama Network",
+    "website": "https://shiden.astar.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/shiden.png",
+    "rewardRate": 23.33,
+    "disabled": true
+  },
+  {
+    "paraid": "2119",
+    "name": "Bajun Network",
+    "token": "BAJUN",
+    "description": "The Bajun Network will be the Canary Network for Ajuna. Ajuna Network makes the world’s leading game development engines fully integrated with the world of blockchain-based assets",
+    "website": "https://ajuna.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png"
   }
 ]

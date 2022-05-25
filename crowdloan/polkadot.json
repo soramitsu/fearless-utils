@@ -220,12 +220,72 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/hydradx.png"
   },
   {
-    "paraid": "2036",
+    "paraid": "2038",
+    "name": "Geminis",
+    "token": "GEM",
+    "description": "Geminis takes Ethereum chain support to the next level through WasmEdge",
+    "website": "https://geminis.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Geminis.png",
+    "rewardRate": 10.5
+  },
+  {
+    "paraid": "2037",
+    "disabled": true,
+    "name": "Unique Network",
+    "token": "UNQ",
+    "description": "THE UNIQUE CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
+    "website": "https://unique.network/token/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/unique.png",
+    "rewardRate": 5.28,
+    "disabled": true
+  },
+  {
+    "paraid": "2013",
+    "disabled": true,
+    "name": "Litentry",
+    "token": "LIT",
+    "description": "THE LITENTRY CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
+    "website": "https://crowdloan.litentry.com",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Litentry.png",
+    "rewardRate": 8.0,
+    "disabled": true
+  },
+  {
+    "paraid": "2040",
     "name": "Polkadex",
     "token": "PDEX",
-    "description": "The trading engine for Web3 and DeFi",
+    "description": "THE POLKADEX CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
     "website": "https://www.polkadex.trade/crowdloans",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/polkadex.png",
-    "rewardRate": 0.1875
+    "rewardRate": 2.0,
+    "disabled": true
+  },
+  {
+    "paraid": "2030",
+    "name": "Bifrost",
+    "token": "BNC",
+    "description": "A parachain designed for staking's liquidity",
+    "website": "https://bifrost.finance/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/bifrost.png",
+    "rewardRate": 10
+  },
+  {
+    "paraid": "2043",
+    "name": "OriginTrail",
+    "token": "OTP",
+    "description": "THE ORIGINTRAIL CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
+    "website": "https://parachain.origintrail.io/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OriginTrail.png",
+    "rewardRate": 20,
+    "disabled": true
+  },
+  {
+    "paraid": "2007",
+    "name": "Kapex",
+    "token": "KAPEX",
+    "description": "The world's first peer-to-peer accounting consensus protocol in the blockchain space",
+    "website": "https://totemaccounting.com/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kapex (Totem).png",
+    "rewardRate": 0.1
   }
 ]

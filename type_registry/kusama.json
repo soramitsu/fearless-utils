@@ -1,5 +1,5 @@
 {
-  "runtime_id": 9151,
+  "runtime_id": 9180,
   "types": { },
   "versioning": [
     {
@@ -10,13 +10,21 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "143",
-        "Address": "196",
-        "ExtrinsicSignature": "510",
-        "ParaId": "85",
+        "Phase": "148",
+        "Address": "201",
+        "ExtrinsicSignature": "521",
+        "ParaId": "90",
         "17": "GenericEvent",
-        "301": "GenericCall"
+        "309": "GenericCall"
       }
+    }
+  ],
+  "overrides": [
+    {
+      "module": "Staking",
+      "constants": [
+        { "name": "MaxNominations", "value": "24" }
+      ]
     }
   ]
 }
