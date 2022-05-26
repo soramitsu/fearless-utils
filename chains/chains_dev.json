@@ -1099,6 +1099,7 @@
     },
     "assets": [
       {
+        "type": "orml",
         "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db"
       }
     ],
@@ -1118,9 +1119,6 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kintsugi.json",
       "overridesCommon": true
     },
-    "options": [
-      "orml"
-    ],
     "iosMinAppVersion": "2.0.7"
   },
   {
