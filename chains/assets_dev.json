@@ -340,6 +340,7 @@
   {
     "id": "e605149c-0f41-4ec9-960f-21c07e2d9361",
     "symbol": "rmrk",
+    "foreignAssetId": "0",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 10,
     "priceId": "rmrk",
@@ -359,7 +360,6 @@
     "symbol": "lksm",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "priceId": "lksm",
     "transfersEnabled": true
   }
 ]

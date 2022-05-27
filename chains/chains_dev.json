@@ -329,23 +329,23 @@
         "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5"
       },
       {
-        "type": "orml",
+        "type": "ormlAsset",
         "assetId": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea"
       },
       {
-        "type": "orml",
+        "type": "ormlAsset",
         "assetId": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8"
       },
       {
-        "type": "orml",
+        "type": "foreignAsset",
         "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361"
       },
       {
-        "type": "orml",
+        "type": "ormlAsset",
         "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
       },
       {
-        "type": "orml",
+        "type": "ormlAsset",
         "assetId": "5446a3b1-9bb1-44f1-a6e1-114119b01913"
       }
     ],
@@ -1099,6 +1099,7 @@
     },
     "assets": [
       {
+        "type": "ormlChain"
         "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db"
       }
     ],
@@ -1118,9 +1119,6 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kintsugi.json",
       "overridesCommon": true
     },
-    "options": [
-      "orml"
-    ],
     "iosMinAppVersion": "2.0.7"
   },
   {
