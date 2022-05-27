@@ -1099,7 +1099,7 @@
     },
     "assets": [
       {
-        "type": "ormlChain"
+        "type": "ormlChain",
         "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db"
       }
     ],
