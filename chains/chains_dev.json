@@ -1501,7 +1501,8 @@
         },
         "assets": [
             {
-                "assetId": "pdex"
+                "assetId": "pdex",
+                "staking": "relaychain"
             }
         ],
         "nodes": [
@@ -1522,5 +1523,4 @@
             "overridesCommon": true
         }
     }
-
 ]
