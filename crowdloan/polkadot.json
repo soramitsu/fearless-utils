@@ -267,7 +267,8 @@
     "description": "A parachain designed for staking's liquidity",
     "website": "https://bifrost.finance/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/bifrost.png",
-    "rewardRate": 10
+    "rewardRate": 10,
+    "disabled": true
   },
   {
     "paraid": "2043",
