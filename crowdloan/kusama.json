@@ -403,6 +403,7 @@
     "token": "BAJUN",
     "description": "The Bajun Network will be the Canary Network for Ajuna. Ajuna Network makes the world’s leading game development engines fully integrated with the world of blockchain-based assets",
     "website": "https://ajuna.io/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png",
+    "disabled": true
   }
 ]
