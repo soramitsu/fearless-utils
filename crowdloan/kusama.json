@@ -376,7 +376,8 @@
     "description": "Voice social software based on decentralized data storage technology and blockchain technology",
     "website": "https://listen.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Listen.png",
-    "rewardRate": 1
+    "rewardRate": 1,
+    "disabled": true
   },
    {
     "paraid": "2113",
