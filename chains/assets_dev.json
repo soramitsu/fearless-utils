@@ -322,7 +322,8 @@
   },
   {
     "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
-    "symbol": "ausd",
+    "symbol": "kusd",
+    "displayName": "ausd",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "tether",
