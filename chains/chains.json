@@ -732,6 +732,10 @@
         ],
         "nodes": [
             {
+                "url": "wss://picasso-rpc.dwellir.com",
+                "name": "Dwellir node"
+            },
+            {
                 "url": "wss://picasso-rpc.composable.finance",
                 "name": "Composable node"
             }
