@@ -360,7 +360,7 @@
     "id": "77562113-9e01-49b6-a39d-87a47bde24fe",
     "symbol": "lksm",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
-    "precision": 10,
+    "precision": 12,
     "icon": "",
     "transfersEnabled": true
   },
