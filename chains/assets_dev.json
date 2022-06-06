@@ -345,7 +345,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 10,
     "priceId": "rmrk",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg"
   },
   {
     "id": "10757cfa-b590-43c1-8524-efc28d798bcb",
@@ -361,7 +362,7 @@
     "symbol": "lksm",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/LKSM.svg",
     "transfersEnabled": true
   },
   {
@@ -389,7 +390,7 @@
     "currencyId": "1",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 8,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/ARIS.svg",
     "priceId": "polarisdao",
     "transfersEnabled": true
   },
@@ -399,7 +400,7 @@
     "currencyId": "2",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 18,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
     "priceId": "quartz",
     "transfersEnabled": true
   },
@@ -408,7 +409,7 @@
     "symbol": "kbtc",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 8,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KBTC.svg",
     "priceId": "kintsugi-btc",
     "transfersEnabled": true
   },
@@ -437,7 +438,7 @@
     "currencyId": "0",
     "precision": 12,
     "priceId": "taiga",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/taiKSM.svg",
     "transfersEnabled": true
   }
 ]
