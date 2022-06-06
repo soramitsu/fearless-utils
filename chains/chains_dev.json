@@ -289,6 +289,58 @@
     "assets": [
       {
         "assetId": "c801d6c1-3edf-41a9-9aea-da705eab249b"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "77562113-9e01-49b6-a39d-87a47bde24fe"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "c6fd5a1e-3052-4bdf-b0f3-ad1b7b9fbff0"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "5e9c76a4-9f89-487d-80aa-db0588b60aa4"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "4b9f4cba-3b26-4f99-8666-3ee305683706"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "3d32d7cb-4de5-427e-9668-a9763648a555"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "17142348-16f6-49f2-9006-098f5562bda0"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "6aa4622c-42b9-4976-9f7c-35447bb24128"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "e27e5b58-3229-4656-b9ff-de309f49f17f"
+      },
+      {
+        "type": "stableAssetPoolToken",
+        "assetId": "8e975c47-df51-48a8-a29e-a89ee0f4bf9e"
       }
     ],
     "nodes": [
