@@ -292,55 +292,55 @@
       },
       {
         "type": "ormlAsset",
-        "assetId": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea"
+        "assetId": "cfe26eae-f566-4b8d-a44c-bd4380c27bc5"
       },
       {
         "type": "ormlAsset",
-        "assetId": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8"
+        "assetId": "0c820d8f-0b03-4f90-81aa-4ec54a844c67"
       },
       {
         "type": "foreignAsset",
-        "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361"
+        "assetId": "88716ee0-2c85-4245-86df-0ac5947db69e"
       },
       {
         "type": "ormlAsset",
-        "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
+        "assetId": "00557019-51b6-47a3-9562-5c2d75339ed5"
       },
       {
         "type": "ormlAsset",
-        "assetId": "77562113-9e01-49b6-a39d-87a47bde24fe"
+        "assetId": "6318cffb-e20e-4374-b094-0da2872b355f"
       },
       {
         "type": "ormlAsset",
-        "assetId": "c6fd5a1e-3052-4bdf-b0f3-ad1b7b9fbff0"
+        "assetId": "bf4e5d8b-73fa-4948-9204-2b69cf81d845"
       },
       {
         "type": "ormlAsset",
-        "assetId": "5e9c76a4-9f89-487d-80aa-db0588b60aa4"
+        "assetId": "ffb814ea-c92c-4a1e-8e24-437c93ecd8ff"
       },
       {
         "type": "foreignAsset",
-        "assetId": "4b9f4cba-3b26-4f99-8666-3ee305683706"
+        "assetId": "98e1d996-d911-45d4-a403-c031fbc2c22e"
       },
       {
         "type": "foreignAsset",
-        "assetId": "3d32d7cb-4de5-427e-9668-a9763648a555"
+        "assetId": "e8e453e0-ab20-47bb-aa3c-7cc8d808df96"
       },
       {
         "type": "ormlAsset",
-        "assetId": "17142348-16f6-49f2-9006-098f5562bda0"
+        "assetId": "9c9934f9-d8c0-4522-b89b-7dfbca07add4"
       },
       {
         "type": "ormlAsset",
-        "assetId": "6aa4622c-42b9-4976-9f7c-35447bb24128"
+        "assetId": "44c1f79b-bcdf-4342-9dba-42611dd4b539"
       },
       {
         "type": "ormlAsset",
-        "assetId": "e27e5b58-3229-4656-b9ff-de309f49f17f"
+        "assetId": "d3562e8f-1442-4936-96bc-34af92700120"
       },
       {
         "type": "stableAssetPoolToken",
-        "assetId": "8e975c47-df51-48a8-a29e-a89ee0f4bf9e"
+        "assetId": "7376d968-53ab-464c-8278-bd1187cb9207"
       }
     ],
     "nodes": [
