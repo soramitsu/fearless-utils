@@ -363,7 +363,7 @@
     "currencyId": "5",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crust.svg",
     "priceId": "citystates-medieval",
     "transfersEnabled": true
   },
@@ -372,7 +372,7 @@
     "symbol": "tai",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
     "priceId": "taiga",
     "transfersEnabled": true
   },
@@ -486,7 +486,7 @@
     "currencyId": "8",
     "precision": 12,
     "priceId": "integritee",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
     "transfersEnabled": true
   },
   {
@@ -495,7 +495,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "9",
     "precision": 18,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
     "transfersEnabled": true
   },
   {
