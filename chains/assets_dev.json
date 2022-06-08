@@ -570,5 +570,14 @@
     "priceId": "kusama",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "75206b90-456e-48ae-a118-0bf9ab861115",
+    "symbol": "rmrk",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 10,
+    "priceId": "rmrk",
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg"
   }
 ]
