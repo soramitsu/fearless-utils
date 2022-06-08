@@ -561,5 +561,32 @@
     "priceId": "taiga",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/taiKSM.svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "922c191c-4cb8-407e-8b81-2cfc52170c3b",
+    "symbol": "ksm",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 12,
+    "priceId": "kusama",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "75206b90-456e-48ae-a118-0bf9ab861115",
+    "symbol": "rmrk",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 10,
+    "priceId": "rmrk",
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg"
+  },
+  {
+    "id": "5c31c8ae-c045-43f2-849a-88a17ee7b302",
+    "symbol": "kar",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "transfersEnabled": true,
+    "precision": 12,
+    "priceId": "karura",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
   }
 ]
