@@ -415,7 +415,7 @@
     "description": "Imbue Network is a decentralised crowdfunding DAO built on top of the Polkadot blockchain platform",
     "website": "https://www.imbue.network/",
     "rewardRate": 50.0,
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Imbue.png"
   }
   
 ]
