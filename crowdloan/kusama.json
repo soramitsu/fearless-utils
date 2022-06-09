@@ -386,7 +386,8 @@
     "description": "Kabocha is a holistic self-evolving grass-roots parachain project spawned from Edgeware, funding and incubating teams to build new public infrastructure",
     "website": "https://crowdloan.kabocha.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kabocha.png",
-    "rewardRate": 160.0
+    "rewardRate": 160.0,
+    "disabled": true
   },
   {
     "paraid": "2120",
