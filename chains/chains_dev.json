@@ -329,18 +329,6 @@
       {
         "type": "ormlAsset",
         "assetId": "9c9934f9-d8c0-4522-b89b-7dfbca07add4"
-      },
-      {
-        "type": "ormlAsset",
-        "assetId": "44c1f79b-bcdf-4342-9dba-42611dd4b539"
-      },
-      {
-        "type": "ormlAsset",
-        "assetId": "d3562e8f-1442-4936-96bc-34af92700120"
-      },
-      {
-        "type": "stableAssetPoolToken",
-        "assetId": "7376d968-53ab-464c-8278-bd1187cb9207"
       }
     ],
     "nodes": [
