@@ -581,12 +581,12 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg"
   },
   {
-  "id": "5c31c8ae-c045-43f2-849a-88a17ee7b302",
-  "symbol": "kar",
-  "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
-  "transfersEnabled": true,
-  "precision": 12,
-  "priceId": "karura",
-  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+    "id": "5c31c8ae-c045-43f2-849a-88a17ee7b302",
+    "symbol": "kar",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 12,
+    "priceId": "karura",
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
   }
 ]
