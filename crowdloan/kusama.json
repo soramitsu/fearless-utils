@@ -407,5 +407,15 @@
     "website": "https://ajuna.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png",
     "disabled": true
+  },
+  {
+    "paraid": "2121",
+    "name": "Imbue Network",
+    "token": "IMBU",
+    "description": "Imbue Network is a decentralised crowdfunding DAO built on top of the Polkadot blockchain platform",
+    "website": "https://www.imbue.network/",
+    "rewardRate": 50.0,
+    "icon": ""
   }
+  
 ]
