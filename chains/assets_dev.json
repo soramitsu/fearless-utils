@@ -732,7 +732,7 @@
   },
   {
     "id": "07f2a7fc-9b0a-4583-9267-57b68ecd4350",
-    "symbol": "ksm",
+    "symbol": "vksm",
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "priceId": "kusama",
@@ -741,7 +741,7 @@
   },
   {
     "id": "dd0efecb-51a1-481d-a949-80cb7663c105",
-    "symbol": "ksm",
+    "symbol": "vsksm",
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "priceId": "kusama",
