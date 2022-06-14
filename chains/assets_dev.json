@@ -729,5 +729,41 @@
     "priceId": "karura",
     "transfersEnabled": true,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+  },
+  {
+    "id": "07f2a7fc-9b0a-4583-9267-57b68ecd4350",
+    "symbol": "ksm",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 12,
+    "priceId": "kusama",
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+  },
+  {
+    "id": "dd0efecb-51a1-481d-a949-80cb7663c105",
+    "symbol": "ksm",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "precision": 12,
+    "priceId": "kusama",
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+  },
+  {
+    "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
+    "symbol": "kusd",
+    "displayName": "ausd",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "acala-dollar",
+    "transfersEnabled": true
+  },
+  {
+    "id": "2bd78b68-8bd7-4859-928a-1a7b8b57a734",
+    "symbol": "usdt",
+    "currencyId": "0",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 6,
+    "priceId": "tether",
+    "transfersEnabled": true
   }
 ]

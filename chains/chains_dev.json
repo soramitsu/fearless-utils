@@ -653,6 +653,22 @@
       {
         "type": "ormlAsset",
         "assetId": "5c31c8ae-c045-43f2-849a-88a17ee7b302"
+      },
+      {
+        "type": "vToken",
+        "assetId": "07f2a7fc-9b0a-4583-9267-57b68ecd4350"
+      },
+      {
+        "type": "vsToken",
+        "assetId": "dd0efecb-51a1-481d-a949-80cb7663c105"
+      },
+      {
+        "type": "stable",
+        "assetId": "dd0efecb-51a1-481d-a949-80cb7663c105"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "2bd78b68-8bd7-4859-928a-1a7b8b57a734"
       }
     ],
     "nodes": [
