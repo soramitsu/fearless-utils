@@ -710,7 +710,8 @@
     "precision": 12,
     "priceId": "kusama",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "100000000"
   },
   {
     "id": "75206b90-456e-48ae-a118-0bf9ab861115",
@@ -719,7 +720,8 @@
     "precision": 10,
     "priceId": "rmrk",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/RMRK.svg",
+    "existentialDeposit": "10000"
   },
   {
     "id": "5c31c8ae-c045-43f2-849a-88a17ee7b302",
@@ -728,7 +730,8 @@
     "precision": 12,
     "priceId": "karura",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
+    "existentialDeposit": "100000000"
   },
   {
     "id": "07f2a7fc-9b0a-4583-9267-57b68ecd4350",
@@ -738,7 +741,8 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": ""
+    "icon": "",
+    "existentialDeposit": "100000000"
   },
   {
     "id": "dd0efecb-51a1-481d-a949-80cb7663c105",
@@ -748,7 +752,8 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": ""
+    "icon": "",
+    "existentialDeposit": "100000000"
   },
   {
     "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
@@ -758,7 +763,8 @@
     "precision": 12,
     "icon": "",
     "priceId": "acala-dollar",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "100000000"
   },
   {
     "id": "2bd78b68-8bd7-4859-928a-1a7b8b57a734",
@@ -768,7 +774,8 @@
     "precision": 6,
     "icon": "",
     "priceId": "tether",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "1000"
   },
   {
     "id": "e6f78e19-80c7-4e8c-8499-91e03df504a8",
@@ -777,7 +784,8 @@
     "precision": 18,
     "priceId": "moonriver",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "1000000000000"
   },
   {
     "id": "fe2c5a55-aff7-4d00-af5c-e90082a5a11e",
@@ -786,7 +794,8 @@
     "precision": 18,
     "priceId": "zenlink-network-token",
     "icon": "",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "1000000000000"
   },
   {
     "id": "33746c72-6806-47d0-a1c4-7b433df862f1",
@@ -795,6 +804,7 @@
     "precision": 12,
     "priceId": "pha",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "existentialDeposit": "40000000000"
   }
 ]
