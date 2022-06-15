@@ -42,7 +42,7 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+    "icon": ""
   },
   {
     "id": "dd0efecb-51a1-481d-a949-80cb7663c105",
@@ -52,7 +52,7 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+    "icon": ""
   },
   {
     "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
@@ -60,6 +60,7 @@
     "displayName": "ausd",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
+    "icon": "",
     "priceId": "acala-dollar",
     "transfersEnabled": true
   },
@@ -69,7 +70,17 @@
     "currencyId": "0",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 6,
+    "icon": "",
     "priceId": "tether",
+    "transfersEnabled": true
+  },
+  {
+    "id": "e6f78e19-80c7-4e8c-8499-91e03df504a8",
+    "symbol": "movr",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 18,
+    "priceId": "moonriver",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
     "transfersEnabled": true
   }
 ]
