@@ -54,6 +54,14 @@
         {
           "type": "ormlAsset",
           "assetId": "e6f78e19-80c7-4e8c-8499-91e03df504a8"
+        },
+        {
+          "type": "ormlAsset",
+          "assetId": "fe2c5a55-aff7-4d00-af5c-e90082a5a11e"
+        },
+        {
+          "type": "ormlAsset",
+          "assetId": "33746c72-6806-47d0-a1c4-7b433df862f1"
         }
     ],
     "nodes": [

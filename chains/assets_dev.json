@@ -82,5 +82,23 @@
     "priceId": "moonriver",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "fe2c5a55-aff7-4d00-af5c-e90082a5a11e",
+    "symbol": "zlk",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 18,
+    "priceId": "zenlink-network-token",
+    "icon": "",
+    "transfersEnabled": true
+  },
+  {
+    "id": "33746c72-6806-47d0-a1c4-7b433df862f1",
+    "symbol": "pha",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "precision": 12,
+    "priceId": "pha",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
+    "transfersEnabled": true
   }
 ]
