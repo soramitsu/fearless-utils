@@ -367,7 +367,8 @@
     "description": "Inter-Chain Data Market and LPWAN",
     "website": "https://dev.datahighway.com/docs/crowdloans/crowdloan-tanganika",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/DataHighway.png",
-    "rewardRate": 20
+    "rewardRate": 20,
+    "disabled": true
   },
   {
     "paraid": "2118",
