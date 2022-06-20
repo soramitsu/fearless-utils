@@ -576,8 +576,7 @@
   },
   {
     "id": "cfe26eae-f566-4b8d-a44c-bd4380c27bc5",
-    "symbol": "kusd",
-    "displayName": "ausd",
+    "symbol": "ausd",
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 12,
     "priceId": "acala-dollar",
