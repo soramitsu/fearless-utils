@@ -1,12 +1,12 @@
 [
   {
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "name": "Karura",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Acala",
     "externalApi": {
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
       },
       "explorers": [
         {
@@ -15,46 +15,26 @@
             "extrinsic",
             "account"
           ],
-          "url": "https://karura.subscan.io/{type}/{value}"
+          "url": "https://acala.subscan.io/{type}/{value}"
         }
       ]
     },
     "assets": [
       {
-        "type": "orml",
-        "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361"
+        "type": "liquidCrowdloan",
+        "assetId": "a7b48fb1-5741-487a-98fd-c45f958dd4fd"
       }
     ],
     "nodes": [
       {
-        "url": "wss://karura.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
-      },
-      {
-        "url": "wss://karura-rpc-0.aca-api.network",
-        "name": "Acala Foundation node 0"
-      },
-      {
-        "url": "wss://karura-rpc-1.aca-api.network",
-        "name": "Acala Foundation node 1"
-      },
-      {
-        "url": "wss://karura-rpc-2.aca-api.network/ws",
-        "name": "Acala Foundation node 2"
-      },
-      {
-        "url": "wss://karura-rpc-3.aca-api.network/ws",
-        "name": "Acala Foundation node 3"
-      },
-      {
-        "url": "wss://karura.polkawallet.io",
-        "name": "Polkawallet node"
       }
     ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
-    "addressPrefix": 8,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
+    "addressPrefix": 10,
     "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/karura.json",
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/acala.json",
       "overridesCommon": true
     }
   }
