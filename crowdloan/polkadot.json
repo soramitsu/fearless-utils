@@ -173,7 +173,8 @@
     "token": "CTO",
     "description": "DEFI 2.0 protocol platform of Polkadot",
     "website": "https://www.coinversation.io/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/coinversation.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/coinversation.png",
+    "disabled": true
   },
   {
     "paraid": "2019",
