@@ -57,5 +57,15 @@
     "precision": 12,
     "priceId": "kintsugi",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg"
+  },
+  {
+  "id": "a7b48fb1-5741-487a-98fd-c45f958dd4fd",
+  "symbol": "lcdot",
+  "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
+  "precision": 10,
+  "currencyId": "13",
+  "transfersEnabled": true,
+  "priceId": "liquid-crowdloan-dot",
+  "icon": ""
   }
 ]
