@@ -417,6 +417,14 @@
     "website": "https://www.imbue.network/",
     "rewardRate": 50.0,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Imbue.png"
+  },
+   {
+    "paraid": "2125",
+    "name": "Tinkernet Parachain",
+    "token": "TNKR",
+    "description": "The IP Asset & accelerated development staging grounds for the Kusama ecosystem",
+    "website": "https://invarch.network/tinkernet",
+    "icon": ""
   }
   
 ]
