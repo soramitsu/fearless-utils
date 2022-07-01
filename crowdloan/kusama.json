@@ -433,7 +433,7 @@
     "description": "Pioneering the internet of fiat. Amplitude is the sister network of Pendulum on Kusama. It will act as a testing ground for Pendulum applications and network parameters and be powered by the AMPE token. Developed by Satoshipay",
     "website": "https://pendulumchain.org/amplitude?utm_source=fearless&utm_medium=social&utm_campaign=crowdloan_live",
     "rewardRate": 600,
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Amplitude.png"
   }
   
 ]
