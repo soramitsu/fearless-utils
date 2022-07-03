@@ -1463,5 +1463,99 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/polkadex.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Dorafactory Network",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "dora"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://kusama.dorafactory.org",
+                "name": "DORA node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DoraFactory.svg",
+        "addressPrefix": 128,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/dorafactory.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "OriginTrail Parachain",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "otp"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://parachain-rpc.origin-trail.network",
+                "name": "TraceLabs node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OriginTrail.svg",
+        "addressPrefix": 101,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/origin_trail.json",
+            "overridesCommon": true
+        }
+    },
+    {
+        "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "UNIQUE",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "unq"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://eu-ws.unique.network",
+                "name": "Unique Europe node"
+            },
+            {
+                "url": "wss://asia-ws.unique.network",
+                "name": "Unique Asia node"
+            },
+            {
+                "url": "wss://us-ws.unique.network",
+                "name": "Unique America node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
+        "addressPrefix": 7391,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/unique.json",
+            "overridesCommon": true
+        }
     }
 ]
