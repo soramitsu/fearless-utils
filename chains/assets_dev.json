@@ -748,5 +748,35 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
     "transfersEnabled": true,
     "existentialDeposit": "40000000000"
+  },
+  {
+    "id": "c0d1efac-597d-4c56-b5ad-b683b8214ada",
+    "symbol": "dora",
+    "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
+    "precision": 12,
+    "priceId": "dora-factory",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DoraFactory.svg"
+  },
+  {
+    "id": "af5bf9f0-0009-4cf8-98ed-b988268c94f1",
+    "symbol": "otp",
+    "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OriginTrail.svg"
+  },
+  {
+    "id": "57d05537-06a2-453b-ac87-d081aee65ec9",
+    "symbol": "unq",
+    "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg"
+  },
+  {
+    "id": "5502c9cb-14f7-4de8-a35d-71263dc3f78f",
+    "symbol": "pdex",
+    "chainId": "3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
+    "precision": 12,
+    "priceId": "polkadex",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/polkadex.svg"
   }
 ]
