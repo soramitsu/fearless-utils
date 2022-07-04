@@ -524,7 +524,8 @@
     },
     "assets": [
       {
-        "assetId": "35346815-009a-4cf9-a5ad-85a0167e594d"
+        "assetId": "35346815-009a-4cf9-a5ad-85a0167e594d",
+        "staking": "parachain"
       }
     ],
     "nodes": [
@@ -1175,7 +1176,8 @@
     },
     "assets": [
       {
-        "assetId": "e40c8161-9fc9-4749-a3b8-ed1c0ad16475"
+        "assetId": "e40c8161-9fc9-4749-a3b8-ed1c0ad16475",
+        "staking": "parachain"
       }
     ],
     "nodes": [
@@ -1219,7 +1221,8 @@
     },
     "assets": [
       {
-        "assetId": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5"
+        "assetId": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5",
+        "staking": "parachain"
       }
     ],
     "nodes": [
