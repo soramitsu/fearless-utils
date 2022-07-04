@@ -507,6 +507,10 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "name": "Moonriver",
     "externalApi": {
+        "staking": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
+        },
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
@@ -1159,6 +1163,10 @@
     "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
     "name": "Moonbeam",
     "externalApi": {
+        "staking": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/moonbeam-x-fearless-wallet-staking"
+        },
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam"
@@ -1204,6 +1212,10 @@
     "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
     "name": "Moonbase Alpha",
     "externalApi": {
+        "staking": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha__c29yY"
+        },
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
