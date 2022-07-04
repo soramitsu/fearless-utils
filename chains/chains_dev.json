@@ -1559,5 +1559,108 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/litmus.json",
       "overridesCommon": true
     }
+  },
+  {
+        "chainId": "3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Polkadex Main Network",
+        "assets": [
+            {
+                "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://polkadex.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+                "name": "Onfinalty node"
+            },
+            {
+                "url": "wss://mainnet.polkadex.trade",
+                "name": "Polkadex team node"
+            }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/polkadex.svg",
+        "addressPrefix": 88,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadex.json",
+            "overridesCommon": true
+        }
+    },
+    {
+      "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
+      "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+      "name": "Dorafactory Network",
+      "assets": [
+          {
+              "assetId": "c0d1efac-597d-4c56-b5ad-b683b8214ada"
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://kusama.dorafactory.org",
+              "name": "DORA node"
+          }
+
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DoraFactory.svg",
+      "addressPrefix": 128,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dorafactory.json",
+          "overridesCommon": true
+      }
+  },
+  {
+      "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
+      "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "OriginTrail Parachain",
+      "assets": [
+          {
+              "assetId": "af5bf9f0-0009-4cf8-98ed-b988268c94f1"
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://parachain-rpc.origin-trail.network",
+              "name": "TraceLabs node"
+          }
+
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OriginTrail.svg",
+      "addressPrefix": 101,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/origin_trail.json",
+          "overridesCommon": true
+      }
+  },
+  {
+      "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
+      "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "UNIQUE",
+      "assets": [
+          {
+              "assetId": "57d05537-06a2-453b-ac87-d081aee65ec9"
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://eu-ws.unique.network",
+              "name": "Unique Europe node"
+          },
+          {
+              "url": "wss://asia-ws.unique.network",
+              "name": "Unique Asia node"
+          },
+          {
+              "url": "wss://us-ws.unique.network",
+              "name": "Unique America node"
+          }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
+      "addressPrefix": 7391,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/unique.json",
+          "overridesCommon": true
+      }
   }
 ]
