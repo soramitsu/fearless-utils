@@ -311,7 +311,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "acala-dollar",
-    "transfersEnabled": true
+    "transfersEnabled": true, 
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg"
   },
   {
     "id": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8",
@@ -355,7 +356,7 @@
     "currencyId": "5",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/CSM.svg",
     "priceId": "citystates-medieval",
     "transfersEnabled": true
   },
@@ -430,7 +431,7 @@
     "symbol": "vsksm",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/vsKSM.svg",
     "transfersEnabled": true
   },
   {
@@ -458,7 +459,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "6",
     "precision": 14,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
     "transfersEnabled": true
   },
   {
@@ -526,7 +527,7 @@
     "currencyId": "13",
     "precision": 18,
     "priceId": "darwinia-crab-network",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Crab.svg",
     "transfersEnabled": true
   },
   {
@@ -545,7 +546,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "15",
     "precision": 9,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/EQD.svg",
     "transfersEnabled": true
   },
   {
@@ -563,7 +564,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "17",
     "precision": 18,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Pichiu.svg",
     "transfersEnabled": true
   },
   {
@@ -580,7 +581,8 @@
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 12,
     "priceId": "acala-dollar",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg"
   },
   {
     "id": "70a69d25-a4ba-4c6b-a15d-09f3c2814ddf",
@@ -616,7 +618,7 @@
     "precision": 10,
     "transfersEnabled": true,
     "priceId": "liquid-staking-dot",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/LDOT.svg"
   },
   {
     "id": "ed98bee1-34ce-4aa2-896e-508380dea1c2",
@@ -635,7 +637,7 @@
     "currencyId": "13",
     "transfersEnabled": true,
     "priceId": "liquid-crowdloan-dot",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/lcDOT.svg"
   },
   {
     "id": "559e80d6-fb38-4dd5-bbd6-c0a7c2f600e1",
@@ -683,7 +685,7 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/vKSM.svg",
     "existentialDeposit": "100000000"
   },
   {
@@ -694,7 +696,7 @@
     "precision": 12,
     "priceId": "kusama",
     "transfersEnabled": true,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/vsKSM.svg",
     "existentialDeposit": "100000000"
   },
   {
@@ -703,7 +705,7 @@
     "displayName": "ausd",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg",
     "priceId": "acala-dollar",
     "transfersEnabled": true,
     "existentialDeposit": "100000000"
@@ -714,7 +716,7 @@
     "currencyId": "0",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 6,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
     "priceId": "tether",
     "transfersEnabled": true,
     "existentialDeposit": "1000"
@@ -735,7 +737,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 18,
     "priceId": "zenlink-network-token",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/ZLK.svg",
     "transfersEnabled": true,
     "existentialDeposit": "1000000000000"
   },
