@@ -459,7 +459,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "6",
     "precision": 14,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg",
     "transfersEnabled": true
   },
   {
