@@ -28,7 +28,7 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "taiga",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/TAI.svg"
   },
   {
     "id": "35346815-009a-4cf9-a5ad-85a0167e594d",
@@ -312,7 +312,7 @@
     "precision": 12,
     "priceId": "acala-dollar",
     "transfersEnabled": true, 
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/aUSD.svg"
   },
   {
     "id": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8",
@@ -365,7 +365,7 @@
     "symbol": "tai",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/TAI.svg",
     "priceId": "taiga",
     "transfersEnabled": true
   },
@@ -582,7 +582,7 @@
     "precision": 12,
     "priceId": "acala-dollar",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/aUSD.svg"
   },
   {
     "id": "70a69d25-a4ba-4c6b-a15d-09f3c2814ddf",
@@ -705,7 +705,7 @@
     "displayName": "ausd",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/KUSD.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/aUSD.svg",
     "priceId": "acala-dollar",
     "transfersEnabled": true,
     "existentialDeposit": "100000000"
