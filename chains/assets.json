@@ -469,7 +469,7 @@
     "currencyId": "7",
     "precision": 6,
     "priceId": "tether",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
     "transfersEnabled": true
   },
   {
