@@ -23,14 +23,6 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg"
   },
   {
-    "id": "b4436b5b-bcc1-4766-af7b-5c3aa03a75eb",
-    "symbol": "tai",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
-    "precision": 12,
-    "priceId": "taiga",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/TAI.svg"
-  },
-  {
     "id": "35346815-009a-4cf9-a5ad-85a0167e594d",
     "symbol": "movr",
     "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
@@ -305,7 +297,7 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
   },
   {
-    "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
+    "id": "91a69026-0ab7-4db0-af53-8d571fd33ac4",
     "symbol": "kusd",
     "displayName": "ausd",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
@@ -639,6 +631,15 @@
     "transfersEnabled": true,
     "priceId": "liquid-crowdloan-dot",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/lcDOT.svg"
+  },
+  {
+    "id": "ffb814ea-c92c-4a1e-8e24-437c93ecd8ff",
+    "symbol": "tai",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/TAI.svg",
+    "priceId": "taiga",
+    "transfersEnabled": true
   },
   {
     "id": "559e80d6-fb38-4dd5-bbd6-c0a7c2f600e1",
