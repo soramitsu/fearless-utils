@@ -590,7 +590,8 @@
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 10,
     "currencyId": "0",
-    "transfersEnabled": true
+    "transfersEnabled": true,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/tDOT.svg"
   },
   {
     "id": "fe07f6c5-2b90-4e1a-81e3-8ed85f5a80b9",
@@ -703,7 +704,7 @@
     "id": "94d5e2d9-c2d7-40e6-8893-5832a784b2ea",
     "symbol": "kusd",
     "displayName": "ausd",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/aUSD.svg",
     "priceId": "acala-dollar",
@@ -714,7 +715,7 @@
     "id": "2bd78b68-8bd7-4859-928a-1a7b8b57a734",
     "symbol": "usdt",
     "currencyId": "0",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 6,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
     "priceId": "tether",
@@ -724,7 +725,7 @@
   {
     "id": "e6f78e19-80c7-4e8c-8499-91e03df504a8",
     "symbol": "movr",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 18,
     "priceId": "moonriver",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
@@ -734,7 +735,7 @@
   {
     "id": "fe2c5a55-aff7-4d00-af5c-e90082a5a11e",
     "symbol": "zlk",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 18,
     "priceId": "zenlink-network-token",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/ZLK.svg",
@@ -744,7 +745,7 @@
   {
     "id": "33746c72-6806-47d0-a1c4-7b433df862f1",
     "symbol": "pha",
-    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "priceId": "pha",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
