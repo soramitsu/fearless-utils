@@ -5,7 +5,7 @@
     "name": "Equilibrium",
     "assets": [
       {
-        "assetId": "6b5fe0a6-188d-4180-8561-1ea4e3512e75"
+        "assetId": "69f75e0b-f0ed-4c21-a936-bc541be4bd8b"
       }
     ],
     "nodes": [
@@ -14,7 +14,7 @@
         "name": "Parity node"
       }
     ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg",
     "addressPrefix": 68,
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/equilibrium.json",
