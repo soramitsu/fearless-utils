@@ -816,13 +816,6 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/composable.svg"
   },
   {
-    "id": "a99dd750-0c15-49df-a86f-6caa577614bc",
-    "symbol": "kapex",
-    "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
-    "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kapex%20(Totem).svg"
-  },
-  {
     "id": "cbf84703-ba1d-4a39-ab5e-424756c91422",
     "symbol": "baju",
     "chainId": "35a06bfec2edf0ff4be89a6428ccd9ff5bd0167d618c5a0d4341f9600a458d14",
