@@ -424,7 +424,8 @@
     "token": "TNKR",
     "description": "The IP Asset & accelerated development staging grounds for the Kusama ecosystem",
     "website": "https://invarch.network/tinkernet",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Name%3DTinkernet.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Name%3DTinkernet.png",
+    "disabled": true
   },
    {
     "paraid": "2124",
