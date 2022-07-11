@@ -68,7 +68,7 @@
         "externalApi": {
             "staking": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/moonbeam-x-fearless-wallet-staking"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha__c29yY"
             },
             "history": {
                 "type": "subquery",
