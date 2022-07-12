@@ -445,6 +445,15 @@
     "website": "https://crowdloan-kusama.parallel.fi/",
     "rewardRate": 200,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
+  },
+  {
+    "paraid": "2123",
+    "name": "GM Parachain",
+    "token": "FREN",
+    "description": "GM solves the problem of the cold and isolated nature of crypto at large by encouraging the exchange of GMs and GNs across Dotsama, improving QOL for all participants",
+    "website": "https://www.gmordie.com/crowdloan.html",
+    "rewardRate": 21693,
+    "icon": ""
   }
   
 ]
