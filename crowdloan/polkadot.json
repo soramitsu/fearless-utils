@@ -289,5 +289,14 @@
     "website": "https://totemaccounting.com/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kapex (Totem).png",
     "rewardRate": 0.1
+  },
+  {
+    "paraid": "2039",
+    "name": "Integritee Shell",
+    "token": "TEER",
+    "description": "The most scalable public blockchain solution for securely processing sensitive business or personal data",
+    "website": "https://dot.crowdloan.integritee.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/integritee.png",
+    "rewardRate": 2.5
   }
 ]
