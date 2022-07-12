@@ -436,6 +436,15 @@
     "rewardRate": 600,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Amplitude.png",
     "disabled": true
+  },
+   {
+    "paraid": "2123",
+    "name": "Parallel Heiko 2",
+    "token": "HKO",
+    "description": "Decentralized lending, staking, and borrowing built on Kusama",
+    "website": "https://crowdloan-kusama.parallel.fi/",
+    "rewardRate": 200,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
   }
   
 ]
