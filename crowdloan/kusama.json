@@ -454,6 +454,15 @@
     "website": "https://www.gmordie.com/crowdloan.html",
     "rewardRate": 21693,
     "icon": ""
+  },
+  {
+    "paraid": "2127",
+    "name": "SNOW",
+    "token": "ICZ",
+    "description": "SNOW is the canary network for ICE Network. SNOW supports cross-chain communication across both the internal Kusama ecosystem, ICON's BTP network along with being EVM and eWASM-compatible",
+    "website": "https://icenetwork.io/",
+    "rewardRate": 4000,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Name%3DSNOW.png"
   }
   
 ]
