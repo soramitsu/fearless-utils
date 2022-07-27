@@ -1624,6 +1624,34 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/unique.json",
             "overridesCommon": true
         }
+    },
+    {
+        "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Phala",
+        "externalApi": {
+             "history": {
+                "type": "subquery",
+                "url": ""
+            }
+        },
+        "assets": [
+            {
+                "assetId": "phala(dot)"
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://api.phala.network/ws",
+                "name": "Phala node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
+        "addressPrefix": 30,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/phala(dot).json",
+            "overridesCommon": true
+        }
     }
 
 ]
