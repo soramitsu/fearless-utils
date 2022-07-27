@@ -1189,7 +1189,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-integritee__c29yY"
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-integritee"
             }
         },
         "assets": [
