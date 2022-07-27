@@ -1663,7 +1663,7 @@
             "name": "Dwellir node"
           }
         ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Litentry.svg",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litentry.svg",
         "addressPrefix": 31,
         "types": {
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/moonbeam_staking/type_registry/litentry.json",
