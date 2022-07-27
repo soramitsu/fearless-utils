@@ -305,9 +305,10 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg"
   },
   {
-    "id": "phala(dot)",
+    "id": "pha(dot)",
     "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
     "precision": 12,
+    "priceId": "pha",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/phala.svg"
   }
 ]
