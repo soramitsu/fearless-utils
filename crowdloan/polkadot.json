@@ -305,7 +305,7 @@
     "token": "SO",
     "description": "The omnichain financial platform for web3, including omnichain swap and BTC omnichain lending",
     "website": "https://omnibtc.finance/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OmniBTC.png",
     "rewardRate": 0.33
   },
   {
@@ -314,6 +314,6 @@
     "token": "KYL",
     "description": "The native Polkadot Data Blockchain to accelerate the world’s transition to DeData within a Web3.0 context by Building a Cross-chain Platform Powering the Data Economy",
     "website": "https://kylin.network/",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kylin Network.png"
   }
 ]
