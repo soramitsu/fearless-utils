@@ -317,5 +317,12 @@
     "precision": 12,
     "priceId": "litentry",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litentry.svg"
+  },
+  {
+    "id": "bnc(dot)",
+    "chainId": "262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b",
+    "precision": 12,
+    "priceId": "bifrost-native-coin",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg"
   }
 ]

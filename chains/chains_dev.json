@@ -1669,6 +1669,28 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/moonbeam_staking/type_registry/litentry.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Bifrost",
+        "assets": [
+          {
+            "assetId": "bifrost(dot)"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://hk.p.bifrost-rpc.liebi.com/ws",
+            "name": "Liebi node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
+        "addressPrefix": 6,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/feature/moonbeam_staking/type_registry/bifrost(dot).json",
+          "overridesCommon": true
+        }
       }
 
 ]
