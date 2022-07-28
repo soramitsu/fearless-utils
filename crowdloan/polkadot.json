@@ -307,5 +307,13 @@
     "website": "https://omnibtc.finance/",
     "icon": "",
     "rewardRate": 0.33
+  },
+  {
+    "paraid": "2052",
+    "name": "Kylin",
+    "token": "KYL",
+    "description": "The native Polkadot Data Blockchain to accelerate the world’s transition to DeData within a Web3.0 context by Building a Cross-chain Platform Powering the Data Economy",
+    "website": "https://kylin.network/",
+    "icon": ""
   }
 ]
