@@ -380,6 +380,10 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "name": "Moonriver",
         "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/moonriver-x-fearless-wallet-staking__c29yY"
+            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
@@ -984,6 +988,10 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "name": "Moonbeam",
         "externalApi": {
+            "staking": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/moonbeam-x-fearless-wallet-staking"
+            },
             "history": {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam"
