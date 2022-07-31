@@ -310,7 +310,7 @@
     "id": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8",
     "symbol": "ksm",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
-    "precision": 10,
+    "precision": 12,
     "priceId": "kusama",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
     "transfersEnabled": true
