@@ -1,0 +1,22 @@
+{
+    "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Centrifuge",
+    "assets": [
+      {
+        "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://fullnode.parachain.centrifuge.io",
+        "name": "Centrufge node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/centrifuge.svg",
+    "addressPrefix": 36,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/centrifuge.json",
+      "overridesCommon": true
+    }
+}

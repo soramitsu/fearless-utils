@@ -1,0 +1,30 @@
+{
+    "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "UNIQUE",
+    "assets": [
+        {
+            "assetId": "57d05537-06a2-453b-ac87-d081aee65ec9"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://eu-ws.unique.network",
+            "name": "Unique Europe node"
+        },
+        {
+            "url": "wss://asia-ws.unique.network",
+            "name": "Unique Asia node"
+        },
+        {
+            "url": "wss://us-ws.unique.network",
+            "name": "Unique America node"
+        }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
+    "addressPrefix": 7391,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/unique.json",
+        "overridesCommon": true
+    }
+}

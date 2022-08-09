@@ -1,0 +1,22 @@
+{
+    "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Nodle Parachain",
+    "assets": [
+      {
+        "assetId": "e0e1107-e323-43aa-bb93-d7618d2c8cf5"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://nodle-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg",
+    "addressPrefix": 37,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/nodle.json",
+      "overridesCommon": true
+    }
+}

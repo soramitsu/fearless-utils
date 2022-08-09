@@ -1,0 +1,54 @@
+{
+    "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Moonriver",
+    "externalApi": {
+        "staking": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/moonriver-x-fearless-wallet-staking__c29yY"
+        },
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://moonriver.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "35346815-009a-4cf9-a5ad-85a0167e594d",
+        "staking": "parachain"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://moonriver.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://wss.moonriver.moonbeam.network",
+        "name": "PureStake node"
+      },
+      {
+        "url": "wss://rpc.pinknode.io/moonriver/explorer",
+        "name": "Pinknode node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
+    "addressPrefix": 1285,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonriver.json",
+      "overridesCommon": true
+    },
+    "options": [
+      "ethereumBased"
+    ]
+}

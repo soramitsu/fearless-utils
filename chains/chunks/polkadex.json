@@ -1,0 +1,27 @@
+{
+    "chainId": "3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Polkadex Main Network",
+    "assets": [
+        {
+            "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://polkadex.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+            "name": "Onfinalty node"
+        },
+        {
+            "url": "wss://mainnet.polkadex.trade",
+            "name": "Polkadex team node"
+        }
+
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/polkadex.svg",
+    "addressPrefix": 88,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadex.json",
+        "overridesCommon": true
+    }
+}

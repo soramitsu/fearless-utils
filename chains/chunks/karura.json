@@ -1,0 +1,170 @@
+{
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Karura",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://karura.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "91a69026-0ab7-4db0-af53-8d571fd33ac4"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "223b0282-b5c9-48ed-87e3-5e9ef6714ac8"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "e605149c-0f41-4ec9-960f-21c07e2d9361"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "10757cfa-b590-43c1-8524-efc28d798bcb"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "77562113-9e01-49b6-a39d-87a47bde24fe"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "c6fd5a1e-3052-4bdf-b0f3-ad1b7b9fbff0"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "5e9c76a4-9f89-487d-80aa-db0588b60aa4"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "4b9f4cba-3b26-4f99-8666-3ee305683706"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "3d32d7cb-4de5-427e-9668-a9763648a555"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "17142348-16f6-49f2-9006-098f5562bda0"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "6aa4622c-42b9-4976-9f7c-35447bb24128"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "e27e5b58-3229-4656-b9ff-de309f49f17f"
+      },
+      {
+        "type": "stableAssetPoolToken",
+        "assetId": "8e975c47-df51-48a8-a29e-a89ee0f4bf9e"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "536deaa6-49b0-4b54-adc7-9619e15c79b2"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "f2257792-ffb9-4dff-95ae-5f98c1cb594b"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "54b7f751-ef62-45b2-ad65-837852de5af4"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "bb3dc769-394f-40fb-b54f-4a0d0de7e49e"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "5fd5f3ce-4a2c-4647-923e-6c29cc95a4f7"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "8cf27ed8-11bf-4b16-be22-5aa6bbc10736"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "805e945b-54a6-47ec-a62b-7bcbae46fb70"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "addd6fed-51af-4088-8d6d-05c73b48b8df"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "f8d6e0db-e50b-46ea-b870-c2e97abb99d7"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "4879d0ed-810b-4792-8e83-387180cc3a9c"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "e0fe6aac-a52e-4e78-be60-defee1006569"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "1d534f94-bc5a-41a5-a295-c84f9ee0d95c"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "b8f7bcbc-fe2d-457d-903f-c8c126127231"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "2433813f-403f-40e1-9e00-688b037113d5"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "1a6e5327-80da-439a-8294-8b3dbeb8172c"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://karura.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://karura-rpc-0.aca-api.network",
+        "name": "Acala Foundation node 0"
+      },
+      {
+        "url": "wss://karura-rpc-1.aca-api.network",
+        "name": "Acala Foundation node 1"
+      },
+      {
+        "url": "wss://karura-rpc-2.aca-api.network/ws",
+        "name": "Acala Foundation node 2"
+      },
+      {
+        "url": "wss://karura-rpc-3.aca-api.network/ws",
+        "name": "Acala Foundation node 3"
+      },
+      {
+        "url": "wss://karura.polkawallet.io",
+        "name": "Polkawallet node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
+    "addressPrefix": 8,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/karura.json",
+      "overridesCommon": true
+    }
+}

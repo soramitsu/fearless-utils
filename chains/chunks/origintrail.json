@@ -1,0 +1,23 @@
+{
+    "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "OriginTrail Parachain",
+    "assets": [
+        {
+            "assetId": "af5bf9f0-0009-4cf8-98ed-b988268c94f1"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://parachain-rpc.origin-trail.network",
+            "name": "TraceLabs node"
+        }
+
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OriginTrail.svg",
+    "addressPrefix": 101,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/origin_trail.json",
+        "overridesCommon": true
+    }
+}
