@@ -1,0 +1,56 @@
+{
+      "2.0.14": [
+        {
+          "chain": "chains/chunks/polkadot.json",
+          "hash": "6af64df95d0eb0c6a71e67d0d2943d81",
+          "id": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3"
+        },
+        {
+            "chain": "chains/chunks/kusama.json",
+            "hash": "2b5ec8a3f79cf4e27ad546958a6dad5d",
+            "id": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe"
+        },
+        {
+            "chain": "chains/chunks/westend.json",
+            "hash": "8b7b26105c6bdddb826947e8c229e500",
+            "id": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e"
+        },
+        {
+            "chain": "chains/chunks/statemine.json",
+            "hash": "f906c99022c91f1403203e4ac9109c60",
+            "id": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+        },
+        {
+            "chain": "chains/chunks/statemint.json",
+            "hash": "24d98ef5f0b6bb4cce3a7a85acfcb3d1",
+            "id": "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f"
+        },
+        {
+            "chain": "chains/chunks/acala.json",
+            "hash": "e7f63f2576dde67f179443b127f6eccf",
+            "id": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+        },
+        {
+            "chain": "chains/chunks/karura.json",
+            "hash": "929312648e853e98ee6e175aba969632",
+            "id": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+        },
+        {
+            "chain": "chains/chunks/moonriver.json",
+            "hash": "8af0ec9725945bd09fa397fdb3a6da01",
+            "id": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+        },
+        {
+            "chain": "chains/chunks/shiden.json",
+            "hash": "3ec405c74451203e368787efba5e69c1",
+            "id": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108"
+        },
+        {
+            "chain": "chains/chunks/bifrost.json",
+            "hash": "217832b6ef6420cffea51ccbb19f7be4",
+            "id": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+        }
+        
+    ]
+
+}
