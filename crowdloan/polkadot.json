@@ -297,7 +297,8 @@
     "description": "The most scalable public blockchain solution for securely processing sensitive business or personal data",
     "website": "https://dot.crowdloan.integritee.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/integritee.png",
-    "rewardRate": 2.5
+    "rewardRate": 2.5,
+    "disabled": true
   },
   {
     "paraid": "2053",
