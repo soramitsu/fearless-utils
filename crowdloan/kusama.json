@@ -453,7 +453,8 @@
     "description": "GM solves the problem of the cold and isolated nature of crypto at large by encouraging the exchange of GMs and GNs across Dotsama, improving QOL for all participants",
     "website": "https://www.gmordie.com/crowdloan.html",
     "rewardRate": 21693,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/GM%20Parachain.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/GM%20Parachain.png",
+    "disabled": true
   },
   {
     "paraid": "2127",
