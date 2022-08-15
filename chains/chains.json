@@ -1580,5 +1580,81 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/unique.json",
             "overridesCommon": true
         }
+    },
+    {
+      "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
+      "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "Phala",
+      "externalApi": {
+           "history": {
+              "type": "subquery",
+              "url": ""
+          }
+      },
+      "assets": [
+          {
+              "assetId": "pha(dot)"
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://api.phala.network/ws",
+              "name": "Phala node"
+          }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
+      "addressPrefix": 30,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/phala(dot).json",
+          "overridesCommon": true
+      }
+  },
+  {
+      "chainId": "2fc8bb6ed7c0051bdcf4866c322ed32b6276572713607e3297ccf411b8f14aa9",
+      "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "Litentry",
+      "assets": [
+        {
+          "assetId": "lit(dot)"
+        }
+      ],
+      "nodes": [
+        {
+          "url": "wss://rpc.litentry-parachain.litentry.io",
+          "name": "Litentry node"
+        },
+        {
+          "url": "wss://litentry-rpc.dwellir.com",
+          "name": "Dwellir node"
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litentry.svg",
+      "addressPrefix": 31,
+      "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/litentry.json",
+        "overridesCommon": true
+      }
+    },
+    {
+      "chainId": "262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b",
+      "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "Bifrost",
+      "assets": [
+        {
+          "assetId": "bnc(dot)"
+        }
+      ],
+      "nodes": [
+        {
+          "url": "wss://hk.p.bifrost-rpc.liebi.com/ws",
+          "name": "Liebi node"
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
+      "addressPrefix": 6,
+      "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/bifrost(dot).json",
+        "overridesCommon": true
+      }
     }
 ]
