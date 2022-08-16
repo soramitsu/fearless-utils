@@ -254,6 +254,11 @@
             "chain": "chains/chunks/integritee.json",
             "hash": "29ea8c02ad14087a77ff5e5dde3329c9",
             "id": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215"
+        },
+        {
+            "chain": "chains/chunks/encointer.json",
+            "hash": "1a7b43dc5773d48f76e5fca9f2451ee9",
+            "id": "7dd99936c1e9e6d1ce7d90eb6f33bea8393b4bf87677d675aa63c9cb3e8c5b5b"
         }
     ]
 
