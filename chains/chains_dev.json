@@ -135,7 +135,8 @@
       "overridesCommon": true
     },
     "options": [
-      "crowdloans"
+      "crowdloans",
+      "poolStaking"
     ]
   },
   {
@@ -189,7 +190,8 @@
     },
     "options": [
       "testnet",
-      "crowdloans"
+      "crowdloans",
+      "poolStaking"
     ]
   },
   {
