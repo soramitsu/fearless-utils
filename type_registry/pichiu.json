@@ -1,0 +1,18 @@
+{
+    "runtime_id": 21,
+    "types": { },
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "GenericEvent": "cumulus_pallet_parachain_system::pallet::Event",
+                "GenericCall": "cumulus_pallet_parachain_system::pallet::Call"
+            }
+        }
+    ]
+}
