@@ -1,0 +1,265 @@
+{
+      "2.0.14": [
+        {
+          "chain": "chains/chunks/polkadot.json",
+          "hash": "6af64df95d0eb0c6a71e67d0d2943d81",
+          "id": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3"
+        },
+        {
+            "chain": "chains/chunks/kusama.json",
+            "hash": "2b5ec8a3f79cf4e27ad546958a6dad5d",
+            "id": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe"
+        },
+        {
+            "chain": "chains/chunks/westend.json",
+            "hash": "041261905341a708d0dcc1017a5ca4d8",
+            "id": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e"
+        },
+        {
+            "chain": "chains/chunks/statemine.json",
+            "hash": "f906c99022c91f1403203e4ac9109c60",
+            "id": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+        },
+        {
+            "chain": "chains/chunks/statemint.json",
+            "hash": "24d98ef5f0b6bb4cce3a7a85acfcb3d1",
+            "id": "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f"
+        },
+        {
+            "chain": "chains/chunks/acala.json",
+            "hash": "e7f63f2576dde67f179443b127f6eccf",
+            "id": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+        },
+        {
+            "chain": "chains/chunks/karura.json",
+            "hash": "929312648e853e98ee6e175aba969632",
+            "id": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+        },
+        {
+            "chain": "chains/chunks/moonriver.json",
+            "hash": "8af0ec9725945bd09fa397fdb3a6da01",
+            "id": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+        },
+        {
+            "chain": "chains/chunks/shiden.json",
+            "hash": "3ec405c74451203e368787efba5e69c1",
+            "id": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108"
+        },
+        {
+            "chain": "chains/chunks/bifrost.json",
+            "hash": "217832b6ef6420cffea51ccbb19f7be4",
+            "id": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+        },
+        {
+            "chain": "chains/chunks/khala.json",
+            "hash": "6e4d32256e392c296cac4c55be566857",
+            "id": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d"
+        },
+        {
+            "chain": "chains/chunks/kilt.json",
+            "hash": "03a715cbc3c3c8f16aff208179d1457c",
+            "id": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21"
+        },
+        {
+            "chain": "chains/chunks/calamari.json",
+            "hash": "f1e258a3afe4c8bc31d3dccca09cf3fe",
+            "id": "4ac80c99289841dd946ef92765bf659a307d39189b3ce374a92b5f0415ee17a1"
+        },
+        {
+            "chain": "chains/chunks/quartz.json",
+            "hash": "4fc32e19f2b9350ecb644214f6073812",
+            "id": "cd4d732201ebe5d6b014edda071c4203e16867305332301dc8d092044b28e554"
+        },
+        {
+            "chain": "chains/chunks/heiko.json",
+            "hash": "ed2d4c7915ba7b5bd89a290b88219fb4",
+            "id": "64a1c658a48b2e70a7fb1ad4c39eea35022568c20fc44a6e2e3d0a57aee6053b"
+        },
+        {
+            "chain": "chains/chunks/picasso.json",
+            "hash": "ed1dc5238536080804751419f595ef78",
+            "id": "6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc"
+        },
+        {
+            "chain": "chains/chunks/altair.json",
+            "hash": "18378372fd73807c594c505456de1241",
+            "id": "aa3876c1dc8a1afcc2e9a685a49ff7704cfd36ad8c90bf2702b9d1b00cc40011"
+        },
+        {
+            "chain": "chains/chunks/bcpioneer.json",
+            "hash": "2f29e6c3a20ddb20126f186f42cfe624",
+            "id": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3"
+        },
+        {
+            "chain": "chains/chunks/clover.json",
+            "hash": "e9138c70c55fb6c8843fa41339b0428e",
+            "id": "5c7bd13edf349b33eb175ffae85210299e324d852916336027391536e686f267"
+        },
+        {
+            "chain": "chains/chunks/astar.json",
+            "hash": "5183bfb7257a752f442aa2a63d29c204",
+            "id": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6"
+        },
+        {
+            "chain": "chains/chunks/parallel.json",
+            "hash": "a498ffabc78a731434feb07290078d25",
+            "id": "e61a41c53f5dcd0beb09df93b34402aada44cb05117b71059cce40a2723a4e97"
+        },
+        {
+            "chain": "chains/chunks/basilisk.json",
+            "hash": "a88bc977973a34be5d1acb6ec4cd7700",
+            "id": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755"
+        },
+        {
+            "chain": "chains/chunks/moonbeam.json",
+            "hash": "b5733b654019b0f468b99d9ee95777d8",
+            "id": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d"
+        },
+        {
+            "chain": "chains/chunks/moonbasealpha.json",
+            "hash": "da6a2e36c6918865656b311360b792d0",
+            "id": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527"
+        },
+        {
+            "chain": "chains/chunks/kintsugi.json",
+            "hash": "40de0bb39d43094390fb236823ba87b7",
+            "id": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b"
+        },
+        {
+            "chain": "chains/chunks/genshiro.json",
+            "hash": "5e742ced07b1681e6e8e8d7de7f7476b",
+            "id": "9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243"
+        },
+        {
+            "chain": "chains/chunks/soraparachain.json",
+            "hash": "fc62aa284e58cbc8c536cebb46ad2074",
+            "id": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9"
+        },
+        {
+            "chain": "chains/chunks/subsocial.json",
+            "hash": "576398b182d3ee88ed281de48531d76e",
+            "id": "4a12be580bb959937a1c7a61d5cf24428ed67fa571974b4007645d1886e7c89f"
+        },
+        {
+            "chain": "chains/chunks/zeitgeist.json",
+            "hash": "433d1b0d74b4f1bcf4a6edadf2c36c27",
+            "id": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060"
+        },
+        {
+            "chain": "chains/chunks/efinity.json",
+            "hash": "179a4d8da94e9c934f9fe401573ccbcd",
+            "id": "335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f"
+        },
+        {
+            "chain": "chains/chunks/hydradx.json",
+            "hash": "7bd6e2dd326e342bd719f0f716b8cd6c",
+            "id": "afdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d"
+        },
+        {
+            "chain": "chains/chunks/centrifuge.json",
+            "hash": "7dca4184c38122de1610b72d0f3d9445",
+            "id": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82"
+        },
+        {
+            "chain": "chains/chunks/nodleparachain.json",
+            "hash": "0e6f42d6cb4e875ac47383f600dd8aac",
+            "id": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21"
+        },
+        {
+            "chain": "chains/chunks/interlay.json",
+            "hash": "4841a062bca48138a062778dd0ffe005",
+            "id": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72"
+        },
+        {
+            "chain": "chains/chunks/litmus.json",
+            "hash": "ca16d47f4d048c0eb440284e052d4a34",
+            "id": "da5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c"
+        },
+        {
+            "chain": "chains/chunks/polkadex.json",
+            "hash": "ee468209aed559b1a40b99a2f593ddb9",
+            "id": "3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c"
+        },
+        {
+            "chain": "chains/chunks/dorafactory.json",
+            "hash": "0cb688312ec7206f106627ca96ccbb8b",
+            "id": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14"
+        },
+        {
+            "chain": "chains/chunks/origintrail.json",
+            "hash": "3cf630a5f7b531b8a69c97e2b45cd76b",
+            "id": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174"
+        },
+        {
+            "chain": "chains/chunks/unique.json",
+            "hash": "0b9793fffd40c115c1a3a521fd45d163",
+            "id": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31"
+        },
+        {
+            "chain": "chains/chunks/bifrostdot.json",
+            "hash": "717b6238032ab5da062358897bc73d4e",
+            "id": "262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b"
+        },
+        {
+            "chain": "chains/chunks/litentry.json",
+            "hash": "c666c123c87c74e26e187b009063aa70",
+            "id": "2fc8bb6ed7c0051bdcf4866c322ed32b6276572713607e3297ccf411b8f14aa9"
+        },
+        {
+            "chain": "chains/chunks/phala.json",
+            "hash": "ebc497c10fdaa8e2cb3676ff1f019109",
+            "id": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736"
+        },
+        {
+            "chain": "chains/chunks/composable.json",
+            "hash": "ffc9029e9d792fe114555eff9da54673",
+            "id": "daab8df776eb52ec604a5df5d388bb62a050a0aaec4556a64265b9d42755552d"
+        },
+        {
+            "chain": "chains/chunks/bajun.json",
+            "hash": "f4179eb7e22262de43052d5cccb3cf79",
+            "id": "35a06bfec2edf0ff4be89a6428ccd9ff5bd0167d618c5a0d4341f9600a458d14"
+        },
+        {
+            "chain": "chains/chunks/crabparachain.json",
+            "hash": "3673b2e46ff5b1339bacdc9f9de412ff",
+            "id": "eac895d7768b17837a9c3a9f0280c01502c3ef40193df923490a0fa9c60ea076"
+        },
+        {
+            "chain": "chains/chunks/kabocha.json",
+            "hash": "7c2ca5f43c1d8a6a9b3557b1ffe0d2d1",
+            "id": "feb426ca713f0f46c96465b8f039890370cf6bfd687c9076ea2843f58a6ae8a7"
+        },
+        {
+            "chain": "chains/chunks/kico.json",
+            "hash": "8b459c267b90cd7c5a59619c398f9e35",
+            "id": "52149c30c1eb11460dce6c08b73df8d53bb93b4a15d0a2e7fd5dafe86a73c0da"
+        },
+        {
+            "chain": "chains/chunks/mangata.json",
+            "hash": "ddf002f551bb0fd780ec3b9c49eb25bc",
+            "id": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa"
+        },
+        {
+            "chain": "chains/chunks/tanganika.json",
+            "hash": "29ab1b183809085e6e7b8bdf4fb4ff0f",
+            "id": "eacdd2d5b42de9769ccbb6e8d9013ab0d90ab105bf601d4aac53e874c145ec21"
+        },
+        {
+            "chain": "chains/chunks/equilibrium.json",
+            "hash": "6749f55b8e39647b4f7e673753f871b8",
+            "id": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+        },
+        {
+            "chain": "chains/chunks/integritee.json",
+            "hash": "29ea8c02ad14087a77ff5e5dde3329c9",
+            "id": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215"
+        },
+        {
+            "chain": "chains/chunks/encointer.json",
+            "hash": "1a7b43dc5773d48f76e5fca9f2451ee9",
+            "id": "7dd99936c1e9e6d1ce7d90eb6f33bea8393b4bf87677d675aa63c9cb3e8c5b5b"
+        }
+    ]
+
+}

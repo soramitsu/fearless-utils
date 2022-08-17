@@ -1,0 +1,36 @@
+{
+    "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Basilisk",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-basilisk"
+      }
+    },
+    "assets": [
+      {
+        "assetId": "7dae28e2-9f5e-49ff-9140-aa750a9579ea"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://basilisk.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://rpc-01.basilisk.hydradx.io",
+        "name": "HydraDX node"
+      },
+      {
+        "url": "wss://basilisk-rpc.dwellir.com",
+        "name": "Dwellir node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg",
+    "addressPrefix": 10041,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/basilisk.json",
+      "overridesCommon": true
+    }
+}

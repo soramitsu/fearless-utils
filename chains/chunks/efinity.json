@@ -1,0 +1,28 @@
+{
+    "chainId": "335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Efinity",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-efinity__c29yY"
+      }
+    },
+    "assets": [
+      {
+        "assetId": "80b7c347-161d-40a9-aed6-b2f202e3577e"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc.efinity.io",
+        "name": "Efinity node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/efinity.svg",
+    "addressPrefix": 1110,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/efinity.json",
+      "overridesCommon": true
+    }
+}

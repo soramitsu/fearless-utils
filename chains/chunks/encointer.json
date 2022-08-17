@@ -1,0 +1,26 @@
+{
+  "chainId": "7dd99936c1e9e6d1ce7d90eb6f33bea8393b4bf87677d675aa63c9cb3e8c5b5b",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "name": "Encointer on Kusama",
+  "assets": [
+    {
+      "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b"
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://kusama.api.encointer.org",
+      "name": "Encointer Association node"
+    },
+    {
+      "url": "wss://encointer.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+      "name": "Onfinalty node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/encointer.svg",
+  "addressPrefix": 2,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/encointer.json",
+    "overridesCommon": true
+  }
+}

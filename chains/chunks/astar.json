@@ -1,0 +1,45 @@
+{
+    "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Astar",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://astar.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc.astar.network",
+        "name": "Astar node"
+      },
+      {
+        "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
+    "addressPrefix": 5,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/astar.json",
+      "overridesCommon": true
+    },
+    "options": [
+          "tipRequired"
+        ]
+}

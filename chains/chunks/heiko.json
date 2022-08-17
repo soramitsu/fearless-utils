@@ -1,0 +1,42 @@
+{
+    "chainId": "64a1c658a48b2e70a7fb1ad4c39eea35022568c20fc44a6e2e3d0a57aee6053b",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Parallel Heiko",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://parallel-heiko.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "02b54158-4f4f-4077-b6a7-7c9edd75a1ca"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://parallel-heiko.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://heiko-rpc.parallel.fi",
+        "name": "Parallel node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
+    "addressPrefix": 110,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/parallelheiko.json",
+      "overridesCommon": true
+    }
+}

@@ -1,0 +1,58 @@
+{
+  "chainId": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
+  "name": "Westend",
+  "externalApi": {
+    "staking": {
+      "type": "subquery",
+      "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+    },
+    "history": {
+      "type": "subquery",
+      "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-westend"
+    },
+    "crowdloans": {
+      "type": "github",
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/westend.json"
+    },
+    "explorers": [
+      {
+        "type": "subscan",
+        "types": [
+          "extrinsic",
+          "account"
+        ],
+        "url": "https://westend.subscan.io/{type}/{value}"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "assetId": "a3868e1b-922e-42d4-b73e-b41712f0843c",
+      "staking": "relaychain"
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://westend.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+      "name": "OnFinality node"
+    },
+    {
+      "url": "wss://westend-rpc.polkadot.io",
+      "name": "Parity node"
+    },
+    {
+      "url": "wss://westend-rpc.dwellir.com",
+      "name": "Dwellir node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
+  "addressPrefix": 42,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/westend.json",
+    "overridesCommon": true
+  },
+  "options": [
+    "testnet",
+    "crowdloans"
+  ]
+}

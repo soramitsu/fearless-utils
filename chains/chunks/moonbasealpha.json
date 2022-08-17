@@ -1,0 +1,54 @@
+{
+    "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
+    "name": "Moonbase Alpha",
+    "externalApi": {
+        "staking": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha__c29yY"
+        },
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://moonbase.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5",
+        "staking": "parachain"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://moonbeam-alpha.api.onfinality.io/public-ws",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://wss.api.moonbase.moonbeam.network",
+        "name": "Moonbeam Network node"
+      },
+      {
+        "url": "wss://rpc.pinknode.io/alphanet/explorer",
+        "name": "Pinknode node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
+    "addressPrefix": 1287,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/moonbasealpha.json",
+      "overridesCommon": true
+    },
+    "options": [
+      "testnet",
+      "ethereumBased"
+    ]
+}

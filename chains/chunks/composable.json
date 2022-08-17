@@ -1,0 +1,26 @@
+{
+    "chainId": "daab8df776eb52ec604a5df5d388bb62a050a0aaec4556a64265b9d42755552d",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Composable Finance",
+    "assets": [
+      {
+        "assetId": "7f429a3f-4666-40a2-a506-58bfe01504c4"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc.composable.finance",
+        "name": "Composable node"
+      },
+      {
+        "url": "wss://composable-rpc.dwellir.com",
+        "name": "Dwellir node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/composable.svg",
+    "addressPrefix": 49,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/composable.json",
+      "overridesCommon": true
+    }
+}

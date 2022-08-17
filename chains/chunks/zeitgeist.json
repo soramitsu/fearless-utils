@@ -1,0 +1,22 @@
+{
+    "chainId": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Zeitgeist",
+    "assets": [
+      {
+        "assetId": "2246fe14-4ec4-460c-8d92-e15bd337f8af"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc-0.zeitgeist.pm",
+        "name": "ZeitgeistPM node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/zeitgeist.svg",
+    "addressPrefix": 73,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/zeitgeist.json",
+      "overridesCommon": true
+    }
+}

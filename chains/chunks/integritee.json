@@ -1,0 +1,32 @@
+{
+    "chainId": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Integritee Shell",
+    "externalApi": {
+        "history": {
+            "type": "subquery",
+            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-integritee"
+        }
+    },
+    "assets": [
+        {
+            "assetId": "07c55d3a-b24e-410e-b9ca-7da0707fbd61"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://integritee-kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+            "name": "OnFinality node"
+        },
+        {
+            "url": "wss://kusama.api.integritee.network",
+            "name": "Integritee node"
+        }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
+    "addressPrefix": 13,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/integritee.json",
+        "overridesCommon": true
+    }
+}
