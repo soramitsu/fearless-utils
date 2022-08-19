@@ -10,8 +10,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "GenericEvent": "cumulus_pallet_parachain_system::pallet::Event",
-                "GenericCall": "cumulus_pallet_parachain_system::pallet::Call"
+                "GenericEvent": "pichiu_runtime::Event",
+                "GenericCall": "pichiu_runtime::Call"
             }
         }
     ]
