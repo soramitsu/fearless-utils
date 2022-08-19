@@ -2006,5 +2006,27 @@
         "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/encointer.json",
         "overridesCommon": true
       }
-    }
+    },
+    {
+        "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Pichiu Network",
+        "assets": [
+          {
+            "assetId": "5b196f7c-475a-493e-abbf-9f808d6fb863"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://kusama.kylin-node.co.uk",
+            "name": "Kylin Network node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/pichiu.svg",
+        "addressPrefix": 42,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pichiu.json",
+          "overridesCommon": true
+        }
+      }
 ]
