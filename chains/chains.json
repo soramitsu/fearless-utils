@@ -1818,5 +1818,27 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/pichiu.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "InvArch Tinker Network",
+        "assets": [
+          {
+            "assetId": "tnkr"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://tinker.invarch.network",
+            "name": "InvArch Team node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg",
+        "addressPrefix": 117,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/tinker.json",
+          "overridesCommon": true
+        }
       }
 ]
