@@ -1848,7 +1848,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg",
         "addressPrefix": 117,
         "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/tinker.json",
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/tinker.json",
           "overridesCommon": true
         }
       }
