@@ -1879,32 +1879,6 @@
     }
   },
   {
-    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "name": "Mangata Kusama Mainnet",
-    "assets": [
-      {
-        "assetId": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928"
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://prod-kusama-collator-01.mangatafinance.cloud",
-        "name": "Mangata node"
-      },
-      {
-        "url": "wss://mangata-x.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg",
-    "addressPrefix": 42,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/mangata.json",
-      "overridesCommon": true
-    }
-  },
-  {
     "chainId": "eacdd2d5b42de9769ccbb6e8d9013ab0d90ab105bf601d4aac53e874c145ec21",
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "name": "DataHighway Tanganika",
@@ -2026,6 +2000,28 @@
         "addressPrefix": 42,
         "types": {
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pichiu.json",
+          "overridesCommon": true
+        }
+      },
+      {
+        "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
+        "parentId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
+        "name": "InvArch Tinker Network",
+        "assets": [
+          {
+            "assetId": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://tinker.invarch.network",
+            "name": "InvArch Team node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg",
+        "addressPrefix": 117,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/tinker.json",
           "overridesCommon": true
         }
       }

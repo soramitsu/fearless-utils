@@ -846,13 +846,6 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg"
   },
   {
-    "id": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928",
-    "symbol": "mgx",
-    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
-    "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg"
-  },
-  {
     "id": "15df9971-2e6a-4619-a5ca-9ad571655287",
     "symbol": "dhx",
     "chainId": "eacdd2d5b42de9769ccbb6e8d9013ab0d90ab105bf601d4aac53e874c145ec21",
@@ -874,5 +867,12 @@
     "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/pichiu.svg"
+  },
+  {
+    "id": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5",
+    "symbol": "tnkr",
+    "chainId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg"
   }
 ]
