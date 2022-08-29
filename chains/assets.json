@@ -875,5 +875,19 @@
     "chainId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg"
+  },
+  {
+    "id": "19763697-37d8-4643-b840-3fd8565f5d83",
+    "symbol": "fren",
+    "chainId": "19a3733beb9cb8a970a308d835599e9005e02dc007a35440e461a451466776f8",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/GM%20Parachain.svg"
+  },
+  {
+    "id": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798",
+    "symbol": "imbu",
+    "chainId": "ca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg"
   }
 ]
