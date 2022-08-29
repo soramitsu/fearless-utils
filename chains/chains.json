@@ -1840,5 +1840,59 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/tinker.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "19a3733beb9cb8a970a308d835599e9005e02dc007a35440e461a451466776f8",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "GM Parachain",
+        "assets": [
+          {
+            "assetId": "fren"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://kusama.gmordie.com",
+            "name": "GMorDieDAO node"
+          },
+          {
+            "url": "wss://ws.gm.bldnodes.org",
+            "name": "bLd Nodes node"
+          },
+          {
+            "url": "wss://ws-node-gm.terrabiodao.org",
+            "name": "TerraBioDAO node"
+          }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/GM%20Parachain.svg",
+        "addressPrefix": 7013,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/gm.json",
+          "overridesCommon": true
+        }
+      },
+      {
+        "chainId": "ca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Imbue Kusama",
+        "assets": [
+          {
+            "assetId": "imbu"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://imbue-kusama.imbue.network",
+            "name": "Imbue Network node node"
+          }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg",
+        "addressPrefix": 42,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/imbue.json",
+          "overridesCommon": true
+        }
       }
 ]
