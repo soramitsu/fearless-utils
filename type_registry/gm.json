@@ -1,0 +1,18 @@
+{
+    "runtime_id": 5,
+    "types": { },
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "GenericEvent": "gm_chain_runtime::Event",
+                "GenericCall": "gm_chain_runtime::Call"
+            }
+        }
+    ]
+}
