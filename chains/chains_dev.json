@@ -1859,7 +1859,7 @@
         "name": "GM Parachain",
         "assets": [
           {
-            "assetId": "19763697-37d8-4643-b840-3fd8565f5d83"
+            "assetId": "fren"
           }
         ],
         "nodes": [
@@ -1880,7 +1880,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/GM%20Parachain.svg",
         "addressPrefix": 7013,
         "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/gm.json",
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/gm.json",
           "overridesCommon": true
         }
       },
@@ -1890,7 +1890,7 @@
         "name": "Imbue Kusama",
         "assets": [
           {
-            "assetId": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798"
+            "assetId": "imbu"
           }
         ],
         "nodes": [
@@ -1903,7 +1903,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg",
         "addressPrefix": 42,
         "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/imbue.json",
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/imbue.json",
           "overridesCommon": true
         }
       }
