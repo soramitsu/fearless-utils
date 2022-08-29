@@ -2111,5 +2111,28 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/gm.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "ca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "name": "Imbue Kusama",
+        "assets": [
+          {
+            "assetId": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://imbue-kusama.imbue.network",
+            "name": "Imbue Network node node"
+          }
+
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg",
+        "addressPrefix": 42,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/imbue.json",
+          "overridesCommon": true
+        }
       }
 ]
