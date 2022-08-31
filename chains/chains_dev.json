@@ -495,20 +495,16 @@
         ],
         "nodes": [
             {
+                "url": "wss://bifrost-rpc.dwellir.com",
+                "name": "Dwellir node"
+            },
+            {
                 "url": "wss://bifrost-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
                 "name": "OnFinality node"
             },
             {
                 "url": "wss://bifrost-rpc.liebi.com/ws",
-                "name": "Liebi 0 node"
-            },
-            {
-                "url": "wss://us.bifrost-rpc.liebi.com/ws",
-                "name": "Liebi 1 node"
-            },
-            {
-                "url": "wss://eu.bifrost-rpc.liebi.com/ws",
-                "name": "Liebi 2 node"
+                "name": "Liebi node"
             }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
