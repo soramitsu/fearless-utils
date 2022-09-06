@@ -38,6 +38,7 @@
     "assets": [
       {
         "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75",
+        "isUtility": true,
         "staking": "relaychain",
         "purchaseProviders": [
           "moonpay",
@@ -111,7 +112,8 @@
         "staking": "relaychain",
         "purchaseProviders": [
           "ramp"
-        ]
+        ],
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -169,7 +171,8 @@
     "assets": [
       {
         "assetId": "a3868e1b-922e-42d4-b73e-b41712f0843c",
-        "staking": "relaychain"
+        "staking": "relaychain",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -220,7 +223,8 @@
     },
     "assets": [
       {
-        "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b"
+        "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -252,7 +256,8 @@
     },
     "assets": [
       {
-        "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75"
+        "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -294,7 +299,8 @@
     },
     "assets": [
       {
-        "assetId": "c801d6c1-3edf-41a9-9aea-da705eab249b"
+        "assetId": "c801d6c1-3edf-41a9-9aea-da705eab249b",
+        "isUtility": true
       },
       {
         "type": "ormlAsset",
@@ -364,7 +370,8 @@
     },
     "assets": [
       {
-        "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5"
+        "assetId": "e71b30a0-2a44-40ff-8b53-a166fadef6c5",
+        "isUtility": true
       },
       {
         "type": "ormlAsset",
@@ -539,7 +546,8 @@
     "assets": [
       {
         "assetId": "35346815-009a-4cf9-a5ad-85a0167e594d",
-        "staking": "parachain"
+        "staking": "parachain",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -584,7 +592,8 @@
     },
     "assets": [
       {
-        "assetId": "6dbb524b-a2d7-4c32-b0f9-6825b3e7d2c4"
+        "assetId": "6dbb524b-a2d7-4c32-b0f9-6825b3e7d2c4",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -630,7 +639,8 @@
     },
     "assets": [
       {
-        "assetId": "559e80d6-fb38-4dd5-bbd6-c0a7c2f600e1"
+        "assetId": "559e80d6-fb38-4dd5-bbd6-c0a7c2f600e1",
+        "isUtility": true
       },
       {
         "type": "ormlAsset",
@@ -712,7 +722,8 @@
     },
     "assets": [
       {
-        "assetId": "3feb7de3-e881-4c04-a4de-1b9091dbc324"
+        "assetId": "3feb7de3-e881-4c04-a4de-1b9091dbc324",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -754,7 +765,8 @@
     },
     "assets": [
       {
-        "assetId": "f0d5cadc-4999-45f3-8160-15243f2909d3"
+        "assetId": "f0d5cadc-4999-45f3-8160-15243f2909d3",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -796,7 +808,8 @@
     },
     "assets": [
       {
-        "assetId": "39d4080e-e2ab-43f3-bcc2-2fa281d9290c"
+        "assetId": "39d4080e-e2ab-43f3-bcc2-2fa281d9290c",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -824,7 +837,8 @@
     },
     "assets": [
       {
-        "assetId": "d0f2e718-99ee-4bc2-8dc2-1ce07f21c5ac"
+        "assetId": "d0f2e718-99ee-4bc2-8dc2-1ce07f21c5ac",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -874,7 +888,8 @@
     },
     "assets": [
       {
-        "assetId": "02b54158-4f4f-4077-b6a7-7c9edd75a1ca"
+        "assetId": "02b54158-4f4f-4077-b6a7-7c9edd75a1ca",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -916,7 +931,8 @@
     },
     "assets": [
       {
-        "assetId": "d24959cd-72fb-4155-9880-86d42b1d1cbb"
+        "assetId": "d24959cd-72fb-4155-9880-86d42b1d1cbb",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -954,7 +970,8 @@
     },
     "assets": [
       {
-        "assetId": "56c7f785-23d6-4199-accf-846be58011e6"
+        "assetId": "56c7f785-23d6-4199-accf-846be58011e6",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -986,7 +1003,8 @@
     },
     "assets": [
       {
-        "assetId": "d3b93409-97b1-42e0-8dbc-99d3fb93fc10"
+        "assetId": "d3b93409-97b1-42e0-8dbc-99d3fb93fc10",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1028,7 +1046,8 @@
     },
     "assets": [
       {
-        "assetId": "4b7ab596-bff4-4fd8-9c60-24ef1cbe9584"
+        "assetId": "4b7ab596-bff4-4fd8-9c60-24ef1cbe9584",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1070,7 +1089,8 @@
     },
     "assets": [
       {
-        "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab"
+        "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1115,7 +1135,8 @@
     },
     "assets": [
       {
-        "assetId": "f78aa731-a33c-4d8d-a3bb-74835064366b"
+        "assetId": "f78aa731-a33c-4d8d-a3bb-74835064366b",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1147,7 +1168,8 @@
     },
     "assets": [
       {
-        "assetId": "7dae28e2-9f5e-49ff-9140-aa750a9579ea"
+        "assetId": "7dae28e2-9f5e-49ff-9140-aa750a9579ea",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1198,7 +1220,8 @@
     "assets": [
       {
         "assetId": "e40c8161-9fc9-4749-a3b8-ed1c0ad16475",
-        "staking": "parachain"
+        "staking": "parachain",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1247,7 +1270,8 @@
     "assets": [
       {
         "assetId": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5",
-        "staking": "parachain"
+        "staking": "parachain",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1288,7 +1312,8 @@
     "assets": [
       {
         "type": "ormlChain",
-        "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db"
+        "assetId": "f5d1db12-0a68-4897-903d-51a887daa1db",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1315,7 +1340,8 @@
     "name": "Genshiro",
     "assets": [
       {
-        "assetId": "gens"
+        "assetId": "e207bcef-ab90-4df4-852f-566c309d778e",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1349,7 +1375,8 @@
     },
     "assets": [
       {
-        "assetId": "ca39e03e-dde3-41ac-b1f4-a3d20202b79e"
+        "assetId": "ca39e03e-dde3-41ac-b1f4-a3d20202b79e",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1371,7 +1398,8 @@
     "name": "SORA Kusama",
     "assets": [
       {
-        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604"
+        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1393,7 +1421,8 @@
     "name": "Subsocial",
     "assets": [
       {
-        "assetId": "07f9e907-d099-4893-a67b-96cb2fe63049"
+        "assetId": "07f9e907-d099-4893-a67b-96cb2fe63049",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1415,7 +1444,8 @@
     "name": "Zeitgeist",
     "assets": [
       {
-        "assetId": "2246fe14-4ec4-460c-8d92-e15bd337f8af"
+        "assetId": "2246fe14-4ec4-460c-8d92-e15bd337f8af",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1443,7 +1473,8 @@
     },
     "assets": [
       {
-        "assetId": "80b7c347-161d-40a9-aed6-b2f202e3577e"
+        "assetId": "80b7c347-161d-40a9-aed6-b2f202e3577e",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1465,7 +1496,8 @@
     "name": "HydraDX",
     "assets": [
       {
-        "assetId": "fce79b6c-e071-4271-837e-6ec87a719390"
+        "assetId": "fce79b6c-e071-4271-837e-6ec87a719390",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1487,7 +1519,8 @@
     "name": "Centrifuge",
     "assets": [
       {
-        "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee"
+        "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1509,7 +1542,8 @@
     "name": "Nodle Parachain",
     "assets": [
       {
-        "assetId": "e0e1107-e323-43aa-bb93-d7618d2c8cf5"
+        "assetId": "e0e1107-e323-43aa-bb93-d7618d2c8cf5",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1535,7 +1569,8 @@
     "name": "Interlay",
     "assets": [
       {
-        "assetId": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd"
+        "assetId": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1561,7 +1596,8 @@
     "name": "Litmus",
     "assets": [
       {
-        "assetId": "15076759-6a5b-4cd6-b84c-e64842f094e5"
+        "assetId": "15076759-6a5b-4cd6-b84c-e64842f094e5",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1583,7 +1619,8 @@
         "name": "Polkadex Main Network",
         "assets": [
             {
-                "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f"
+                "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f",
+                "isUtility": true
             }
         ],
         "nodes": [
@@ -1610,7 +1647,8 @@
       "name": "Dorafactory Network",
       "assets": [
           {
-              "assetId": "c0d1efac-597d-4c56-b5ad-b683b8214ada"
+              "assetId": "c0d1efac-597d-4c56-b5ad-b683b8214ada",
+              "isUtility": true
           }
       ],
       "nodes": [
@@ -1633,7 +1671,8 @@
       "name": "OriginTrail Parachain",
       "assets": [
           {
-              "assetId": "af5bf9f0-0009-4cf8-98ed-b988268c94f1"
+              "assetId": "af5bf9f0-0009-4cf8-98ed-b988268c94f1",
+              "isUtility": true
           }
       ],
       "nodes": [
@@ -1656,7 +1695,8 @@
       "name": "UNIQUE",
       "assets": [
           {
-              "assetId": "57d05537-06a2-453b-ac87-d081aee65ec9"
+              "assetId": "57d05537-06a2-453b-ac87-d081aee65ec9",
+              "isUtility": true
           }
       ],
       "nodes": [
@@ -1698,7 +1738,8 @@
     },
     "assets": [
       {
-        "assetId": "dc9e23e8-f4bf-4864-9f2c-c2fbd4b03886"
+        "assetId": "dc9e23e8-f4bf-4864-9f2c-c2fbd4b03886",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1720,7 +1761,8 @@
     "name": "Litentry",
     "assets": [
       {
-        "assetId": "10de552c-20cb-4a86-9bf8-cf5827ca2f71"
+        "assetId": "10de552c-20cb-4a86-9bf8-cf5827ca2f71",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1746,7 +1788,8 @@
     "name": "Phala",
     "assets": [
       {
-        "assetId": "50add3d2-baa6-4bf3-9995-e6532ad51726"
+        "assetId": "50add3d2-baa6-4bf3-9995-e6532ad51726",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1768,7 +1811,8 @@
     "name": "Composable Finance",
     "assets": [
       {
-        "assetId": "7f429a3f-4666-40a2-a506-58bfe01504c4"
+        "assetId": "7f429a3f-4666-40a2-a506-58bfe01504c4",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1794,7 +1838,8 @@
     "name": "Bajun Kusama",
     "assets": [
       {
-        "assetId": "cbf84703-ba1d-4a39-ab5e-424756c91422"
+        "assetId": "cbf84703-ba1d-4a39-ab5e-424756c91422",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1816,7 +1861,8 @@
     "name": "Crab Parachain",
     "assets": [
       {
-        "assetId": "9b7fa70d-c272-49d4-9c35-4c9fbf6e8ce8"
+        "assetId": "9b7fa70d-c272-49d4-9c35-4c9fbf6e8ce8",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1838,7 +1884,8 @@
     "name": "Kabocha",
     "assets": [
       {
-        "assetId": "898eb0a1-ede6-437a-97b7-e92407db985f"
+        "assetId": "898eb0a1-ede6-437a-97b7-e92407db985f",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1860,7 +1907,8 @@
     "name": "KICO",
     "assets": [
       {
-        "assetId": "3a11badb-fe19-4cf4-9651-4b635a49bb7e"
+        "assetId": "3a11badb-fe19-4cf4-9651-4b635a49bb7e",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1886,7 +1934,8 @@
     "name": "Mangata Kusama Mainnet",
     "assets": [
       {
-        "assetId": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928"
+        "assetId": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1912,7 +1961,8 @@
     "name": "DataHighway Tanganika",
     "assets": [
       {
-        "assetId": "15df9971-2e6a-4619-a5ca-9ad571655287"
+        "assetId": "15df9971-2e6a-4619-a5ca-9ad571655287",
+        "isUtility": true
       }
     ],
     "nodes": [
@@ -1935,7 +1985,8 @@
   "assets": [
     {
       "type": "equilibrium",
-      "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6"
+      "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
+      "isUtility": true
     }
   ],
   "nodes": [
@@ -1963,7 +2014,8 @@
         },
         "assets": [
             {
-                "assetId": "07c55d3a-b24e-410e-b9ca-7da0707fbd61"
+                "assetId": "07c55d3a-b24e-410e-b9ca-7da0707fbd61",
+                "isUtility": true
             }
         ],
         "nodes": [
@@ -1995,7 +2047,8 @@
         },
         "assets": [
             {
-                "assetId": "148ce615-aea3-42fa-be45-5eb5606813b8"
+                "assetId": "148ce615-aea3-42fa-be45-5eb5606813b8",
+                "isUtility": true
             }
         ],
         "nodes": [
@@ -2017,7 +2070,8 @@
       "name": "Encointer on Kusama",
       "assets": [
         {
-          "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b"
+          "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b",
+          "isUtility": true
         }
       ],
       "nodes": [
@@ -2043,7 +2097,8 @@
       "name": "Pichiu Network",
       "assets": [
         {
-          "assetId": "5b196f7c-475a-493e-abbf-9f808d6fb863"
+          "assetId": "5b196f7c-475a-493e-abbf-9f808d6fb863",
+          "isUtility": true
         }
       ],
       "nodes": [
@@ -2065,7 +2120,8 @@
         "name": "InvArch Tinker Network",
         "assets": [
           {
-            "assetId": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5"
+            "assetId": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5",
+            "isUtility": true
           }
         ],
         "nodes": [
@@ -2087,7 +2143,8 @@
         "name": "GM Parachain",
         "assets": [
           {
-            "assetId": "19763697-37d8-4643-b840-3fd8565f5d83"
+            "assetId": "19763697-37d8-4643-b840-3fd8565f5d83",
+            "isUtility": true
           }
         ],
         "nodes": [
@@ -2118,7 +2175,8 @@
         "name": "Imbue Kusama",
         "assets": [
           {
-            "assetId": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798"
+            "assetId": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798",
+            "isUtility": true
           }
         ],
         "nodes": [
