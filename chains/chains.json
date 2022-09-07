@@ -633,7 +633,7 @@
         "externalApi": {
             "history": {
                 "type": "subquery",
-                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-quartz"
+                "url": "https://api.subquery.network/sq/soramitsu/TestQuartz-Fearless__c29yY"
             }
         },
         "assets": [
