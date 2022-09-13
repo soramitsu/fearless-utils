@@ -1605,7 +1605,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg",
         "addressPrefix": 30,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/phala(dot).json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/phala.json",
             "overridesCommon": true
         }
     },
@@ -1653,7 +1653,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
         "addressPrefix": 6,
         "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/bifrost(dot).json",
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/bifrost_polkadot.json",
           "overridesCommon": true
         }
       },
