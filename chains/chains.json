@@ -1987,7 +1987,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
         "addressPrefix": 13,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/v2/type_registry/integritee.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee.json",
             "overridesCommon": true
         }
     },
