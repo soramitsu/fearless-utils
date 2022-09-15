@@ -1820,7 +1820,7 @@
         "externalApi": {
           "history": {
              "type": "subquery",
-             "url": " https://api.subquery.network/sq/soramitsu/Pichiu-x-Fearless-Wallet"
+             "url": "https://api.subquery.network/sq/soramitsu/Pichiu-x-Fearless-Wallet"
          }
         },
         "assets": [
