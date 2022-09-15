@@ -1984,7 +1984,7 @@
         "name": "Onfinality node"
       }
     ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/MagnataX.svg",
     "addressPrefix": 42,
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/mangata.json",
