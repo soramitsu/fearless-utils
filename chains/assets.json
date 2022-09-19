@@ -389,5 +389,18 @@
     "precision": 18,
     "priceId": "darwinia-crab-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crab.svg"
+  },
+  {
+    "id": "ring",
+    "chainId": "e71578b37a7c799b0ab4ee87ffa6f059a6b98f71f06fb8c84a8d88013a548ad6",
+    "precision": 18,
+    "icon": ""
+  },
+  {
+    "id": "ampe",
+    "chainId": "cceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Amplitude.svg"
   }
+
 ]
