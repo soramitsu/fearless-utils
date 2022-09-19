@@ -47,10 +47,6 @@
     ],
     "nodes": [
       {
-        "url": "wss://polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://rpc.polkadot.io",
         "name": "Parity node"
       },
@@ -115,10 +111,6 @@
       }
     ],
     "nodes": [
-      {
-        "url": "wss://kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
       {
         "url": "wss://kusama-rpc.polkadot.io",
         "name": "Parity node"
