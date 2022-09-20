@@ -2247,7 +2247,8 @@
         "name": "Amplitude",
         "assets": [
           {
-            "assetId": "b2e6c029-ae73-46f9-9660-51d7034ddc53"
+            "assetId": "b2e6c029-ae73-46f9-9660-51d7034ddc53",
+            "isUtility": true
           }
         ],
         "nodes": [
@@ -2269,7 +2270,8 @@
         "name": "Darwinia Parachain",
         "assets": [
           {
-            "assetId": "b861f610-cf2c-43ad-a660-f6b809a05062"
+            "assetId": "b861f610-cf2c-43ad-a660-f6b809a05062",
+            "isUtility": true
           }
         ],
         "nodes": [
