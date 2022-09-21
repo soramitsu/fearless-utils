@@ -897,7 +897,7 @@
     "symbol": "ring",
     "chainId": "e71578b37a7c799b0ab4ee87ffa6f059a6b98f71f06fb8c84a8d88013a548ad6",
     "precision": 18,
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg"
   },
   {
     "id": "b2e6c029-ae73-46f9-9660-51d7034ddc53",

@@ -2280,7 +2280,7 @@
             "name": "Darwinia network node"
           }
         ],
-        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Amplitude.svg",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg",
         "addressPrefix": 18,
         "types": {
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/darwinia.json",
