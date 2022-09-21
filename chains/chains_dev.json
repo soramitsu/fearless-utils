@@ -1994,7 +1994,7 @@
             "name": "Darwinia network node"
           }
         ],
-        "icon": "",
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg",
         "addressPrefix": 18,
         "types": {
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/darwinia.json",
