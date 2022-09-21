@@ -891,5 +891,19 @@
     "chainId": "ca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg"
+  },
+  {
+    "id": "b861f610-cf2c-43ad-a660-f6b809a05062",
+    "symbol": "ring",
+    "chainId": "e71578b37a7c799b0ab4ee87ffa6f059a6b98f71f06fb8c84a8d88013a548ad6",
+    "precision": 18,
+    "icon": ""
+  },
+  {
+    "id": "b2e6c029-ae73-46f9-9660-51d7034ddc53",
+    "symbol": "ampe",
+    "chainId": "cceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Amplitude.svg"
   }
 ]
