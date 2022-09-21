@@ -316,5 +316,14 @@
     "description": "The native Polkadot Data Blockchain to accelerate the world’s transition to DeData within a Web3.0 context by Building a Cross-chain Platform Powering the Data Economy",
     "website": "https://kylin.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Kylin Network.png"
+  },
+  {
+    "paraid": "2090",
+    "name": "OAK Network",
+    "token": "OAK",
+    "description": "Payments and finance infrastructure for the Web 3.0",
+    "website": "https://oak.tech/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OAK.png",
+    "rewardRate": 75.5
   }
 ]
