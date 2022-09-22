@@ -327,7 +327,8 @@
       },
       {
         "type": "ormlAsset",
-        "assetId": "ffb814ea-c92c-4a1e-8e24-437c93ecd8ff"
+        "assetId": "ffb814ea-c92c-4a1e-8e24-437c93ecd8ff",
+        "isNative": true
       },
       {
         "type": "ormlAsset",
@@ -379,7 +380,8 @@
       },
       {
         "type": "ormlAsset",
-        "assetId": "91a69026-0ab7-4db0-af53-8d571fd33ac4"
+        "assetId": "91a69026-0ab7-4db0-af53-8d571fd33ac4",
+        "isNative": true
       },
       {
         "type": "ormlAsset",
