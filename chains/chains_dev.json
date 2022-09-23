@@ -2079,6 +2079,12 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "paraId": "2116",
     "name": "DataHighway Tanganika",
+    "externalApi": {
+        "history": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/DataHighway-Tanganika-x-Fearless-Wallet"
+        }
+      },
     "assets": [
       {
         "assetId": "15df9971-2e6a-4619-a5ca-9ad571655287",
