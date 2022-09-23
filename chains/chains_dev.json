@@ -722,6 +722,7 @@
   {
     "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "2004",
     "name": "Khala",
     "externalApi": {
       "history": {
@@ -1067,7 +1068,7 @@
             "extrinsic",
             "account"
           ],
-          "url": "https://clover.subscan.io/{type}/{value}"
+          "url": "https://clv.subscan.io/{type}/{value}"
         }
       ]
     },
@@ -1557,6 +1558,22 @@
     "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
     "paraId": "2031",
     "name": "Centrifuge",
+    "externalApi": {
+        "history": {
+          "type": "subquery",
+          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-centrifuge"
+        },
+        "explorers": [
+            {
+              "type": "subscan",
+              "types": [
+                "extrinsic",
+                "account"
+              ],
+              "url": "https://centrifuge.subscan.io//{type}/{value}"
+            }
+          ]
+      },
     "assets": [
       {
         "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee",
@@ -1882,7 +1899,17 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/soramitsu/Composable-Finance-X-Fearless-Wallet"
-      }
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://composable.subscan.io/{type}/{value}"
+        }
+      ]
     },
     "assets": [
       {
