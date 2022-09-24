@@ -1508,7 +1508,17 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-efinity__c29yY"
-      }
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://efinity.subscan.io/{type}/{value}"
+        }
+      ]
     },
     "assets": [
       {
@@ -1534,6 +1544,18 @@
     "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
     "paraId": "2034",
     "name": "HydraDX",
+    "externalApi": {
+        "explorers": [
+          {
+            "type": "subscan",
+            "types": [
+              "extrinsic",
+              "account"
+            ],
+            "url": "https://hydradx.subscan.io/{type}/{value}"
+          }
+        ]
+      },
     "assets": [
       {
         "assetId": "fce79b6c-e071-4271-837e-6ec87a719390",
@@ -2109,6 +2131,18 @@
   "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
   "paraId": "2011",
   "name": "Equilibrium",
+  "externalApi": {
+    "explorers": [
+      {
+        "type": "subscan",
+        "types": [
+          "extrinsic",
+          "account"
+        ],
+        "url": "https://equilibrium.subscan.io/{type}/{value}"
+      }
+    ]
+  },
   "assets": [
     {
       "type": "equilibrium",
@@ -2368,6 +2402,18 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "paraId": "2046",
         "name": "Darwinia Parachain",
+        "externalApi": {
+            "explorers": [
+              {
+                "type": "subscan",
+                "types": [
+                  "extrinsic",
+                  "account"
+                ],
+                "url": "https://darwinia-parachain.subscan.io/{type}/{value}"
+              }
+            ]
+          },
         "assets": [
           {
             "assetId": "b861f610-cf2c-43ad-a660-f6b809a05062",
