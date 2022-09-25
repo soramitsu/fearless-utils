@@ -151,6 +151,7 @@
     "symbol": "bsx",
     "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755",
     "precision": 12,
+    "priceId": "basilisk",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg"
   },
   {
