@@ -2025,7 +2025,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kylin%20Network.svg",
         "addressPrefix": 42,
         "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kylin.json",
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/kylin.json",
           "overridesCommon": true
         }
       }
