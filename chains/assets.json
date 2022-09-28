@@ -907,5 +907,12 @@
     "chainId": "cceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Amplitude.svg"
+  },
+  {
+    "id": "7512aeb7-7bdc-42dc-abe3-80ed764c80bd",
+    "symbol": "kyl",
+    "chainId": "f2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kylin%20Network.svg"
   }
 ]
