@@ -1994,5 +1994,28 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/darwinia.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "f2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Kylin Network",
+        "assets": [
+          {
+            "assetId": "kyl"
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://polkadot.kylin-node.co.uk",
+            "name": "Kylin Network node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kylin%20Network.svg",
+        "addressPrefix": 42,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/kylin.json",
+          "overridesCommon": true
+        }
       }
+
 ]
