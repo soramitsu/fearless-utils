@@ -2493,7 +2493,7 @@
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crustshadow.svg",
         "addressPrefix": 66,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/crustshadow.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crustshadow.json",
             "overridesCommon": true
         }
     }
