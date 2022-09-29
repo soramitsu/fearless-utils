@@ -1,5 +1,5 @@
 {
-  "runtime_id": 8,
+  "runtime_id": 14,
   "types": {},
   "versioning": [
     {
@@ -10,12 +10,8 @@
       "types": {
         "Balance": "u128",
         "Index": "u32",
-        "Phase": "100",
-        "Address": "133",
-        "ExtrinsicSignature": "312",
-        "ParaId": "42",
-        "17": "GenericEvent",
-        "137": "GenericCall"
+        "GenericEvent": "crust_parachain_runtime::Event",
+        "GenericCall": "crust_parachain_runtime::Call"
       }
     }
   ]
