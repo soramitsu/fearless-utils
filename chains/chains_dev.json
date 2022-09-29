@@ -1431,7 +1431,7 @@
         "externalApi": {
              "history": {
                 "type": "subquery",
-                "url": ""
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-crust_shadow_parachain"
             }
         },
         "assets": [
