@@ -1470,6 +1470,10 @@
       {
         "url": "wss://rpc-01.hydradx.io",
         "name": "Galactic Council node"
+      },
+      {
+        "url": "wss://hydradx-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg",
