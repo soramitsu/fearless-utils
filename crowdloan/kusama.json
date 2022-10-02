@@ -463,7 +463,17 @@
     "description": "SNOW is the canary network for ICE Network. SNOW supports cross-chain communication across both the internal Kusama ecosystem, ICON's BTP network along with being EVM and eWASM-compatible",
     "website": "https://icenetwork.io/",
     "rewardRate": 4000,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Name%3DSNOW.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Name%3DSNOW.png",
+    "disabled": true
+  },
+  {
+    "paraid": "2225",
+    "name": "Crust Shadow 2",
+    "token": "CRU",
+    "description": "Incentives decentralized storage & cloud ecosystem on Kusama",
+    "website": "https://crust.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crustshadow.png",
+    "rewardRate": 100
   }
   
 ]
