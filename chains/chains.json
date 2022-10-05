@@ -1829,7 +1829,7 @@
         "name": "AjunaNetwork node"
       }
     ],
-    "icon": "https:/https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
     "addressPrefix": 1337,
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bajun.json",
