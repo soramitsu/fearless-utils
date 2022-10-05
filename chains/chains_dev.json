@@ -48,16 +48,8 @@
     ],
     "nodes": [
       {
-        "url": "wss://polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
-        "url": "wss://rpc.polkadot.io",
-        "name": "Parity node"
-      },
-      {
-        "url": "wss://polkadot-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://ws.relaychain-node-1.p1.tst.fearless.soramitsu.co.jp/",
+        "name": "Fearless test node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
@@ -67,7 +59,8 @@
       "overridesCommon": true
     },
     "options": [
-      "crowdloans"
+      "crowdloans",
+      "poolStaking"
     ]
   },
   {
@@ -117,6 +110,10 @@
       }
     ],
     "nodes": [
+      {
+        "url": "wss://ws.relaychain-node-1.k1.tst.fearless.soramitsu.co.jp",
+        "name": "Fearless test node"
+      },
       {
         "url": "wss://kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
