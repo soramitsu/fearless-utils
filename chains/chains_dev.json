@@ -2286,5 +2286,32 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/darwinia.json",
           "overridesCommon": true
         }
+      },
+      {
+        "chainId": "f95f9821674aec3a20383a31a28db18670df0c2874ec5f3aa20fddeccf86efb0",
+        "name": "Kusama (test)",
+        "assets": [
+          {
+            "assetId": "03561957-3383-4f9f-8033-1b2c36d88db6",
+            "staking": "relaychain",
+            "isUtility": true
+          }
+        ],
+        "nodes": [
+          {
+            "url": "wss://ws.relaychain-node-1.k1.tst.fearless.soramitsu.co.jp",
+            "name": "SORA Kusama Test node"
+          }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+        "addressPrefix": 2,
+        "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
+          "overridesCommon": true
+        },
+        "options": [
+          "poolStaking"
+        ]
       }
+  
 ]
