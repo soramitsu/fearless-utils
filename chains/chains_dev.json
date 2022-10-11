@@ -524,6 +524,14 @@
             {
                 "url": "wss://rpc-shadow.crust.networkk",
                 "name": "Crust node"
+            },
+            {
+                "url": "wss://rpc-shadow.crust.networkk2",
+                "name": "Crust node 2"
+            },
+            {
+                "url": "wss://rpc-shadow.crust.networkk3",
+                "name": "Crust node 3"
             }
 
         ],
