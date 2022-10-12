@@ -1,0 +1,39 @@
+{
+  "runtime_id": 9290,
+  "types": { },
+  "versioning": [
+    {
+      "runtime_range": [
+        9290,
+        null
+      ],
+      "types": {
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "frame_system::Phase",
+        "Address": "sp_runtime::multiaddress::MultiAddress",
+        "ExtrinsicSignature": "sp_runtime::MultiSignature",
+        "ParaId": "polkadot_parachain::primitives::Id",
+        "kusama_runtime::RuntimeEvent": "GenericEvent",
+        "kusama_runtime::RuntimeCall": "GenericCall",
+        "sp_core::crypto::AccountId32": "GenericAccountId"
+      }
+    },
+    {
+      "runtime_range": [
+        0,
+        9290
+      ],
+      "types": {
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "143",
+        "Address": "196",
+        "ExtrinsicSignature": "510",
+        "ParaId": "85",
+        "17": "GenericEvent",
+        "301": "GenericCall"
+      }
+    }
+  ]
+}
