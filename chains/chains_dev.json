@@ -1989,6 +1989,12 @@
     "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
     "paraId": "2035",
     "name": "Phala",
+    "externalApi": {
+      "history": {
+         "type": "subquery",
+         "url": "https://api.subquery.network/sq/soramitsu/Phala-x-Fearless-Wallet"
+      }
+    },
     "assets": [
       {
         "assetId": "50add3d2-baa6-4bf3-9995-e6532ad51726",
@@ -2406,6 +2412,12 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "paraId": "2125",
         "name": "InvArch Tinker Network",
+        "externalApi": {
+          "history": {
+             "type": "subquery",
+             "url": "https://api.subquery.network/sq/soramitsu/InvArch-Tinker-x-Fearless-Wallet"
+         }
+     },
         "assets": [
           {
             "assetId": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5",
