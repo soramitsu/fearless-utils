@@ -22,7 +22,7 @@
     {
       "runtime_range": [
         0,
-        9290
+        9280
       ],
       "types": {
         "Balance": "u128",
