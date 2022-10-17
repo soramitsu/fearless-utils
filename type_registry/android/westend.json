@@ -1,11 +1,28 @@
 {
-  "runtime_id": 9160,
+  "runtime_id": 9300,
   "types": {},
   "versioning": [
     {
       "runtime_range": [
-        0,
+        9300,
         null
+      ],
+      "types": {
+        "Balance": "u128",
+        "Index": "u32",
+        "Phase": "frame_system::Phase",
+        "Address": "sp_runtime::multiaddress::MultiAddress",
+        "ExtrinsicSignature": "sp_runtime::MultiSignature",
+        "ParaId": "polkadot_parachain::primitives::Id",
+        "westend_runtime::RuntimeEvent": "GenericEvent",
+        "westend_runtime::RuntimeCall": "GenericCall",
+        "sp_core::crypto::AccountId32": "GenericAccountId"
+      }
+    },
+    {
+      "runtime_range": [
+        0,
+        9160
       ],
       "types": {
         "Balance": "u128",
