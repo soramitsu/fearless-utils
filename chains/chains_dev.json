@@ -2644,7 +2644,7 @@
       "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
       "addressPrefix": 2,
       "types": {
-        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama_test.json",
         "overridesCommon": true
       },
       "options": [
