@@ -2650,5 +2650,31 @@
       "options": [
         "poolStaking"
       ]
+    },
+    {
+      "chainId": "98538beb4baca165a25d5a59c341e2f6d9a3361c4be80ff7770572b1d484538d",
+      "name": "Polkadot (test)",
+      "assets": [
+        {
+          "assetId": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
+          "staking": "relaychain",
+          "isUtility": true
+        }
+      ],
+      "nodes": [
+        {
+          "url": "wss://ws.relaychain-node-2.p1.tst.fearless.soramitsu.co.jp/",
+          "name": "SORA Polkadot Test node"
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
+      "addressPrefix": 2,
+      "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadot_test.json",
+        "overridesCommon": true
+      },
+      "options": [
+        "poolStaking"
+      ]
     }
 ]

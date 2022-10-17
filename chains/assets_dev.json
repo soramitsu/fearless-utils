@@ -926,5 +926,12 @@
     "chainId": "f95f9821674aec3a20383a31a28db18670df0c2874ec5f3aa20fddeccf86efb0",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+  },
+  {
+    "id": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
+    "symbol": "unit",
+    "chainId": "98538beb4baca165a25d5a59c341e2f6d9a3361c4be80ff7770572b1d484538d",
+    "precision": 10,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
   }
 ]
