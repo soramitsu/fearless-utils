@@ -2257,5 +2257,29 @@
             "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crustshadow.json",
             "overridesCommon": true
         }
-    }
+    },
+    {
+      "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
+      "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+      "name": "Snow Kusama",
+      "assets": [
+          {
+              "assetId": "e739d665-7af5-4e65-ab5f-93f54a5b70b3",
+              "isUtility": true
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://snow-rpc.icenetwork.io",
+              "name": "Snow node"
+          }
+
+      ],
+      "icon": "https://github.com/soramitsu/fearless-utils/blob/master/icons/chains/white/Name%3DSNOW.svg",
+      "addressPrefix": 2207,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/snow.json",
+          "overridesCommon": true
+      }
+  }
 ]

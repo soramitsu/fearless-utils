@@ -914,5 +914,12 @@
     "chainId": "f2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kylin%20Network.svg"
+  },
+  {
+    "id": "e739d665-7af5-4e65-ab5f-93f54a5b70b3",
+    "symbol": "icz",
+    "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
+    "precision": 18,
+    "icon": "https://github.com/soramitsu/fearless-utils/blob/master/icons/chains/white/Name%3DSNOW.svg"
   }
 ]
