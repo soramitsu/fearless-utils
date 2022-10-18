@@ -2041,7 +2041,7 @@
         "icon": "https://github.com/soramitsu/fearless-utils/blob/master/icons/chains/white/Name%3DSNOW.svg",
         "addressPrefix": 2207,
         "types": {
-            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/snow.json",
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/android/snow.json",
             "overridesCommon": true
         }
     }
