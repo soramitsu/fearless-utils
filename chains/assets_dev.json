@@ -928,6 +928,13 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
   },
   {
+    "id": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
+    "symbol": "unit",
+    "chainId": "98538beb4baca165a25d5a59c341e2f6d9a3361c4be80ff7770572b1d484538d",
+    "precision": 10,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+  },
+  {
     "id": "e739d665-7af5-4e65-ab5f-93f54a5b70b3",
     "symbol": "icz",
     "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
