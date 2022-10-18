@@ -2275,7 +2275,7 @@
           }
 
       ],
-      "icon": "https://github.com/soramitsu/fearless-utils/blob/master/icons/chains/white/Name%3DSNOW.svg",
+      "icon": "https://github.com/soramitsu/fearless-utils/blob/master/icons/chains/white/SNOW.svg",
       "addressPrefix": 2207,
       "types": {
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/snow.json",
