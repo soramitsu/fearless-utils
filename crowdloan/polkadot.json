@@ -139,7 +139,8 @@
     "token": "CRU",
     "description": "A decentralized storage network of Web3.0 ecosystem",
     "website": "https://crust.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crust.png",
+    "disabled": true
   },
   {
     "paraid": "2026",
@@ -325,5 +326,13 @@
     "website": "https://oak.tech/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OAK.png",
     "rewardRate": 75.5
+  },
+  {
+    "paraid": "2051",
+    "name": "Ajuna Network",
+    "token": "AJUN",
+    "description": "The fastest way for developers and game studios to create high-quality, decentralized games. It seamlessly integrates industry-leading game engines — Unity and Unreal — with the world of blockchain-based assets.",
+    "website": "https://ajuna.io/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png"
   }
 ]
