@@ -473,7 +473,8 @@
     "description": "Incentives decentralized storage & cloud ecosystem on Kusama",
     "website": "https://crust.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crustshadow.png",
-    "rewardRate": 100
+    "rewardRate": 100,
+    "disabled": true
   }
   
 ]
