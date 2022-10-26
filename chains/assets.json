@@ -779,6 +779,7 @@
     "symbol": "unq",
     "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
     "precision": 18,
+    "priceId": "unique-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/unique.svg"
   },
   {
