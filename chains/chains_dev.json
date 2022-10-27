@@ -67,7 +67,8 @@
       "overridesCommon": true
     },
     "options": [
-      "crowdloans"
+      "crowdloans",
+      "poolStaking"
     ]
   },
   {
