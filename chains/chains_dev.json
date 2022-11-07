@@ -2715,6 +2715,16 @@
       {
         "assetId": "b5a44630-920e-43ee-809f-61890d0888b0",
         "isUtility": true
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "0ecacd48-ffd4-4a2e-87e3-c5f72f9a9877",
+        "isNative": true
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "87ba5538-34db-4d53-9104-25f42b0bb55b",
+        "isNative": true
       }
     ],
     "nodes": [
