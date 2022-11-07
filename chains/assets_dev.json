@@ -941,6 +941,14 @@
     "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SNOW.svg"
+  },
+  {
+    "id": "b5a44630-920e-43ee-809f-61890d0888b0",
+    "symbol": "xor",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "sora",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg"
   }
 
 ]

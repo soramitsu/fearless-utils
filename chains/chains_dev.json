@@ -2701,5 +2701,33 @@
           "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/snow.json",
           "overridesCommon": true
       }
+  },
+  {
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "name": "SORA test",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+      }
+    },
+    "assets": [
+      {
+        "assetId": "b5a44630-920e-43ee-809f-61890d0888b0",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://ws.framenode-1.s1.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
+    "addressPrefix": 69,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_test.json",
+      "overridesCommon": true
+    }
   }
 ]
