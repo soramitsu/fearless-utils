@@ -2723,7 +2723,12 @@
       },
       {
         "type": "ormlAsset",
-        "assetId": "87ba5538-34db-4d53-9104-25f42b0bb55b",
+        "assetId": "038a7045-af00-466d-b72b-95485c4674b7",
+        "isNative": true
+      },
+      {
+        "type": "stable",
+        "assetId": "c96e012c-0786-4980-9750-bae61de0aa19",
         "isNative": true
       }
     ],
