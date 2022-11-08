@@ -1295,6 +1295,7 @@
                     null
                 ],
                 "types": {
+                    "Address": "0",
                     "Balance": "u128",
                     "Index": "u32",
                     "GenericEvent": "framenode_runtime::Event",
