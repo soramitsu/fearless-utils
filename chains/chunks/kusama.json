@@ -1,0 +1,69 @@
+{
+    "chainId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Kusama",
+    "externalApi": {
+      "staking": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+      },
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+      },
+      "crowdloans": {
+        "type": "github",
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/kusama.json"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://kusama.subscan.io/{type}/{value}"
+        },
+        {
+          "type": "polkascan",
+          "types": [
+            "extrinsic",
+            "account",
+            "event"
+          ],
+          "url": "https://polkascan.io/kusama/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b",
+        "staking": "relaychain",
+        "purchaseProviders": [
+          "ramp"
+        ]
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://kusama-rpc.polkadot.io",
+        "name": "Parity node"
+      },
+      {
+        "url": "wss://kusama-rpc.dwellir.com",
+        "name": "Dwellir node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "addressPrefix": 2,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama.json",
+      "overridesCommon": true
+    },
+    "options": [
+      "crowdloans"
+    ]
+}

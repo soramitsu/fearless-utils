@@ -1,0 +1,32 @@
+{
+    "chainId": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Bit.Country Pioneer",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bit_country_pioneer"
+      }
+    },
+    "assets": [
+      {
+        "assetId": "d3b93409-97b1-42e0-8dbc-99d3fb93fc10"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://pioneer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://pioneer-1-rpc.bit.country",
+        "name": "Bit.Country node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
+    "addressPrefix": 268,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitcountry.json",
+      "overridesCommon": true
+    }
+}

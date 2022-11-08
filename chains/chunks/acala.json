@@ -1,0 +1,70 @@
+{
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Acala",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://acala.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "c801d6c1-3edf-41a9-9aea-da705eab249b"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "cfe26eae-f566-4b8d-a44c-bd4380c27bc5"
+      },
+      {
+        "type": "stableAssetPoolToken",
+        "assetId": "70a69d25-a4ba-4c6b-a15d-09f3c2814ddf"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "fe07f6c5-2b90-4e1a-81e3-8ed85f5a80b9"
+      },
+      {
+        "type": "foreignAsset",
+        "assetId": "b6c22f93-be25-426b-b921-18bf19c49667"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "471bfcd1-9680-4ba9-a25d-3e9f777ee2c9"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "ffb814ea-c92c-4a1e-8e24-437c93ecd8ff"
+      },
+      {
+        "type": "ormlAsset",
+        "assetId": "ed98bee1-34ce-4aa2-896e-508380dea1c2"
+      },
+      {
+        "type": "liquidCrowdloan",
+        "assetId": "a7b48fb1-5741-487a-98fd-c45f958dd4fd"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
+    "addressPrefix": 10,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/acala.json",
+      "overridesCommon": true
+    }
+}

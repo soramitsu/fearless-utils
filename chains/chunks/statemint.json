@@ -1,0 +1,32 @@
+{
+    "chainId": "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Statemint",
+    "externalApi": {
+      "history": {
+        "type": "subquery",
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
+      }
+    },
+    "assets": [
+      {
+        "assetId": "887a17c7-1370-4de0-97dd-5422e294fa75"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://statemint.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://statemint-rpc.polkadot.io",
+        "name": "Parity node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
+    "addressPrefix": 0,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/statemint.json",
+      "overridesCommon": true
+    }
+}

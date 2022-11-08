@@ -1,0 +1,22 @@
+{
+    "chainId": "da5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Litmus",
+    "assets": [
+      {
+        "assetId": "15076759-6a5b-4cd6-b84c-e64842f094e5"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc.litmus-parachain.litentry.io",
+        "name": "Litentry node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litmus.svg",
+    "addressPrefix": 131,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/litmus.json",
+      "overridesCommon": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": "feb426ca713f0f46c96465b8f039890370cf6bfd687c9076ea2843f58a6ae8a7",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Kabocha",
+    "assets": [
+      {
+        "assetId": "898eb0a1-ede6-437a-97b7-e92407db985f"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://kabocha.jelliedowl.com",
+        "name": "JelliedOwl node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kabocha.svg",
+    "addressPrefix": 27,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kabocha.json",
+      "overridesCommon": true
+    }
+  }

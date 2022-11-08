@@ -1,0 +1,22 @@
+{
+    "chainId": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "SORA Kusama",
+    "assets": [
+      {
+        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp",
+        "name": "Soramitsu node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
+    "addressPrefix": 420,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora.json",
+      "overridesCommon": true
+    }
+}

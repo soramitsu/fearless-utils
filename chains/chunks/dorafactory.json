@@ -1,0 +1,23 @@
+{
+    "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Dorafactory Network",
+    "assets": [
+        {
+            "assetId": "c0d1efac-597d-4c56-b5ad-b683b8214ada"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://kusama.dorafactory.org",
+            "name": "DORA node"
+        }
+
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DoraFactory.svg",
+    "addressPrefix": 128,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dorafactory.json",
+        "overridesCommon": true
+    }
+}

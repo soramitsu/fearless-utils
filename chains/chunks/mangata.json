@@ -1,0 +1,26 @@
+{
+    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Mangata Kusama Mainnet",
+    "assets": [
+      {
+        "assetId": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://prod-kusama-collator-01.mangatafinance.cloud",
+        "name": "Mangata node"
+      },
+      {
+        "url": "wss://mangata-x.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "Onfinality node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg",
+    "addressPrefix": 42,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/mangata.json",
+      "overridesCommon": true
+    }
+}

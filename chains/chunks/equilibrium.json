@@ -1,0 +1,23 @@
+{
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Equilibrium",
+    "assets": [
+      {
+        "type": "equilibrium",
+        "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://node.pol.equilibrium.io",
+        "name": "Parity node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg",
+    "addressPrefix": 68,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/equilibrium.json",
+      "overridesCommon": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": "eacdd2d5b42de9769ccbb6e8d9013ab0d90ab105bf601d4aac53e874c145ec21",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "DataHighway Tanganika",
+    "assets": [
+      {
+        "assetId": "15df9971-2e6a-4619-a5ca-9ad571655287"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://tanganika.datahighway.com",
+        "name": "DataHighway node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DataHighway.svg",
+    "addressPrefix": 33,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/tanganika.json",
+      "overridesCommon": true
+    }
+}

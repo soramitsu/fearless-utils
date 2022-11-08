@@ -1,0 +1,22 @@
+{
+    "chainId": "eac895d7768b17837a9c3a9f0280c01502c3ef40193df923490a0fa9c60ea076",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "name": "Crab Parachain",
+    "assets": [
+      {
+        "assetId": "9b7fa70d-c272-49d4-9c35-4c9fbf6e8ce8"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://crab-parachain-rpc.darwinia.network",
+        "name": "Crab node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crab.svg",
+    "addressPrefix": 42,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crab.json",
+      "overridesCommon": true
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "name": "Interlay",
+    "assets": [
+      {
+        "assetId": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd"
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://interlay.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://api.interlay.io/parachain",
+        "name": "Kintsugi Labs node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
+    "addressPrefix": 42,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/interlay.json",
+      "overridesCommon": true
+    }
+}
