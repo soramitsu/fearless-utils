@@ -10,6 +10,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
+                "Address": "140",
+                "ExtrinsicSignature": "224",
                 "GenericEvent": "framenode_runtime::Event",
                 "GenericCall": "framenode_runtime::Call"
             }
