@@ -1343,7 +1343,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha__c29yY"
+          "url": "https://squid.subsquid.io/moonbase-x-fearless/v/v0/graphql"
         },
       "history": {
         "type": "subquery",
