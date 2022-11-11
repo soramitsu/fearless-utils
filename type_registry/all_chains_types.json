@@ -1295,14 +1295,11 @@
                     null
                 ],
                 "types": {
+                    "Address": "0",
                     "Balance": "u128",
                     "Index": "u32",
-                    "Phase": "frame_system::Phase",
-                    "Address": "GenericAccountId",
-                    "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                    "framenode_runtime::Event": "GenericEvent",
-                    "framenode_runtime::Call": "GenericCall",
-                    "sp_core::crypto::AccountId32": "GenericAccountId"
+                    "17": "GenericEvent",
+                    "181" :"GenericCall"
                 }
             }
         ]
