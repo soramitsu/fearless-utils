@@ -11,6 +11,7 @@
                 "Balance": "u128",
                 "Index": "u32",
                 "Phase": "frame_system::Phase",
+                "Address": "GenericAccountId",
                 "ExtrinsicSignature": "sp_runtime::MultiSignature",
                 "framenode_runtime::Event": "GenericEvent",
                 "framenode_runtime::Call": "GenericCall",
