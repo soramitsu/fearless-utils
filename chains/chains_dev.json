@@ -2746,7 +2746,7 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
     "addressPrefix": 69,
     "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_test.json",
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/ios/v3/type_registry/sora_test.json",
       "overridesCommon": true
     }
   }
