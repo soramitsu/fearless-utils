@@ -945,6 +945,7 @@
   {
     "id": "b5a44630-920e-43ee-809f-61890d0888b0",
     "symbol": "xor",
+    "currencyId": "0x0200000000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "sora",
@@ -953,6 +954,7 @@
   {
     "id": "0ecacd48-ffd4-4a2e-87e3-c5f72f9a9877",
     "symbol": "val",
+    "currencyId": "0x0200040000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "sora-validator-token",
@@ -962,6 +964,7 @@
   {
     "id": "87ba5538-34db-4d53-9104-25f42b0bb55b",
     "symbol": "pswap",
+    "currencyId": "0x0200050000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "polkaswap",
@@ -971,6 +974,7 @@
   {
     "id": "038a7045-af00-466d-b72b-95485c4674b7",
     "symbol": "xst",
+    "currencyId": "0x0200090000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Sora(XST).svg",
@@ -979,10 +983,10 @@
   {
     "id": "c96e012c-0786-4980-9750-bae61de0aa19",
     "symbol": "xstusd",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Sora(XSTUSD).svg",
     "transfersEnabled": true
   }
-
 ]
