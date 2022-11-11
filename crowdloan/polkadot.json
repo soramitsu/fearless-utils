@@ -333,6 +333,7 @@
     "token": "AJUN",
     "description": "The fastest way for developers and game studios to create high-quality, decentralized games. It seamlessly integrates industry-leading game engines — Unity and Unreal — with the world of blockchain-based assets.",
     "website": "https://ajuna.io/crowdloan/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png",
+    "disabled": true
   }
 ]
