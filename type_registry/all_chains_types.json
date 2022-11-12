@@ -1504,9 +1504,10 @@
         ]
     },
     {
-    "runtime_id": 1102,
-    "types": {},
-    "versioning": [
+        "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
+        "runtime_id": 1102,
+        "types": {},
+        "versioning": [
         {
             "runtime_range": [
                 0,
