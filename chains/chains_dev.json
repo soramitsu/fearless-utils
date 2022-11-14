@@ -2708,7 +2708,7 @@
     "externalApi": {
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+        "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
       }
     },
     "assets": [
