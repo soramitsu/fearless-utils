@@ -977,6 +977,7 @@
     "currencyId": "0x0200090000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
+    "priceId": "sora-synthetics",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Sora(XST).svg",
     "transfersEnabled": true
   },
@@ -986,6 +987,7 @@
     "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
+    "priceId": "sora-synthetic-usd",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Sora(XSTUSD).svg",
     "transfersEnabled": true
   }
