@@ -267,6 +267,7 @@
     "symbol": "intr",
     "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
     "precision": 10,
+    "priceId": "interlay",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg"
   },
   {
