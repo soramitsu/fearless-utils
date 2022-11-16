@@ -159,6 +159,7 @@
     "symbol": "neer",
     "chainId": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
     "precision": 18,
+    "priceId": "metaverse-network-pioneer",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg"
   },
   {
@@ -260,6 +261,7 @@
     "symbol": "nodl",
     "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
     "precision": 11,
+    "priceId": "nodle-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg"
   },
   {
