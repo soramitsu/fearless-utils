@@ -1,5 +1,5 @@
 {
-  "runtime_id": 9200,
+  "runtime_id": 9300,
   "types": { },
   "versioning": [
     {
@@ -14,8 +14,8 @@
         "Address": "sp_runtime::multiaddress::MultiAddress",
         "ExtrinsicSignature": "sp_runtime::MultiSignature",
         "ParaId": "polkadot_parachain::primitives::Id",
-        "polkadot_runtime::Event": "GenericEvent",
-        "polkadot_runtime::Call": "GenericCall",
+        "polkadot_runtime::RuntimeEvent": "GenericEvent",
+        "polkadot_runtime::RuntimeCall": "GenericCall",
         "sp_core::crypto::AccountId32": "GenericAccountId"
       }
     }
