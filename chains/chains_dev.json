@@ -1762,7 +1762,7 @@
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
-    "addressPrefix": 42,
+    "addressPrefix": 2032,
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/interlay.json",
       "overridesCommon": true
