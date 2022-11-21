@@ -1005,7 +1005,7 @@
   {
     "id": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
     "symbol": "ceres",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "ceres",
@@ -1034,7 +1034,7 @@
   {
     "id": "9b040bf8-a852-4e10-aa14-d3793db27a95",
     "symbol": "usdt",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x00a91f04b9b873b0cdba88c58cd3059524824febff26dd8c9109b8a9b25f3528",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "tether",
