@@ -2773,7 +2773,27 @@
     "nodes": [
       {
         "url": "wss://ws.framenode-1.s1.stg1.sora2.soramitsu.co.jp",
-        "name": "Sora Test Node"
+        "name": "Sora Test Node #1"
+      },
+      {
+        "url": "wss://ws.framenode-2.s1.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node #2"
+      },
+      {
+        "url": "wss://ws.framenode-3.s2.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node #3"
+      },
+      {
+        "url": "wss://ws.framenode-4.s2.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node #4"
+      },
+      {
+        "url": "wss://ws.framenode-5.s3.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node #5"
+      },
+      {
+        "url": "wss://ws.framenode-6.s3.stg1.sora2.soramitsu.co.jp",
+        "name": "Sora Test Node #6"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
