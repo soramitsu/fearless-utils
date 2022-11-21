@@ -993,5 +993,74 @@
     "priceId": "sora-synthetic-usd",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Sora(XSTUSD).svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "7bcc178d-1ebe-46b8-88fb-79649828f21d",
+    "symbol": "deo",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "demeter",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/DEO.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
+    "symbol": "ceres",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "ceres",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/CERES.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "38eae54b-723d-457c-8d45-4beab249612f",
+    "symbol": "noir",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "noir-phygital",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/NOIRE.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "2565e418-d5bc-4318-99b5-53e893681518",
+    "symbol": "umi",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/UMI.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "9b040bf8-a852-4e10-aa14-d3793db27a95",
+    "symbol": "usdt",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "tether",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDT.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "1b20dfcd-a40d-4850-a407-5a45f3bf4889",
+    "symbol": "busd",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "binance-usd",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/BUSD.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "5c017385-e702-47d2-8f3a-ac8146c2b9dd",
+    "symbol": "usdc",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "usd-coin",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDC.svg",
+    "transfersEnabled": true
   }
 ]

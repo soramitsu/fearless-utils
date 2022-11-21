@@ -2735,6 +2735,38 @@
         "type": "soraAsset",
         "assetId": "c96e012c-0786-4980-9750-bae61de0aa19",
         "isNative": true
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "7bcc178d-1ebe-46b8-88fb-79649828f21d",
+        "isNative": true
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
+        "isNative": true
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "38eae54b-723d-457c-8d45-4beab249612f",
+        "isNative": true
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "2565e418-d5bc-4318-99b5-53e893681518",
+        "isNative": true
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "9b040bf8-a852-4e10-aa14-d3793db27a95"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "1b20dfcd-a40d-4850-a407-5a45f3bf4889"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "5c017385-e702-47d2-8f3a-ac8146c2b9dd"
       }
     ],
     "nodes": [
