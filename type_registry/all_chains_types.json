@@ -1544,5 +1544,59 @@
             }
         }
     ]
-}
+    },
+    {
+      "chainId": "164c079774f45db5dd99a1b0b99752ec509c9573a1e99ca61c44b152753d7905",
+      "runtime_id": 9290,
+      "types": { },
+      "versioning": [
+        {
+          "runtime_range": [
+            0,
+            null
+          ],
+          "types": {
+            "Balance": "u128",
+            "Index": "u32",
+            "Phase": "145",
+            "Address": "188",
+            "ExtrinsicSignature": "407",
+            "ParaId": "87",
+            "17": "GenericEvent",
+            "171": "GenericCall"
+          }
+        }
+      ],
+      "overrides": [
+        {
+          "module": "Staking",
+          "constants": [
+            { "name": "MaxNominations", "value": "16" }
+          ]
+        }
+      ]
+    },
+    {
+      "chainId": "3736d07814d0b72e39d036b28ba782b121abea3cabb4cef9778e68454af20473",
+      "runtime_id": 9290,
+      "types": {},
+      "versioning": [
+        {
+          "runtime_range": [
+            0,
+            null
+          ],
+          "types": {
+            "Balance": "u128",
+            "Index": "u32",
+            "Phase": "161",
+            "Address": "208",
+            "ExtrinsicSignature": "542",
+            "ParaId": "102",
+            "18": "GenericEvent",
+            "323": "GenericCall"
+          }
+        }
+      ]
+    }
 ]
