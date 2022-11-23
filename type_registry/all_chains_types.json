@@ -1567,14 +1567,6 @@
               "sp_core::crypto::AccountId32": "GenericAccountId"
           }
         }
-      ],
-      "overrides": [
-        {
-          "module": "Staking",
-          "constants": [
-            { "name": "MaxNominations", "value": "16" }
-          ]
-        }
       ]
     },
     {
@@ -1588,20 +1580,28 @@
             null
           ],
           "types": {
-            "Balance": "u128",
-            "Index": "u32",
-            "Phase": "161",
-            "Address": "208",
-            "ExtrinsicSignature": "542",
-            "ParaId": "102",
-            "18": "GenericEvent",
-            "323": "GenericCall"
+              "Balance": "u128",
+              "Index": "u32",
+              "Phase": "frame_system::Phase",
+              "Address": "sp_runtime::multiaddress::MultiAddress",
+              "ExtrinsicSignature": "sp_runtime::MultiSignature",
+              "ParaId": "polkadot_parachain::primitives::Id",
+              "polkadot_runtime::RuntimeEvent": "GenericEvent",
+              "polkadot_runtime::RuntimeCall": "GenericCall",
+              "sp_core::crypto::AccountId32": "GenericAccountId"
           }
         }
+      ],
+      "overrides": [
+        {
+          "module": "Staking",
+          "constants": [
+            { "name": "MaxNominations", "value": "16" }
+          ]
+        }
       ]
-    }
-},
-{
+    },
+    {
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
     "runtime_id": 42,
     "types": { },
