@@ -1547,7 +1547,7 @@
     },
     {
       "chainId": "164c079774f45db5dd99a1b0b99752ec509c9573a1e99ca61c44b152753d7905",
-      "runtime_id": 9290,
+      "runtime_id": 9310,
       "types": { },
       "versioning": [
         {
@@ -1556,14 +1556,15 @@
             null
           ],
           "types": {
-            "Balance": "u128",
-            "Index": "u32",
-            "Phase": "145",
-            "Address": "188",
-            "ExtrinsicSignature": "407",
-            "ParaId": "87",
-            "17": "GenericEvent",
-            "171": "GenericCall"
+              "Balance": "u128",
+              "Index": "u32",
+              "Phase": "frame_system::Phase",
+              "Address": "sp_runtime::multiaddress::MultiAddress",
+              "ExtrinsicSignature": "sp_runtime::MultiSignature",
+              "ParaId": "polkadot_parachain::primitives::Id",
+              "kusama_runtime::RuntimeEvent": "GenericEvent",
+              "kusama_runtime::RuntimeCall": "GenericCall",
+              "sp_core::crypto::AccountId32": "GenericAccountId"
           }
         }
       ],
@@ -1578,7 +1579,7 @@
     },
     {
       "chainId": "3736d07814d0b72e39d036b28ba782b121abea3cabb4cef9778e68454af20473",
-      "runtime_id": 9290,
+      "runtime_id": 9310,
       "types": {},
       "versioning": [
         {
