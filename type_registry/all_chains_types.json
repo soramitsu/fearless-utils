@@ -1581,13 +1581,13 @@
           "types": {
               "Balance": "u128",
               "Index": "u32",
-              "Phase": "frame_system::Phase",
-              "Address": "sp_runtime::multiaddress::MultiAddress",
-              "ExtrinsicSignature": "sp_runtime::MultiSignature",
-              "ParaId": "polkadot_parachain::primitives::Id",
-              "polkadot_runtime::RuntimeEvent": "GenericEvent",
-              "polkadot_runtime::RuntimeCall": "GenericCall",
-              "sp_core::crypto::AccountId32": "GenericAccountId"
+              "Phase": "156",
+              "Address": "197",
+              "ExtrinsicSignature": "421",
+              "ParaId": "98",
+              "19": "GenericEvent",
+              "181": "GenericCall",
+              "0": "GenericAccountId"
           }
         }
       ],
