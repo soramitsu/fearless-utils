@@ -927,14 +927,14 @@
   {
     "id": "03561957-3383-4f9f-8033-1b2c36d88db6",
     "symbol": "unit",
-    "chainId": "f95f9821674aec3a20383a31a28db18670df0c2874ec5f3aa20fddeccf86efb0",
+    "chainId": "164c079774f45db5dd99a1b0b99752ec509c9573a1e99ca61c44b152753d7905",
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
   },
   {
     "id": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
     "symbol": "unit",
-    "chainId": "98538beb4baca165a25d5a59c341e2f6d9a3361c4be80ff7770572b1d484538d",
+    "chainId": "3736d07814d0b72e39d036b28ba782b121abea3cabb4cef9778e68454af20473",
     "precision": 10,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
   },
