@@ -1041,5 +1041,25 @@
     "priceId": "usd-coin",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/USDC.svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "b774c386-5cce-454a-a845-1ec0381538ec",
+    "symbol": "dai",
+    "currencyId": "0x0200060000000000000000000000000000000000000000000000000000000000",
+    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+    "precision": 18,
+    "priceId": "dai",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/DAI.svg",
+    "transfersEnabled": true
+  },
+  {
+    "id": "24d0809e-0a4c-42ea-bdd8-dc7a518f389c",
+    "symbol": "eth",
+    "currencyId": "0x0200070000000000000000000000000000000000000000000000000000000000",
+    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+    "precision": 18,
+    "priceId": "ethereum",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/ETH.svg",
+    "transfersEnabled": true
   }
 ]
