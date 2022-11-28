@@ -335,5 +335,13 @@
     "website": "https://ajuna.io/crowdloan/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Bajun.png",
     "disabled": true
+  },
+  {
+    "paraid": "2093",
+    "name": "Hashed Network",
+    "token": "HASH",
+    "description": "Hashed Network enables the full lifecycle for digitally-native organizations and web3-curious businesses seeking benefits of decentralized digital economies.",
+    "website": "https://hashed.network/",
+    "icon": ""
   }
 ]
