@@ -342,6 +342,6 @@
     "token": "HASH",
     "description": "Hashed Network enables the full lifecycle for digitally-native organizations and web3-curious businesses seeking benefits of decentralized digital economies.",
     "website": "https://hashed.network/",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Hashed.png"
   }
 ]
