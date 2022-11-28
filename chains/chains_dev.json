@@ -1343,7 +1343,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://squid.subsquid.io/moonbase-x-fearless/v/v0/graphql"
+          "url": "https://squid.subsquid.io/moonbase-x-fearless/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
