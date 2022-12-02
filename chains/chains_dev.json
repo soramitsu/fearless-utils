@@ -1747,6 +1747,7 @@
     "name": "Interlay",
     "assets": [
       {
+        "type": "ormlChain",
         "assetId": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd",
         "isUtility": true
       }
