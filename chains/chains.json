@@ -2721,5 +2721,57 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_main.json",
       "overridesCommon": true
     }
+  },
+  {
+    "chainId": "164c079774f45db5dd99a1b0b99752ec509c9573a1e99ca61c44b152753d7905",
+    "name": "Kusama (test)",
+    "assets": [
+      {
+        "assetId": "03561957-3383-4f9f-8033-1b2c36d88db6",
+        "staking": "relaychain",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://ws.relaychain-node-1.k1.tst.fearless.soramitsu.co.jp",
+        "name": "SORA Kusama Test node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "addressPrefix": 2,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kusama_test.json",
+      "overridesCommon": true
+    },
+    "options": [
+      "poolStaking"
+    ]
+  },
+  {
+    "chainId": "3736d07814d0b72e39d036b28ba782b121abea3cabb4cef9778e68454af20473",
+    "name": "Polkadot (test)",
+    "assets": [
+      {
+        "assetId": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
+        "staking": "relaychain",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://ws.relaychain-node-2.p1.tst.fearless.soramitsu.co.jp/",
+        "name": "SORA Polkadot Test node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
+    "addressPrefix": 2,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/polkadot_test.json",
+      "overridesCommon": true
+    },
+    "options": [
+      "poolStaking"
+    ]
   }
 ]

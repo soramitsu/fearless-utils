@@ -77,11 +77,11 @@
     "externalApi": {
       "staking": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+        "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
       },
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+        "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
       },
       "crowdloans": {
         "type": "github",
