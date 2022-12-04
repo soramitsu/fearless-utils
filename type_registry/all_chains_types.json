@@ -1619,5 +1619,28 @@
             }
         }
     ]
-}
+},
+    {
+        "chainId" : "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
+        "runtime_id": 1,
+          "types": {},
+          "versioning": [
+            {
+              "runtime_range": [
+                0,
+                null
+              ],
+              "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "Phase": "145",
+                "Address": "0",
+                "ExtrinsicSignature": "487",
+                "ParaId": "115",
+                "17": "GenericEvent",
+                "171": "GenericCall"
+              }
+            }
+          ]
+    }
 ]
