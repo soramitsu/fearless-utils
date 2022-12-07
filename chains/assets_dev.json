@@ -1200,5 +1200,14 @@
     "priceId": "ethereum",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/ETH.svg",
     "transfersEnabled": true
+  },
+  {
+    "id": "4ea52d6e-a433-4f11-a811-4634068c79a2",
+    "symbol": "azero",
+    "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
+    "precision": 12,
+    "priceId": "aleph-zero",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Aleph%20Zero.svg",
+    "transfersEnabled": true
   }
 ]
