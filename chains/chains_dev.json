@@ -430,7 +430,7 @@
         "isNative": true
       },
       {
-        "type": "ormlAsset",
+        "type": "foreignAsset",
         "assetId": "c6fd5a1e-3052-4bdf-b0f3-ad1b7b9fbff0"
       },
       {
