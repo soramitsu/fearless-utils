@@ -5,11 +5,11 @@
     "externalApi": {
       "staking": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot__c29yY"
       },
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot__c29yY"
       },
       "crowdloans": {
         "type": "github",
