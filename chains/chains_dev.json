@@ -2868,6 +2868,14 @@
       {
         "type": "soraAsset",
         "assetId": "c8ce20ed-8690-4b46-9b3d-872e325ae636"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "1e6f8ba3-5aeb-41d8-b80e-a44ce0f33716"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "82f45df3-b6d8-43e7-a440-c0e73ab59785"
       }
     ],
     "nodes": [
@@ -2875,7 +2883,7 @@
         "url": "wss://ws.mof.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
- 	    {
+      {
         "url": "wss://ws.mof2.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
