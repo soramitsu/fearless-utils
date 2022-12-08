@@ -1656,12 +1656,12 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "Phase": "frame_system::Phase",
-                "Address": "sp_runtime::multiaddress::MultiAddress",
-                "ExtrinsicSignature": "sp_runtime::MultiSignature",
-                "aleph_runtime::Event": "GenericEvent",
-                "aleph_runtime::Call": "GenericCall",
-                "sp_core::crypto::AccountId32": "GenericAccountId"
+                "Phase": "65",
+                "Address": "100",
+                "ExtrinsicSignature": "287",
+                "17": "GenericEvent",
+                "94": "GenericCall",
+                "0": "GenericAccountId"
             }
         }
     ]
