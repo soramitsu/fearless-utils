@@ -2627,7 +2627,7 @@
         }
     },
     {
-      "chainId": "51cdb4b3101904a9d234d126656d33cd17518249819b510a03d6c90d0a019611",
+      "chainId": "6e938c4a786f8df6f38d0c06f00a8573f1f7aabeebf48aee5157a93cc5fe3271",
       "name": "Kusama (test)",
       "assets": [
         {
@@ -2653,7 +2653,7 @@
       ]
     },
     {
-      "chainId": "4f77f65b21b1f396c1555850be6f21e2b1f36c26b94dbcbfec976901c9f08bf3",
+      "chainId": "fd4d46e9a51e16babf791b94d6dbf771ed1d7de8a11b310aa98c847890fa9ff3",
       "name": "Polkadot (test)",
       "assets": [
         {
