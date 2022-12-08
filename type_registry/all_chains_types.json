@@ -1642,5 +1642,28 @@
               }
             }
           ]
-    }
+    },
+    {
+    "chainId" : "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
+    "runtime_id": 39,
+    "types": { },
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "Phase": "frame_system::Phase",
+                "Address": "sp_runtime::multiaddress::MultiAddress",
+                "ExtrinsicSignature": "sp_runtime::MultiSignature",
+                "aleph_runtime::Event": "GenericEvent",
+                "aleph_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
+            }
+        }
+    ]
+}
 ]
