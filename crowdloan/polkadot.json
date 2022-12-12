@@ -308,7 +308,8 @@
     "description": "The omnichain financial platform for web3, including omnichain swap and BTC omnichain lending",
     "website": "https://omnibtc.finance/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/OmniBTC.png",
-    "rewardRate": 0.33
+    "rewardRate": 0.33,
+    "disabled": true
   },
   {
     "paraid": "2052",
@@ -343,5 +344,14 @@
     "description": "Hashed Network enables the full lifecycle for digitally-native organizations and web3-curious businesses seeking benefits of decentralized digital economies.",
     "website": "https://hashed.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Hashed.png"
+  },
+  {
+    "paraid": "2092",
+    "name": "2092",
+    "token": "",
+    "description": "",
+    "website": "",
+    "icon": "",
+    "disabled": true
   }
 ]
