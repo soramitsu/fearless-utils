@@ -568,7 +568,7 @@
     "paraId": "2023",
     "externalApi": {
         "staking": {
-          "type": "subquery",
+          "type": "subsquid",
           "url": "https://squid.subsquid.io/moonriver-x-fearless/v/v1/graphql"
         },
       "history": {
@@ -1288,7 +1288,7 @@
     "name": "Moonbeam",
     "externalApi": {
         "staking": {
-          "type": "subquery",
+          "type": "subsquid",
           "url": "https://squid.subsquid.io/moonbeam-x-fearless/v/v1/graphql"
         },
       "history": {
@@ -1342,7 +1342,7 @@
     "name": "Moonbase Alpha",
     "externalApi": {
         "staking": {
-          "type": "subquery",
+          "type": "subsquid",
           "url": "https://squid.subsquid.io/moonbase-x-fearless/v/v1/graphql"
         },
       "history": {
