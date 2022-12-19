@@ -569,7 +569,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/moonriver-x-fearless-wallet-staking__c29y"
+          "url": "https://squid.subsquid.io/moonriver-x-fearless/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
@@ -1289,7 +1289,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/moonbeam-x-fearless-wallet-staking"
+          "url": "https://squid.subsquid.io/moonbeam-x-fearless/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
@@ -1343,7 +1343,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbase_alpha__c29yY"
+          "url": "https://squid.subsquid.io/moonbase-x-fearless/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
