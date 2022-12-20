@@ -2232,6 +2232,10 @@
       "type": "equilibrium",
       "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
       "isUtility": true
+    },
+    {
+      "type": "equilibrium",
+      "assetId": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8"
     }
   ],
   "nodes": [
@@ -2721,6 +2725,29 @@
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_main.json",
       "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
+    "name": "Aleph Zero",
+    "assets": [
+        {
+            "assetId": "4ea52d6e-a433-4f11-a811-4634068c79a2",
+            "isUtility": true
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://ws.azero.dev",
+            "name": "Aleph Zero Foundation node"
+        }
+
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Aleph%20Zero.svg",
+    "addressPrefix": 42,
+    "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/aleph.json",
+        "overridesCommon": true
     }
   }
 ]
