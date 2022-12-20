@@ -353,5 +353,14 @@
     "website": "",
     "icon": "",
     "disabled": true
+  },
+  {
+    "paraid": "2094",
+    "name": "Pendulum",
+    "token": "PEN",
+    "description": "Pendulum is an open-source blockchain that aims to establish the missing link between the fiat and the DeFi ecosystems through a fiat-optimized smart contract blockchain.",
+    "website": "https://pendulumchain.org/",
+    "icon": "",
+    "disabled": true
   }
 ]
