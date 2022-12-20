@@ -876,6 +876,15 @@
   "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
   },
   {
+    "id": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8",
+    "symbol": "6648164",
+    "displayName": "eqd",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "existentialDeposit": "1000000000",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
+  },
+  {
     "id": "5b196f7c-475a-493e-abbf-9f808d6fb863",
     "symbol": "pchu",
     "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",

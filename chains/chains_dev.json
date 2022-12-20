@@ -2260,7 +2260,12 @@
       "type": "equilibrium",
       "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
       "isUtility": true
+    },
+    {
+      "type": "equilibrium",
+      "assetId": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8"
     }
+
   ],
   "nodes": [
     {
