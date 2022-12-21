@@ -2808,7 +2808,8 @@
       "overridesCommon": true
     },
     "options": [
-      "testnet"
+      "testnet",
+      "polkaswap"
     ]
   },
   {
@@ -2909,7 +2910,10 @@
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_main.json",
       "overridesCommon": true
-    }
+    },
+    "options": [
+      "polkaswap"
+    ]
   },
   {
     "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
