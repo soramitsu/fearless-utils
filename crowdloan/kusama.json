@@ -475,6 +475,15 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/crustshadow.png",
     "rewardRate": 100,
     "disabled": true
+  },
+  {
+    "paraid": "2240",
+    "name": "Robonomics",
+    "token": "XRT",
+    "description": "Futuristic, secure, and server-less IoT platform on top of Ethereum & Polkadot",
+    "website": "https://robonomics.network",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/robonomics.png",
+    "rewardRate": 2.8
   }
   
 ]
