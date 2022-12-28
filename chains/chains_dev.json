@@ -2715,7 +2715,17 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
-      }
+      },
+      "explorers": [
+          {
+              "type": "subscan",
+              "types": [
+                  "extrinsic",
+                  "account"
+              ],
+              "url": "https://sora.subscan.io/{type}/{value}"
+          }
+      ]
     },
     "assets": [
       {
@@ -2819,7 +2829,17 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
-      }
+      },
+      "explorers": [
+          {
+              "type": "subscan",
+              "types": [
+                  "extrinsic",
+                  "account"
+              ],
+              "url": "https://sora.subscan.io/{type}/{value}"
+          }
+      ]
     },
     "assets": [
       {
