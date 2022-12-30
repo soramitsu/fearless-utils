@@ -1659,6 +1659,10 @@
       {
         "url": "wss://hydradx-rpc.dwellir.com",
         "name": "Dwellir node"
+      },
+      {
+        "url": "wss://hydradx.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "Onfinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg",
