@@ -1225,6 +1225,58 @@
       {
         "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab",
         "isUtility": true
+      },
+      {
+        "assetId": "2c054989-1082-4087-8a6f-c43a2fa418f2",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "7de65036-623a-4d0b-a580-6ef68cd6fc05",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "a191e955-0d4a-4c20-931f-f3af0257654e",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "3e7f556c-6192-4e26-a17e-1999f3a3ffad",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "703cf49d-9062-4d18-b625-658fde0e4404",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "1c17e997-c9fd-43b9-972e-8206b5ab17e1",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "799efc4b-2d38-4316-83a1-1731d5b6ab6f",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "b92b9d99-becd-4a53-8179-3c0018419a87",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "79ee5553-28c4-49e6-8243-b1794e5ae2d6",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "6a9ca8bd-7a2a-4d6f-984b-ac23a7d8090d",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "a76d955a-b72a-4834-9772-81d8f2977d5b",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "56d3c4fc-71fb-4dbf-ab35-f924007327aa",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "9dc833d1-73d7-4c68-83da-606c517a4a62",
+        "type": "astarAsset"
       }
     ],
     "nodes": [
