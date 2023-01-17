@@ -77,11 +77,11 @@
     "externalApi": {
       "staking": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
       },
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/nova-wallet/nova-kusama"
+        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
       },
       "crowdloans": {
         "type": "github",
@@ -642,6 +642,58 @@
       {
         "assetId": "6dbb524b-a2d7-4c32-b0f9-6825b3e7d2c4",
         "isUtility": true
+      },
+      {
+        "assetId": "d65e9ae2-8d76-46b2-b9a6-095dbf2a83a3",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "a7c7e302-e07e-476a-bb7a-7c1bd3c5bc60",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "4f78999f-ca88-4c4e-a0e7-82eb625a60f9",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "48903e84-499d-49a8-8725-f12a57793a2d",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "b8d0b4bc-46af-4fc6-8db9-ba2f607264fe",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "c7c26899-8a3d-499c-866d-437e1fbd2dc4",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "8f472571-d5fb-43e8-b127-d04cff706e92",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "6c6b5d67-98ad-45a9-bc47-e49924581691",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "78f5780e-6d8b-4c39-aeaa-f60ca15bfe9c",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "2a834708-a5f4-44a3-901f-320c433085e6",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "b6c3ddd1-84ee-4b7d-a5dd-9d41286b7d6b",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "45ad771b-9c45-4d40-bb12-e06c6c8dce94",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "deb0d779-92d7-4a74-b012-3c9f7e98d527",
+        "type": "astarAsset"
       }
     ],
     "nodes": [
@@ -1173,6 +1225,58 @@
       {
         "assetId": "5ab1e8d-81ed-4130-9d29-55b549cc6bab",
         "isUtility": true
+      },
+      {
+        "assetId": "2c054989-1082-4087-8a6f-c43a2fa418f2",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "7de65036-623a-4d0b-a580-6ef68cd6fc05",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "a191e955-0d4a-4c20-931f-f3af0257654e",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "3e7f556c-6192-4e26-a17e-1999f3a3ffad",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "703cf49d-9062-4d18-b625-658fde0e4404",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "1c17e997-c9fd-43b9-972e-8206b5ab17e1",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "799efc4b-2d38-4316-83a1-1731d5b6ab6f",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "b92b9d99-becd-4a53-8179-3c0018419a87",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "79ee5553-28c4-49e6-8243-b1794e5ae2d6",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "6a9ca8bd-7a2a-4d6f-984b-ac23a7d8090d",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "a76d955a-b72a-4834-9772-81d8f2977d5b",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "56d3c4fc-71fb-4dbf-ab35-f924007327aa",
+        "type": "astarAsset"
+      },
+      {
+        "assetId": "9dc833d1-73d7-4c68-83da-606c517a4a62",
+        "type": "astarAsset"
       }
     ],
     "nodes": [
@@ -1659,6 +1763,10 @@
       {
         "url": "wss://hydradx-rpc.dwellir.com",
         "name": "Dwellir node"
+      },
+      {
+        "url": "wss://hydradx.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "Onfinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg",
@@ -2260,7 +2368,12 @@
       "type": "equilibrium",
       "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
       "isUtility": true
+    },
+    {
+      "type": "equilibrium",
+      "assetId": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8"
     }
+
   ],
   "nodes": [
     {
@@ -2628,7 +2741,7 @@
         }
     },
     {
-      "chainId": "164c079774f45db5dd99a1b0b99752ec509c9573a1e99ca61c44b152753d7905",
+      "chainId": "6e938c4a786f8df6f38d0c06f00a8573f1f7aabeebf48aee5157a93cc5fe3271",
       "name": "Kusama (test)",
       "assets": [
         {
@@ -2654,7 +2767,7 @@
       ]
     },
     {
-      "chainId": "3736d07814d0b72e39d036b28ba782b121abea3cabb4cef9778e68454af20473",
+      "chainId": "fd4d46e9a51e16babf791b94d6dbf771ed1d7de8a11b310aa98c847890fa9ff3",
       "name": "Polkadot (test)",
       "assets": [
         {
@@ -2710,10 +2823,21 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
-      }
+      },
+      "explorers": [
+        {
+            "type": "subscan",
+            "types": [
+                "extrinsic",
+                "account"
+            ],
+            "url": "https://sora.subscan.io/{type}/{value}"
+        }
+      ]
     },
     "assets": [
       {
+        "type": "soraAsset",
         "assetId": "b5a44630-920e-43ee-809f-61890d0888b0",
         "isUtility": true
       },
@@ -2803,7 +2927,8 @@
       "overridesCommon": true
     },
     "options": [
-      "testnet"
+      "testnet",
+      "polkaswap"
     ]
   },
   {
@@ -2813,10 +2938,21 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
-      }
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+              "extrinsic",
+              "account"
+          ],
+          "url": "https://sora.subscan.io/{type}/{value}"
+        }
+    ]
     },
     "assets": [
       {
+        "type": "soraAsset",
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
         "isUtility": true
       },
@@ -2904,7 +3040,10 @@
     "types": {
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora_main.json",
       "overridesCommon": true
-    }
+    },
+    "options": [
+      "polkaswap"
+    ]
   },
   {
     "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
@@ -2912,8 +3051,7 @@
     "assets": [
         {
             "assetId": "4ea52d6e-a433-4f11-a811-4634068c79a2",
-            "isUtility": true,
-            "staking": "relaychain"
+            "isUtility": true
         }
     ],
     "nodes": [
