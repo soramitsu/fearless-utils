@@ -8,8 +8,8 @@
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
       },
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
+        "type": "subsquid",
+        "url": "https://squid.subsquid.io/polkadot-explorer/graphql"
       },
       "crowdloans": {
         "type": "github",
@@ -80,8 +80,8 @@
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
       },
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+        "type": "subsquid",
+        "url": "https://squid.subsquid.io/kusama-explorer/graphql"
       },
       "crowdloans": {
         "type": "github",
