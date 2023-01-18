@@ -81,7 +81,7 @@
       },
       "history": {
         "type": "subsquid",
-        "url": "https://squid.subsquid.io/kusama-explorer/graphql"
+        "url": "https://squid.subsquid.io/subsquid/v/v1/graphql"
       },
       "crowdloans": {
         "type": "github",
