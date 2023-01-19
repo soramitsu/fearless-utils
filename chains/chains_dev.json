@@ -2377,6 +2377,10 @@
   ],
   "nodes": [
     {
+      "url": "wss://equilibrium-rpc.dwellir.com",
+      "name": "Dwellir node"
+    },
+    {
       "url": "wss://node.pol.equilibrium.io",
       "name": "Parity node"
     }
