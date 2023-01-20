@@ -362,5 +362,14 @@
     "website": "https://pendulumchain.org/",
     "icon": "",
     "disabled": true
+  },
+  {
+    "paraid": "2097",
+    "name": "2097",
+    "token": "",
+    "description": "",
+    "website": "",
+    "icon": "",
+    "disabled": true
   }
 ]
