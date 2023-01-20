@@ -569,7 +569,7 @@
     "externalApi": {
         "staking": {
           "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/moonriver-x-fearless-wallet-staking__c29yY"
+          "url": "https://api.subquery.network/sq/soramitsu/moonriver-x-fearless-wallet-staking"
         },
       "history": {
         "type": "subquery",
