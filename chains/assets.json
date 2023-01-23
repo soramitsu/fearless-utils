@@ -860,18 +860,18 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DataHighway.svg"
   },
   {
-  "id": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
-  "symbol": "25969",
-  "displayName": "eq",
-  "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
-  "precision": 9,
-  "existentialDeposit": "1000000000",
-  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
+    "id": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
+    "symbol": "eq",
+    "currencyId": "25969",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "existentialDeposit": "1000000000",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
   },
   {
     "id": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8",
-    "symbol": "6648164",
-    "displayName": "eqd",
+    "symbol": "eqd",
+    "currencyId": "6648164",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
     "precision": 9,
     "existentialDeposit": "1000000000",
