@@ -2833,7 +2833,7 @@
     "externalApi": {
       "history": {
         "type": "subquery",
-        "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
+        "url": "https://api.subquery.network/sq/sora-xor/sora-prod-sub4"
       },
       "explorers": [
         {
