@@ -8,7 +8,7 @@
         "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-dot"
       },
       "history": {
-        "type": "subsquid",
+        "type": "giantsquid",
         "url": "https://squid.subsquid.io/polkadot-explorer/graphql"
       },
       "crowdloans": {
