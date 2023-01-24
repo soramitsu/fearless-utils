@@ -5,7 +5,8 @@
     "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
     "precision": 10,
     "priceId": "polkadot",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
   },
   {
     "id": "1e0c2ec6-935f-49bd-a854-5e12ee6c9f1b",
@@ -13,14 +14,16 @@
     "chainId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "precision": 12,
     "priceId": "kusama",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KSM.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "a3868e1b-922e-42d4-b73e-b41712f0843c",
     "symbol": "wnd",
     "chainId": "e143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/WND.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "35346815-009a-4cf9-a5ad-85a0167e594d",
@@ -28,7 +31,8 @@
     "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
     "precision": 18,
     "priceId": "moonriver",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MOVR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "e40c8161-9fc9-4749-a3b8-ed1c0ad16475",
@@ -36,14 +40,16 @@
     "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d",
     "precision": 18,
     "priceId": "moonbeam",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GLMR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "caf10b57-bb4d-437b-81be-d2e1a6acdcc5",
     "symbol": "dev",
     "chainId": "91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
     "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GLMR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "6dbb524b-a2d7-4c32-b0f9-6825b3e7d2c4",
@@ -51,7 +57,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 18,
     "priceId": "shiden",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/SDN.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "51570b39-7d9d-4d2a-90a4-b1377659117a",
@@ -68,7 +75,8 @@
     "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F"
   },
   {
     "id": "4531d95d-3714-4606-8cfc-bf09a86d1695",
@@ -76,14 +84,16 @@
     "chainId": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
     "precision": 18,
     "priceId": "edgeware",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Edgeware.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EDG.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "07f9e907-d099-4893-a67b-96cb2fe63049",
     "symbol": "sub",
     "chainId": "4a12be580bb959937a1c7a61d5cf24428ed67fa571974b4007645d1886e7c89f",
     "precision": 10,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/subsocial_new.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/SUB.svg",
+    "color": "AC2489"
   },
   {
     "id": "aafbc8c2-4e42-4ecb-a25f-a74e9cb0ee13",
@@ -91,7 +101,8 @@
     "chainId": "f7a99d3cb92853d00d5275c971c132c074636256583fee53b3bbe60d7b8769ba",
     "precision": 12,
     "priceId": "kulupu",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kulupu.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KLP.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "f0d5cadc-4999-45f3-8160-15243f2909d3",
@@ -99,7 +110,8 @@
     "chainId": "411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
     "precision": 15,
     "priceId": "kilt-protocol",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KILT.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "39d4080e-e2ab-43f3-bcc2-2fa281d9290c",
@@ -107,7 +119,8 @@
     "chainId": "4ac80c99289841dd946ef92765bf659a307d39189b3ce374a92b5f0415ee17a1",
     "precision": 12,
     "priceId": "calamari-network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KMA.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "f5d1db12-0a68-4897-903d-51a887daa1db",
@@ -115,7 +128,8 @@
     "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b",
     "precision": 12,
     "priceId": "kintsugi",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KINT.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "d0f2e718-99ee-4bc2-8dc2-1ce07f21c5ac",
@@ -123,21 +137,24 @@
     "chainId": "cd4d732201ebe5d6b014edda071c4203e16867305332301dc8d092044b28e554",
     "precision": 18,
     "priceId": "quartz",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/QTZ.svg",
+    "color": "EC5B6D"
   },
   {
     "id": "02b54158-4f4f-4077-b6a7-7c9edd75a1ca",
     "symbol": "hko",
     "chainId": "64a1c658a48b2e70a7fb1ad4c39eea35022568c20fc44a6e2e3d0a57aee6053b",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/HKO.svg",
+    "color": "CC3474"
   },
   {
     "id": "d24959cd-72fb-4155-9880-86d42b1d1cbb",
     "symbol": "pica",
     "chainId": "6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/picasso.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PICA.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "56c7f785-23d6-4199-accf-846be58011e6",
@@ -145,7 +162,8 @@
     "chainId": "aa3876c1dc8a1afcc2e9a685a49ff7704cfd36ad8c90bf2702b9d1b00cc40011",
     "precision": 18,
     "priceId": "altair",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/AIR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "7dae28e2-9f5e-49ff-9140-aa750a9579ea",
@@ -153,7 +171,8 @@
     "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755",
     "precision": 12,
     "priceId": "basilisk",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BSX.svg",
+    "color": "87FCB6"
   },
   {
     "id": "d3b93409-97b1-42e0-8dbc-99d3fb93fc10",
@@ -161,7 +180,8 @@
     "chainId": "f22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
     "precision": 18,
     "priceId": "metaverse-network-pioneer",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/NEER.svg",
+    "color": "B8FBFE"
   },
   {
     "id": "4b7ab596-bff4-4fd8-9c60-24ef1cbe9584",
@@ -169,7 +189,8 @@
     "chainId": "5c7bd13edf349b33eb175ffae85210299e324d852916336027391536e686f267",
     "precision": 18,
     "priceId": "clover-finance",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CLV.svg",
+    "color": "73D4FD"
   },
   {
     "id": "5ab1e8d-81ed-4130-9d29-55b549cc6bab",
@@ -177,7 +198,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 18,
     "priceId": "astar",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ASTR.svg",
+    "color": "0AE2FF"
   },
   {
     "id": "f78aa731-a33c-4d8d-a3bb-74835064366b",
@@ -185,7 +207,8 @@
     "chainId": "e61a41c53f5dcd0beb09df93b34402aada44cb05117b71059cce40a2723a4e97",
     "precision": 12,
     "priceId": "parallel-finance",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PARA.svg",
+    "color": "4C19E7"
   },
   {
     "id": "d1e3be8c-880e-46fe-97e3-761c0a58aed1",
@@ -193,7 +216,8 @@
     "chainId": "d4c0c08ca49dc7c680c3dac71a7c0703e5b222f4b6c03fe4c5219bb8f22c18dc",
     "precision": 12,
     "priceId": "crust-storage-market",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crust.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CSM.svg",
+    "color": "F3AD56"
   },
   {
     "id": "e207bcef-ab90-4df4-852f-566c309d778e",
@@ -201,7 +225,8 @@
     "chainId": "9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243",
     "precision": 9,
     "priceId": "genshiro",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GENS.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "ca39e03e-dde3-41ac-b1f4-a3d20202b79e",
@@ -209,7 +234,8 @@
     "chainId": "631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
     "precision": 9,
     "priceId": "robonomics-network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XRT.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "2df458e8-c4a9-4026-986f-8962a36fe604",
@@ -225,7 +251,8 @@
     "symbol": "ztg",
     "chainId": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
     "precision": 10,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/zeitgeist.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ZTG.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "07c55d3a-b24e-410e-b9ca-7da0707fbd61",
@@ -233,7 +260,8 @@
     "chainId": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215",
     "precision": 12,
     "priceId": "integritee",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TEER.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "80b7c347-161d-40a9-aed6-b2f202e3577e",
@@ -241,14 +269,16 @@
     "chainId": "335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f",
     "precision": 18,
     "priceId": "efinity",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/efinity.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EFI.svg",
+    "color": "516CD4"
   },
   {
     "id": "fce79b6c-e071-4271-837e-6ec87a719390",
     "symbol": "hdx",
     "chainId": "afdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/HDX.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee",
@@ -256,7 +286,8 @@
     "chainId": "b3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
     "precision": 18,
     "priceId": "centrifuge",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/centrifuge.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CFG.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "e0e1107-e323-43aa-bb93-d7618d2c8cf5",
@@ -264,7 +295,8 @@
     "chainId": "97da7ede98d7bad4e36b4d734b6055425a3be036da2a332ea5a7037656427a21",
     "precision": 11,
     "priceId": "nodle-network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/NODL.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "7a77b6b0-f015-4ccc-a5bb-3456e17775dd",
@@ -272,7 +304,8 @@
     "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72",
     "precision": 10,
     "priceId": "interlay",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/INTR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "15076759-6a5b-4cd6-b84c-e64842f094e5",
@@ -280,21 +313,16 @@
     "chainId": "da5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c",
     "precision": 12,
     "priceId": "litentry",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/litmus.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/LIT_KSM.svg",
+    "color": "6530F0"
   },
   {
     "id": "148ce615-aea3-42fa-be45-5eb5606813b8",
     "symbol": "tur",
     "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
     "precision": 10,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg"
-  },
-  {
-    "id": "69f75e0b-f0ed-4c21-a936-bc541be4bd8b",
-    "symbol": "token",
-    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
-    "precision": 9,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TUR.svg",
+    "color": "5DCBD0"
   },
   {
     "id": "e71b30a0-2a44-40ff-8b53-a166fadef6c5",
@@ -302,7 +330,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "karura",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KAR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "91a69026-0ab7-4db0-af53-8d571fd33ac4",
@@ -320,7 +349,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "kusama",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KSM.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -356,7 +386,8 @@
     "currencyId": "5",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/CSM.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CSM_Crust_Shadow.svg",
+    "color": "F3AD56",
     "priceId": "crust-storage-market",
     "transfersEnabled": true
   },
@@ -385,7 +416,8 @@
     "currencyId": "2",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/QTZ.svg",
+    "color": "EC5B6D",
     "priceId": "quartz",
     "transfersEnabled": true
   },
@@ -404,7 +436,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "kintsugi",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KINT.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -413,7 +446,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F",
     "transfersEnabled": true
   },
   {
@@ -441,7 +475,8 @@
     "currencyId": "3",
     "precision": 18,
     "priceId": "moonriver",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MOVR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -450,7 +485,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "4",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/HKO.svg",
+    "color": "CC3474",
     "transfersEnabled": true
   },
   {
@@ -480,7 +516,8 @@
     "currencyId": "8",
     "precision": 12,
     "priceId": "integritee",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TEER.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -489,7 +526,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "9",
     "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/NEER.svg",
+    "color": "B8FBFE",
     "transfersEnabled": true
   },
   {
@@ -499,7 +537,8 @@
     "currencyId": "10",
     "precision": 12,
     "priceId": "calamari-network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Calamari.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KMA.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -508,7 +547,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "11",
     "precision": 12,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Basilisk.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BSX.svg",
+    "color": "87FCB6",
     "transfersEnabled": true
   },
   {
@@ -518,7 +558,8 @@
     "currencyId": "12",
     "precision": 18,
     "priceId": "altair",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/AIR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -538,7 +579,8 @@
     "currencyId": "14",
     "precision": 9,
     "priceId": "genshiro",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GENS.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -556,7 +598,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "16",
     "precision": 10,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TUR.svg",
+    "color": "5DCBD0",
     "transfersEnabled": true
   },
   {
@@ -602,7 +645,8 @@
     "currencyId": "1",
     "transfersEnabled": true,
     "priceId": "parallel-finance",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PARA.svg",
+    "color": "4C19E7"
   },
   {
     "id": "b6c22f93-be25-426b-b921-18bf19c49667",
@@ -612,7 +656,8 @@
     "currencyId": "0",
     "transfersEnabled": true,
     "priceId": "moonbeam",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GLMR.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "471bfcd1-9680-4ba9-a25d-3e9f777ee2c9",
@@ -630,7 +675,8 @@
     "precision": 10,
     "transfersEnabled": true,
     "priceId": "polkadot",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
   },
   {
     "id": "a7b48fb1-5741-487a-98fd-c45f958dd4fd",
@@ -665,7 +711,8 @@
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "priceId": "kusama",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KSM.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true,
     "existentialDeposit": "100000000"
   },
@@ -686,7 +733,8 @@
     "precision": 12,
     "priceId": "karura",
     "transfersEnabled": true,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KAR.svg",
+    "color": "FFFFFF",
     "existentialDeposit": "100000000"
   },
   {
@@ -740,7 +788,8 @@
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 18,
     "priceId": "moonriver",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MOVR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true,
     "existentialDeposit": "1000000000000"
   },
@@ -760,7 +809,8 @@
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F",
     "transfersEnabled": true,
     "existentialDeposit": "40000000000"
   },
@@ -809,7 +859,8 @@
     "chainId": "2fc8bb6ed7c0051bdcf4866c322ed32b6276572713607e3297ccf411b8f14aa9",
     "precision": 12,
     "priceId": "litentry",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Litentry.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/LIT_DOT.svg",
+    "color": "02C86A"
   },
   {
     "id": "50add3d2-baa6-4bf3-9995-e6532ad51726",
@@ -817,7 +868,8 @@
     "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Phala%20(PHA).svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F"
   },
   {
     "id": "7f429a3f-4666-40a2-a506-58bfe01504c4",
@@ -949,7 +1001,8 @@
     "symbol": "unit",
     "chainId": "fd4d46e9a51e16babf791b94d6dbf771ed1d7de8a11b310aa98c847890fa9ff3",
     "precision": 10,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
   },
   {
     "id": "e739d665-7af5-4e65-ab5f-93f54a5b70b3",
@@ -1254,7 +1307,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 12,
     "priceId": "kusama",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kusama.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KSM.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1285,7 +1339,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 12,
     "priceId": "karura",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KAR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1304,7 +1359,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 18,
     "priceId": "moonriver",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MOVR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1324,7 +1380,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 12,
     "priceId": "kintsugi",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KINT.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1334,7 +1391,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Phala%20(PHA).svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F",
     "transfersEnabled": true
   },
   {
@@ -1344,7 +1402,8 @@
     "chainId": "f1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
     "precision": 12,
     "priceId": "crust-storage-market",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/crust.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CSM_Crust_Shadow.svg",
+    "color": "F3AD56",
     "transfersEnabled": true
   },
   {
@@ -1383,7 +1442,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 10,
     "priceId": "polkadot",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066",
     "transfersEnabled": true
   },
   {
@@ -1434,7 +1494,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 18,
     "priceId": "moonbeam",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GLMR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1454,7 +1515,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 10,
     "priceId": "interlay",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/INTR.svg",
+    "color": "FFFFFF",
     "transfersEnabled": true
   },
   {
@@ -1464,7 +1526,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 12,
     "priceId": "pha",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/Phala%20(PHA).svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PHA.svg",
+    "color": "DAFE6F",
     "transfersEnabled": true
   },
   {
@@ -1493,7 +1556,8 @@
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
     "precision": 18,
     "priceId": "clover-finance",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CLV.svg",
+    "color": "73D4FD",
     "transfersEnabled": true
   },
   {
