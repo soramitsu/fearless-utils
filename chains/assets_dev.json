@@ -402,8 +402,8 @@
     "currencyId": "1",
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "precision": 8,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/ARIS.svg",
-    "color": "FFFFFF",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ARIS.svg",
+    "color": "423F47",
     "priceId": "polarisdao",
     "transfersEnabled": true
   },
@@ -590,8 +590,8 @@
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "currencyId": "15",
     "precision": 9,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/white/EQD.svg",
-    "color": "FFFFFF",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQD.svg",
+    "color": "4D8BED",
     "transfersEnabled": true
   },
   {
@@ -966,8 +966,8 @@
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
     "precision": 9,
     "existentialDeposit": "1000000000",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/EQD.svg",
-    "color": "FFFFFF"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQD.svg",
+    "color": "4D8BED"
   },
   {
     "id": "5b196f7c-475a-493e-abbf-9f808d6fb863",
@@ -1046,7 +1046,7 @@
     "symbol": "icz",
     "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
     "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SNOW.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ICZ.svg",
     "color": "FFFFFF"
   },
   {
@@ -1327,8 +1327,8 @@
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
     "precision": 18,
     "priceId": "ethereum",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/ETH.svg",
-    "color":"FFFFFF",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ETH.svg",
+    "color":"627EEA",
     "transfersEnabled": true
   },
   {
