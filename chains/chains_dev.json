@@ -2840,7 +2840,6 @@
     },
     "assets": [
       {
-        "type": "soraAsset",
         "assetId": "b5a44630-920e-43ee-809f-61890d0888b0",
         "isUtility": true
       },
@@ -2955,7 +2954,6 @@
     },
     "assets": [
       {
-        "type": "soraAsset",
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
         "isUtility": true
       },
