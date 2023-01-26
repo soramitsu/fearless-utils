@@ -61,15 +61,6 @@
     "color": "FFFFFF"
   },
   {
-    "id": "51570b39-7d9d-4d2a-90a4-b1377659117a",
-    "symbol": "xor",
-    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
-    "precision": 18,
-    "priceId": "sora",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XOR.svg",
-    "color":"EE2233"
-  },
-  {
     "id": "3feb7de3-e881-4c04-a4de-1b9091dbc324",
     "symbol": "pha",
     "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
