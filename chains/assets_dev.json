@@ -570,7 +570,7 @@
     "precision": 18,
     "priceId": "darwinia-crab-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CRAB.svg",
-    "color": "FFFFFF",
+    "color": "581BD1",
     "transfersEnabled": true
   },
   {
@@ -915,7 +915,7 @@
     "precision": 18,
     "priceId": "darwinia-crab-network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CRAB.svg",
-    "color": "FFFFFF"
+    "color": "581BD1"
   },
   {
     "id": "898eb0a1-ede6-437a-97b7-e92407db985f",
@@ -1006,7 +1006,7 @@
     "symbol": "ring",
     "chainId": "e71578b37a7c799b0ab4ee87ffa6f059a6b98f71f06fb8c84a8d88013a548ad6",
     "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/RING.svg",
     "color": "FFFFFF"
   },
   {
