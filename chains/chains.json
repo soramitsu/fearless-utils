@@ -2598,7 +2598,17 @@
       "history": {
         "type": "subquery",
         "url": "https://api.subquery.network/sq/sora-xor/sora-prod-sub4"
-      }
+      },
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+              "extrinsic",
+              "account"
+          ],
+          "url": "https://sora.subscan.io/{type}/{value}"
+        }
+    ]
     },
     "assets": [
       {
