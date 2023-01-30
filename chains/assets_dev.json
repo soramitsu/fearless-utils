@@ -242,6 +242,7 @@
     "symbol": "ztg",
     "chainId": "1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
     "precision": 10,
+    "priceId": "zeitgeist",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ZTG.svg",
     "color": "FFFFFF"
   },
