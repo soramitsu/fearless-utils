@@ -81,8 +81,7 @@
       },
       "history": {
         "type": "subsquid",
-        "url": "https://squid.subsquid.io/fearless-x-kusama/v/v1/graphql
-"
+        "url": "https://squid.subsquid.io/fearless-x-kusama/v/v1/graphql"
       },
       "crowdloans": {
         "type": "github",
