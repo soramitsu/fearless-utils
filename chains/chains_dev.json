@@ -9,7 +9,7 @@
       },
       "history": {
         "type": "giantsquid",
-        "url": "https://squid.subsquid.io/polkadot-explorer/graphql"
+        "url": "https://squid.subsquid.io/fearless-x-polkadot/v/v1/graphql"
       },
       "crowdloans": {
         "type": "github",
@@ -81,7 +81,8 @@
       },
       "history": {
         "type": "subsquid",
-        "url": "https://squid.subsquid.io/subsquid/v/v1/graphql"
+        "url": "https://squid.subsquid.io/fearless-x-kusama/v/v1/graphql
+"
       },
       "crowdloans": {
         "type": "github",
@@ -569,7 +570,7 @@
     "externalApi": {
         "staking": {
           "type": "subsquid",
-          "url": "https://squid.subsquid.io/moonriver-x-fearless/v/v1/graphql"
+          "url": "https://squid.subsquid.io/fearless-x-moonriver/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
@@ -1393,7 +1394,7 @@
     "externalApi": {
         "staking": {
           "type": "subsquid",
-          "url": "https://squid.subsquid.io/moonbeam-x-fearless/v/v1/graphql"
+          "url": "https://squid.subsquid.io/fearless-x-moonbeam/v/v1/graphql"
         },
       "history": {
         "type": "subquery",
