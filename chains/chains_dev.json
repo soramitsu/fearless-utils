@@ -2243,49 +2243,100 @@
     }
   },
   {
-  "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
-  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-  "paraId": "2011",
-  "name": "Equilibrium",
-  "externalApi": {
-    "explorers": [
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2011",
+    "name": "Equilibrium",
+    "externalApi": {
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://equilibrium.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
       {
-        "type": "subscan",
-        "types": [
-          "extrinsic",
-          "account"
-        ],
-        "url": "https://equilibrium.subscan.io/{type}/{value}"
+        "type": "equilibrium",
+        "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "7512aeb7-7bdc-42dc-abe3-80ed764c80bd"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "9c67711c-7f0c-45fa-b7fc-66b655ba17e1"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "b62f4a0a-883f-496f-a797-fd2b24abe01b"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "665c8d3d-a035-45fb-9c9c-7cfaf7da96c6"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "c98efbda-a452-4329-8199-fef32dc9307e"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "793fc038-c134-4d58-af6d-cb7c1be5a4ea"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "e8c17b03-a94c-4fd3-a599-189a1b5e8e32"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "a9d1b0b2-ad4e-4d86-88c5-72a8947099f0"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "502acf71-3c1f-4f1c-91d9-179fd2987a34"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "f67bfaf7-e081-4355-abda-4f1faaeb3579"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "c1ad2bb4-701a-4711-bacb-59259ff3d57d"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "26a16776-71c9-450d-bfaf-df3a8cd6d277"
+      },
+      {
+        "type": "equilibrium",
+        "assetId": "1eb9d66e-a92d-49c5-95fc-fd7a844fc66d"
       }
-    ]
-  },
-  "assets": [
-    {
-      "type": "equilibrium",
-      "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6"
-    },
-    {
-      "type": "equilibrium",
-      "assetId": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8"
+    ],
+    "nodes": [
+      {
+        "url": "wss://node.pol.equilibrium.io",
+        "name": "Parity node"
+      },
+      {
+        "url": "wss://equilibrium-rpc.dwellir.com",
+        "name": "Dwellir node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg",
+    "addressPrefix": 68,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/equilibrium.json",
+      "overridesCommon": true
     }
-
-  ],
-  "nodes": [
-    {
-      "url": "wss://equilibrium-rpc.dwellir.com",
-      "name": "Dwellir node"
-    },
-    {
-      "url": "wss://node.pol.equilibrium.io",
-      "name": "Parity node"
-    }
-  ],
-  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/equilibrium.svg",
-  "addressPrefix": 68,
-  "types": {
-    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/equilibrium.json",
-    "overridesCommon": true
-  }
 },
 {
         "chainId": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215",

@@ -958,7 +958,7 @@
     "precision": 9,
     "existentialDeposit": "1000000000",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQ.svg",
-    "color": "5176Е6"
+    "color": "5176E6"
   },
   {
     "id": "50bb6d02-1aad-4a94-b41c-2a15b4aee0e8",
@@ -969,6 +969,123 @@
     "existentialDeposit": "1000000000",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQD.svg",
     "color": "4D8BED"
+  },
+  {
+    "id": "7512aeb7-7bdc-42dc-abe3-80ed764c80bd",
+    "symbol": "aca",
+    "currencyId": "6382433",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ACA.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "9c67711c-7f0c-45fa-b7fc-66b655ba17e1",
+    "symbol": "bnb",
+    "currencyId": "6450786",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BNB.svg",
+    "color": "F3BA2F"
+  },
+  {
+    "id": "b62f4a0a-883f-496f-a797-fd2b24abe01b",
+    "symbol": "dot",
+    "currencyId": "6582132",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
+  },
+  {
+    "id": "665c8d3d-a035-45fb-9c9c-7cfaf7da96c6",
+    "symbol": "astr",
+    "currencyId": "1634956402",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ASTR.svg",
+    "color": "0AE2FF"
+  },
+  {
+    "id": "c98efbda-a452-4329-8199-fef32dc9307e",
+    "symbol": "ausd",
+    "currencyId": "1635087204",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/AUSD.svg",
+    "color": "E40C5B"
+  },
+  {
+    "id": "793fc038-c134-4d58-af6d-cb7c1be5a4ea",
+    "symbol": "busd",
+    "currencyId": "1651864420",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BUSD.svg",
+    "color": "F3BA2F"
+  },
+  {
+    "id": "e8c17b03-a94c-4fd3-a599-189a1b5e8e32",
+    "symbol": "glmr",
+    "currencyId": "1735159154",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/GLMR.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "a9d1b0b2-ad4e-4d86-88c5-72a8947099f0",
+    "symbol": "ibtc",
+    "currencyId": "1768060003",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/IBTC.svg",
+    "color": "F2AE7F"
+  },
+  {
+    "id": "502acf71-3c1f-4f1c-91d9-179fd2987a34",
+    "symbol": "intr",
+    "currencyId": "1768846450",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/INTR.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "f67bfaf7-e081-4355-abda-4f1faaeb3579",
+    "symbol": "para",
+    "currencyId": "1885434465",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PARA.svg",
+    "color": "4C19E7"
+  },
+  {
+    "id": "c1ad2bb4-701a-4711-bacb-59259ff3d57d",
+    "symbol": "usdt",
+    "currencyId": "1970496628",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/USDT.svg",
+    "color": "26A17B"
+  },
+  {
+    "id": "26a16776-71c9-450d-bfaf-df3a8cd6d277",
+    "symbol": "xdot",
+    "currencyId": "2019848052",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
+  },
+  {
+    "id": "1eb9d66e-a92d-49c5-95fc-fd7a844fc66d",
+    "symbol": "eqdot",
+    "currencyId": "435694104436",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
+    "precision": 9,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQDOT.svg",
+    "color": "FFFFFF"
   },
   {
     "id": "5b196f7c-475a-493e-abbf-9f808d6fb863",
