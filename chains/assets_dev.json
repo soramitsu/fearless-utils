@@ -1039,7 +1039,7 @@
     "currencyId": "1768060003",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
     "precision": 9,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/IBTC.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/iBTC.svg",
     "color": "F2AE7F"
   },
   {
@@ -1084,7 +1084,7 @@
     "currencyId": "435694104436",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
     "precision": 9,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/EQDOT.svg",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/eqDOT.svg",
     "color": "FFFFFF"
   },
   {
