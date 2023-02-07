@@ -209,8 +209,8 @@
     "name": "Statemine",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemine"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-statemine/graphql"
       },
       "explorers": [
         {
@@ -257,8 +257,8 @@
     "name": "Statemint",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-statemint"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-statemint/graphql"
       }
     },
     "assets": [
@@ -295,8 +295,8 @@
     "paraId": "2000",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-acala"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-acala/graphql"
       },
       "explorers": [
         {
@@ -388,8 +388,8 @@
     "paraId": "2000",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-karura"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-karura/graphql"
       },
       "explorers": [
         {
@@ -572,8 +572,8 @@
           "url": "https://squid.subsquid.io/fearless-x-moonriver/v/v1/graphql"
         },
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonriver"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-moonriver/graphql"
       },
       "explorers": [
         {
@@ -627,6 +627,10 @@
     "paraId": "2007",
     "name": "Shiden",
     "externalApi": {
+        "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-shiden/graphql"
+        },
       "explorers": [
         {
           "type": "subscan",
@@ -728,8 +732,8 @@
     "name": "Bifrost",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bitfrost"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-Bifrost/graphql"
       },
       "explorers": [
         {
@@ -819,8 +823,8 @@
     "name": "Khala",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-khala"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-khala/graphql"
       },
       "explorers": [
         {
@@ -915,8 +919,8 @@
     "name": "Calamari",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-calamari"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-calamari/graphql"
       },
       "explorers": [
         {
@@ -1207,8 +1211,8 @@
     "name": "Astar",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-astar"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-astar/graphql"
       },
       "explorers": [
         {
@@ -1396,8 +1400,8 @@
           "url": "https://squid.subsquid.io/fearless-x-moonbeam/v/v1/graphql"
         },
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-moonbeam"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-moonbeam/graphql"
       },
       "explorers": [
         {
@@ -1691,8 +1695,8 @@
     "name": "Efinity",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-efinity__c29yY"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-efinity/graphql"
       },
       "explorers": [
         {
@@ -2101,8 +2105,8 @@
     "name": "Phala",
     "externalApi": {
       "history": {
-         "type": "subquery",
-         "url": "https://api.subquery.network/sq/soramitsu/Phala-x-Fearless-Wallet"
+         "type": "giantsquid",
+         "url": "https://squid.subsquid.io/gs-main-phala/graphql"
       }
     },
     "assets": [
@@ -2492,7 +2496,7 @@
       "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
       "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
       "paraId": "2102",
-      "name": "Pichiu Network",
+      "name": "  Network",
       "externalApi": {
         "history": {
            "type": "subquery",
@@ -2560,7 +2564,7 @@
         "externalApi": {
             "history": {
                 "type": "giantsquid",
-                "url": "https://gmordie.explorer.subsquid.io/graphql"
+                "url": "https://squid.subsquid.io/gs-main-gmordie/graphql"
             }
         },
         "assets": [
@@ -2827,7 +2831,7 @@
     "name": "SORA test",
     "externalApi": {
       "history": {
-        "type": "subquery",
+        "type": "sora",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
       },
       "explorers": [
@@ -2942,7 +2946,7 @@
     "name": "SORA Mainnet",
     "externalApi": {
       "history": {
-        "type": "subquery",
+        "type": "sora",
         "url": "https://api.subquery.network/sq/sora-xor/sora-staging"
       },
       "explorers": [
