@@ -2674,6 +2674,14 @@
       {
         "type": "soraAsset",
         "assetId": "82f45df3-b6d8-43e7-a440-c0e73ab59785"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "68a46965-94e8-4a03-af65-6237f83d482f"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "61f864b5-9fe0-4ba5-b5b6-c338ceaeee91"
       }
     ],
     "nodes": [

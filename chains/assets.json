@@ -1073,6 +1073,26 @@
     "transfersEnabled": true
   },
   {
+    "id": "68a46965-94e8-4a03-af65-6237f83d482f",
+    "symbol": "tbcd",
+    "currencyId": "0x02000a0000000000000000000000000000000000000000000000000000000000",
+    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TBDC.svg",
+    "color":"6D8954",
+    "transfersEnabled": true
+  },
+  {
+    "id": "61f864b5-9fe0-4ba5-b5b6-c338ceaeee91",
+    "symbol": "hmx",
+    "currencyId": "0x002d4e9e03f192cc33b128319a049f353db98fbf4d98f717fd0b7f66a0462142",
+    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/HMX.svg",
+    "color":"FFFFFF",
+    "transfersEnabled": true
+  },
+  {
     "id": "4ea52d6e-a433-4f11-a811-4634068c79a2",
     "symbol": "azero",
     "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
