@@ -2261,7 +2261,7 @@
     },
     "assets": [
       {
-        "isUtility": true
+        "isUtility": true,
         "type": "equilibrium",
         "assetId": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6"
       },
