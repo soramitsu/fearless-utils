@@ -1224,7 +1224,7 @@
   {
     "id": "7bcc178d-1ebe-46b8-88fb-79649828f21d",
     "symbol": "deo",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "demeter",
@@ -1235,7 +1235,7 @@
   {
     "id": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
     "symbol": "ceres",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "ceres",
@@ -1246,7 +1246,7 @@
   {
     "id": "38eae54b-723d-457c-8d45-4beab249612f",
     "symbol": "noir",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x0044aee0776cfb826434af8ef0f8e2c7e9e6644cfda0ae0f02c471b1eebc2483",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "noir-phygital",
@@ -1257,7 +1257,7 @@
   {
     "id": "2565e418-d5bc-4318-99b5-53e893681518",
     "symbol": "umi",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x003252667a82d2dd70fa046eea663eaec1f2e37c20879f113b880b04c5ebd805",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/UMI.svg",
@@ -1267,7 +1267,7 @@
   {
     "id": "9b040bf8-a852-4e10-aa14-d3793db27a95",
     "symbol": "usdt",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x0083a6b3fbc6edae06f115c8953ddd7cbfba0b74579d6ea190f96853073b76f4",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "tether",
@@ -1278,7 +1278,7 @@
   {
     "id": "1b20dfcd-a40d-4850-a407-5a45f3bf4889",
     "symbol": "busd",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "binance-usd",
@@ -1289,7 +1289,7 @@
   {
     "id": "5c017385-e702-47d2-8f3a-ac8146c2b9dd",
     "symbol": "usdc",
-    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "currencyId": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
     "precision": 18,
     "priceId": "usd-coin",
