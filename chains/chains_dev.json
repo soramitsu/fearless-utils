@@ -76,8 +76,8 @@
     "name": "Kusama",
     "externalApi": {
       "staking": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-ksm"
+        "type": "subsquid",
+        "url": "https://squid.subsquid.io/fearless-x-kusama/v/v1/graphql"
       },
       "history": {
         "type": "subsquid",
