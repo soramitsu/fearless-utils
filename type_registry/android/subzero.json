@@ -1,0 +1,22 @@
+{
+    "runtime_id":63,
+    "types": { },
+    "versioning": [
+        {
+            "runtime_range": [
+                0,
+                null
+            ],
+            "types": {
+                "Balance": "u128",
+                "Index": "u32",
+                "Phase": "frame_system::Phase",
+                "Address": "sp_runtime::multiaddress::MultiAddress",
+                "ExtrinsicSignature": "sp_runtime::MultiSignature",
+                "subzero_runtime::Event": "GenericEvent",
+                "subzero_runtime::Call": "GenericCall",
+                "sp_core::crypto::AccountId32": "GenericAccountId"
+            }
+        }
+    ]
+}
