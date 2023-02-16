@@ -1,5 +1,5 @@
 {
-    "runtime_id": 4,
+    "runtime_id": 9370,
     "types": { },
     "versioning": [
         {
@@ -10,8 +10,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "GenericEvent": "totem_parachain_runtime::RuntimeEvent",
-                "GenericCall": "totem_parachain_runtime::RuntimeCall"
+                "GenericEvent": "bridge_hub_polkadot_runtime::RuntimeEvent",
+                "GenericCall": "bridge_hub_polkadot_runtime::RuntimeCall"
             }
         }
     ]
