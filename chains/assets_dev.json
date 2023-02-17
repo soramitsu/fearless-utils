@@ -1458,5 +1458,90 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/AZERO.svg",
     "color":"FFFFFF",
     "transfersEnabled": true
+  },
+  {
+    "id": "f0f8e709-20f3-44e6-a6c3-89e9e82f78ed",
+    "symbol": "ksm",
+    "chainId": "00dcb981df86429de8bbacf9803401f09485366c44efbf53af9ecfab03adc7e5",
+    "precision": 12,
+    "priceId": "kusama",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KSM.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "b20185e9-2f5c-4c3d-bd5a-c751cd76d439",
+    "symbol": "mito",
+    "chainId": "6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MITO.svg",
+    "color": "0BF0A6"
+  },
+  {
+    "id": "c8b67e07-8b3b-4b92-b23d-23b5bb1f8f42",
+    "symbol": "teer",
+    "chainId": "cdedc8eadbfa209d3f207bba541e57c3c58a667b05a2e1d1e86353c9000758da",
+    "precision": 12,
+    "priceId": "integritee",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TEER.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "3a1cc15e-903b-4102-9384-364c00e67283",
+    "symbol": "zero",
+    "chainId": "2991d4125ac465d64c4c0b915fedd7168b5961b7676480636e3747f1ad64cfb9",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/ZERO.svg",
+    "color": "FFFFFF"
+  },
+  {
+    "id": "fdcbd7f55-c9f2-4ddf-a051-24256aeef6c9",
+    "symbol": "dot",
+    "chainId": "596c5a43bc91913ed88b4aef4590671308e39119c2be1955bf37b33d4698d7fb",
+    "precision": 10,
+    "priceId": "polkadot",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DOT.svg",
+    "color": "FF0066"
+  },
+  {
+    "id": "b0afcb19-5d4c-442c-ac0f-53c64b1ea0ae",
+    "symbol": "ajun",
+    "chainId": "e358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
+    "precision": 12,
+    "priceId": "ajuna-network",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BAJU.svg",
+    "color": "69A6DA"
+  },
+  {
+    "id": "26c62511-6300-41ef-b760-c94dd6b0f8a5",
+    "symbol": "bbb",
+    "chainId": "c14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BBB.svg",
+    "color": "C0FF00"
+  },
+  {
+    "id": "07ad91ea-1cb6-47dd-bc57-0e884727c5bf",
+    "symbol": "cru",
+    "chainId": "4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
+    "precision": 12,
+    "priceId": "crust-network",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CRU.svg",
+    "color": "FA8C16"
+  },
+  {
+    "id": "598af8e7-c0ad-4785-80cf-669705c93dd9",
+    "symbol": "frqcy",
+    "chainId": "4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
+    "precision": 8,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/FRQCY.svg",
+    "color": "4473EC"
+  },
+  {
+    "id": "a99dd750-0c15-49df-a86f-6caa577614bc",
+    "symbol": "kpx",
+    "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KPX.svg",
+    "color": "306EB6"
   }
 ]
