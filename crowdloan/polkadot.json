@@ -360,7 +360,7 @@
     "token": "PEN",
     "description": "Pendulum is an open-source blockchain that aims to establish the missing link between the fiat and the DeFi ecosystems through a fiat-optimized smart contract blockchain.",
     "website": "https://pendulumchain.org/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Pendulum.png",
     "disabled": true
   },
   {
