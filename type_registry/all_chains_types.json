@@ -1717,8 +1717,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "GenericEvent": "integritee_runtime::Event",
-                "GenericCall": "integritee_runtime::Call"
+                "GenericEvent": "integritee_runtime::RuntimeEvent",
+                "GenericCall": "integritee_runtime::RuntimeCall"
             }
         }
     ]
