@@ -97,7 +97,7 @@
   },
   {
     "id": "chf",
-    "symbol": "F",
+    "symbol": "CHF",
     "name": "Swiss Franc",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/android/2.0.2/icons/fiat/chf.svg"
   },
