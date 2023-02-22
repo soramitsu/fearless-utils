@@ -1466,5 +1466,14 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/AZERO.svg",
     "color":"FFFFFF",
     "transfersEnabled": true
+  },
+  {
+    "id": "c8b67e07-8b3b-4b92-b23d-23b5bb1f8f42",
+    "symbol": "teer",
+    "chainId": "cdedc8eadbfa209d3f207bba541e57c3c58a667b05a2e1d1e86353c9000758da",
+    "precision": 12,
+    "priceId": "integritee",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TEER.svg",
+    "color": "FFFFFF"
   }
 ]
