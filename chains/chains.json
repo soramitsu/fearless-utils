@@ -2840,5 +2840,269 @@
         "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/aleph.json",
         "overridesCommon": true
     }
+  },
+  {
+    "chainId": "00dcb981df86429de8bbacf9803401f09485366c44efbf53af9ecfab03adc7e5",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "1002",
+    "name": "Kusama BridgeHub",
+    "assets": [
+      {
+        "assetId": "f0f8e709-20f3-44e6-a6c3-89e9e82f78ed",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://kusama-bridge-hub-rpc.polkadot.io",
+        "name": "Parity node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bridgehub.svg",
+    "addressPrefix": 2,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bridgehub_ksm.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "2222",
+    "name": "Ipci",
+    "assets": [
+      {
+        "assetId": "b20185e9-2f5c-4c3d-bd5a-c751cd76d439",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://kusama.rpc.ipci.io",
+        "name": "Airalab node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DAOIPCI.svg",
+    "addressPrefix": 32,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dao_ipci.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "cdedc8eadbfa209d3f207bba541e57c3c58a667b05a2e1d1e86353c9000758da",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "2015",
+    "name": "Integritee Network (Kusama)",
+    "externalApi": {
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://integritee.subscan.io/{type}/{value}"
+        }
+      ]
+    },
+    "assets": [
+      {
+        "assetId": "c8b67e07-8b3b-4b92-b23d-23b5bb1f8f42",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://kusama.api.integritee.network",
+        "name": "Integritee node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
+    "addressPrefix": 13,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee_ksm.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "2991d4125ac465d64c4c0b915fedd7168b5961b7676480636e3747f1ad64cfb9",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "2236",
+    "name": "Subzero",
+    "assets": [
+      {
+        "assetId": "3a1cc15e-903b-4102-9384-364c00e67283",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc-1.kusama.node.zero.io",
+        "name": "ZeroNetwork node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Subzero.svg",
+    "addressPrefix": 25,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/subzero.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "596c5a43bc91913ed88b4aef4590671308e39119c2be1955bf37b33d4698d7fb",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "1002",
+    "name": "Polkadot BridgeHub",
+    "assets": [
+      {
+        "assetId": "fdcbd7f55-c9f2-4ddf-a051-24256aeef6c9",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://polkadot-bridge-hub-rpc.polkadot.io",
+        "name": "Parity node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bridgehub.svg",
+    "addressPrefix": 0,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bridgehub_dot.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "e358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2051",
+    "name": "Ajuna Polkadot",
+    "assets": [
+      {
+        "assetId": "b0afcb19-5d4c-442c-ac0f-53c64b1ea0ae",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc-parachain.ajuna.network.io",
+        "name": "AjunaNetwork node"
+      },
+      {
+        "url": "wss://ajuna.public.curie.radiumblock.co/ws",
+        "name": "RadiumBlock node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
+    "addressPrefix": 1328,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ajuna.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "c14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2048",
+    "name": "Bitgreen",
+    "assets": [
+      {
+        "assetId": "26c62511-6300-41ef-b760-c94dd6b0f8a5",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://mainnet.bitgreen.org",
+        "name": "Bitgreen node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bitgreen.svg",
+    "addressPrefix": 42,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitgreen.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2008",
+    "name": "Crust",
+    "assets": [
+      {
+        "assetId": "07ad91ea-1cb6-47dd-bc57-0e884727c5bf",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://crust-parachain.crustapps.net",
+        "name": "Crust node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Crust.svg",
+    "addressPrefix": 88,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crust.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2091",
+    "name": "Frequency",
+    "assets": [
+      {
+        "assetId": "598af8e7-c0ad-4785-80cf-669705c93dd9",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://0.rpc.frequency.xyz",
+        "name": "Frequency 0 node"
+      },
+      {
+        "url": "wss://1.rpc.frequency.xyz",
+        "name": "Frequency 1 node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Frequency.svg",
+    "addressPrefix": 90,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/frequency.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2007",
+    "name": "Kapex",
+    "assets": [
+      {
+        "assetId": "a99dd750-0c15-49df-a86f-6caa577614bc",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://k-ui.kapex.network",
+        "name": "Totem node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kapex%20(Totem).svg",
+    "addressPrefix": 2007,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kapex.json",
+      "overridesCommon": true
+    }
   }
 ]
