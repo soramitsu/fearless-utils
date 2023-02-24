@@ -66,7 +66,8 @@
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
     "precision": 18,
     "priceId": "sora",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XOR.svg",
+    "color":"EE2233"
   },
   {
     "id": "3feb7de3-e881-4c04-a4de-1b9091dbc324",
