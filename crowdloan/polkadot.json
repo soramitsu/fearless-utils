@@ -371,5 +371,13 @@
     "website": "",
     "icon": "",
     "disabled": true
+  },
+  {
+    "paraid": "2025",
+    "name": "SORA",
+    "token": "XOR",
+    "description": "SORA is working to become the decentralized multiverse economic system for Many Worlds",
+    "website": "https://sora.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png"
   }
 ]
