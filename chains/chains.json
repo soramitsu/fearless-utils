@@ -1559,6 +1559,10 @@
     "paraId": "2034",
     "name": "HydraDX",
     "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-hydradx/graphql"
+      },
       "explorers": [
         {
           "type": "subscan",
