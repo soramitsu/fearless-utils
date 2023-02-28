@@ -818,10 +818,6 @@
     "paraId": "2086",
     "name": "KILT Spiritnet",
     "externalApi": {
-      "history": {
-        "type": "giantsquid",
-        "url": "https://kilt.archive.subsquid.io/graphql"
-        },
       "explorers": [
         {
           "type": "subscan",
