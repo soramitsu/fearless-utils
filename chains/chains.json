@@ -2149,6 +2149,12 @@
     "paraId": "2011",
     "name": "Equilibrium",
     "externalApi": {
+      "externalApi": {
+        "history": {
+            "type": "giantsquid",
+            "url": "https://equilibrium.explorer.subsquid.io/graphql"
+        }
+    },
       "explorers": [
         {
           "type": "subscan",
