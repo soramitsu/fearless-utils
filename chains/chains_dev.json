@@ -2952,6 +2952,10 @@
       {
         "type": "soraAsset",
         "assetId": "82f45df3-b6d8-43e7-a440-c0e73ab59785"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "94e573f3-a9f3-4f7e-9244-8492288ca558"
       }
     ],
     "nodes": [
