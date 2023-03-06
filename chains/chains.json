@@ -2705,6 +2705,10 @@
       {
         "type": "soraAsset",
         "assetId": "61f864b5-9fe0-4ba5-b5b6-c338ceaeee91"
+      },
+      {
+        "type": "soraAsset",
+        "assetId": "94e573f3-a9f3-4f7e-9244-8492288ca558"
       }
     ],
     "nodes": [

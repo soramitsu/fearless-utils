@@ -1324,6 +1324,16 @@
     "transfersEnabled": true
   },
   {
+    "id": "94e573f3-a9f3-4f7e-9244-8492288ca558",
+    "symbol": "soshiba",
+    "currencyId": "0x005aa73d7a4a3fdbe830c7d0ee26c09ba7f1db119da86d5b4dcb6609dac5ceb5",
+    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/SHIB.svg",
+    "color":"FFA409",
+    "transfersEnabled": true
+  },
+  {
     "id": "4ea52d6e-a433-4f11-a811-4634068c79a2",
     "symbol": "azero",
     "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
