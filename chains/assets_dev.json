@@ -703,6 +703,7 @@
   },
   {
     "id": "70a69d25-a4ba-4c6b-a15d-09f3c2814ddf",
+    "name": "taiga dot",
     "symbol": "tdot",
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 10,
@@ -737,6 +738,7 @@
   },
   {
     "id": "471bfcd1-9680-4ba9-a25d-3e9f777ee2c9",
+    "name": "liquid dot",
     "symbol": "ldot",
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 10,
@@ -758,6 +760,7 @@
   },
   {
     "id": "a7b48fb1-5741-487a-98fd-c45f958dd4fd",
+    "name": "liquid crowdloan dot",
     "symbol": "lcdot",
     "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
     "precision": 10,
@@ -826,6 +829,7 @@
   },
   {
     "id": "07f2a7fc-9b0a-4583-9267-57b68ecd4350",
+    "name": "voucher ksm",
     "symbol": "ksm",
     "displayName": "vksm",
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
@@ -889,6 +893,7 @@
   },
   {
     "id": "fe2c5a55-aff7-4d00-af5c-e90082a5a11e",
+    "name": "zenlink network",
     "symbol": "zlk",
     "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
     "precision": 18,
@@ -912,6 +917,7 @@
   },
   {
     "id": "c0d1efac-597d-4c56-b5ad-b683b8214ada",
+    "name": "dora factory",
     "symbol": "dora",
     "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
     "precision": 12,
@@ -921,6 +927,7 @@
   },
   {
     "id": "af5bf9f0-0009-4cf8-98ed-b988268c94f1",
+    "name": "origitrail parachain",
     "symbol": "otp",
     "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
     "precision": 12,
@@ -929,6 +936,7 @@
   },
   {
     "id": "57d05537-06a2-453b-ac87-d081aee65ec9",
+    "name": "unique network",
     "symbol": "unq",
     "chainId": "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
     "precision": 18,
@@ -938,6 +946,7 @@
   },
   {
     "id": "5502c9cb-14f7-4de8-a35d-71263dc3f78f",
+    "name": "polkadex",
     "symbol": "pdex",
     "chainId": "3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
     "precision": 12,
@@ -977,6 +986,7 @@
   },
   {
     "id": "7f429a3f-4666-40a2-a506-58bfe01504c4",
+    "name": "composable finance",
     "symbol": "layr",
     "chainId": "daab8df776eb52ec604a5df5d388bb62a050a0aaec4556a64265b9d42755552d",
     "precision": 12,
@@ -986,6 +996,7 @@
   },
   {
     "id": "cbf84703-ba1d-4a39-ab5e-424756c91422",
+    "name": "bajun network",
     "symbol": "baju",
     "chainId": "35a06bfec2edf0ff4be89a6428ccd9ff5bd0167d618c5a0d4341f9600a458d14",
     "precision": 12,
@@ -1004,6 +1015,7 @@
   },
   {
     "id": "898eb0a1-ede6-437a-97b7-e92407db985f",
+    "name": "kabocha",
     "symbol": "kab",
     "chainId": "feb426ca713f0f46c96465b8f039890370cf6bfd687c9076ea2843f58a6ae8a7",
     "precision": 12,
@@ -1021,6 +1033,7 @@
   },
   {
     "id": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928",
+    "name": "mangata x",
     "symbol": "mgx",
     "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
     "precision": 18,
@@ -1029,6 +1042,7 @@
   },
   {
     "id": "15df9971-2e6a-4619-a5ca-9ad571655287",
+    "name": "datahighway",
     "symbol": "dhx",
     "chainId": "eacdd2d5b42de9769ccbb6e8d9013ab0d90ab105bf601d4aac53e874c145ec21",
     "precision": 18,
@@ -1037,6 +1051,7 @@
   },
   {
     "id": "47d1f5c5-c43d-4082-b577-ba0af91cb1a6",
+    "name": "equilibrium",
     "symbol": "eq",
     "currencyId": "25969",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1068,6 +1083,7 @@
   },
   {
     "id": "9c67711c-7f0c-45fa-b7fc-66b655ba17e1",
+    "name": "bnb",
     "symbol": "bnb",
     "currencyId": "6450786",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1087,6 +1103,7 @@
   },
   {
     "id": "665c8d3d-a035-45fb-9c9c-7cfaf7da96c6",
+    "name": "astar",
     "symbol": "astr",
     "currencyId": "1634956402",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1106,6 +1123,7 @@
   },
   {
     "id": "793fc038-c134-4d58-af6d-cb7c1be5a4ea",
+    "name": "binance usd",
     "symbol": "busd",
     "currencyId": "1651864420",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1125,6 +1143,7 @@
   },
   {
     "id": "a9d1b0b2-ad4e-4d86-88c5-72a8947099f0",
+    "name": "inter ibtc",
     "symbol": "ibtc",
     "currencyId": "1768060003",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1165,6 +1184,7 @@
   },
   {
     "id": "26a16776-71c9-450d-bfaf-df3a8cd6d277",
+    "name": "fluid xdot",
     "symbol": "xdot",
     "currencyId": "2019848052",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1174,6 +1194,7 @@
   },
   {
     "id": "1eb9d66e-a92d-49c5-95fc-fd7a844fc66d",
+    "name": "equilibrium dot",
     "symbol": "eqdot",
     "currencyId": "435694104436",
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -1192,6 +1213,7 @@
   },
   {
     "id": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5",
+    "name": "tinkernet parachain",
     "symbol": "tnkr",
     "chainId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
     "precision": 12,
@@ -1200,6 +1222,7 @@
   },
   {
     "id": "19763697-37d8-4643-b840-3fd8565f5d83",
+    "name": "gm parachain",
     "symbol": "fren",
     "chainId": "19a3733beb9cb8a970a308d835599e9005e02dc007a35440e461a451466776f8",
     "precision": 12,
@@ -1208,6 +1231,7 @@
   },
   {
     "id": "c01b37ab-eefa-427d-ba50-dd7a1cbe1798",
+    "name": "imbue network",
     "symbol": "imbu",
     "chainId": "ca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
     "precision": 12,
@@ -1216,6 +1240,7 @@
   },
   {
     "id": "b861f610-cf2c-43ad-a660-f6b809a05062",
+    "name": "darwinia",
     "symbol": "ring",
     "chainId": "e71578b37a7c799b0ab4ee87ffa6f059a6b98f71f06fb8c84a8d88013a548ad6",
     "precision": 18,
@@ -1224,6 +1249,7 @@
   },
   {
     "id": "b2e6c029-ae73-46f9-9660-51d7034ddc53",
+    "name": "amplitude",
     "symbol": "ampe",
     "chainId": "cceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
     "precision": 12,
@@ -1232,6 +1258,7 @@
   },
   {
     "id": "7512aeb7-7bdc-42dc-abe3-80ed764c80bd",
+    "name": "kylin network",
     "symbol": "kyl",
     "chainId": "f2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
     "precision": 18,
@@ -1240,6 +1267,7 @@
   },
   {
     "id": "03561957-3383-4f9f-8033-1b2c36d88db6",
+    "name": "kusama",
     "symbol": "unit",
     "chainId": "6e938c4a786f8df6f38d0c06f00a8573f1f7aabeebf48aee5157a93cc5fe3271",
     "precision": 12,
@@ -1248,6 +1276,7 @@
   },
   {
     "id": "405e7e40-a2f1-45a3-a32f-7f271b2819d2",
+    "name": "polkadot",
     "symbol": "unit",
     "chainId": "fd4d46e9a51e16babf791b94d6dbf771ed1d7de8a11b310aa98c847890fa9ff3",
     "precision": 10,
@@ -1256,6 +1285,7 @@
   },
   {
     "id": "e739d665-7af5-4e65-ab5f-93f54a5b70b3",
+    "name": "snow",
     "symbol": "icz",
     "chainId": "b34f6cd03a41f0fab38ba9fd5b11cce5f303633c46f39f0c6fdc7c3c602bafa9",
     "precision": 18,
@@ -1275,6 +1305,7 @@
   },
   {
     "id": "0ecacd48-ffd4-4a2e-87e3-c5f72f9a9877",
+    "name": "sora validator",
     "symbol": "val",
     "currencyId": "0x0200040000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1286,6 +1317,7 @@
   },
   {
     "id": "87ba5538-34db-4d53-9104-25f42b0bb55b",
+    "name": "polkaswap",
     "symbol": "pswap",
     "currencyId": "0x0200050000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1297,6 +1329,7 @@
   },
   {
     "id": "038a7045-af00-466d-b72b-95485c4674b7",
+    "name": "sora synthetics",
     "symbol": "xst",
     "currencyId": "0x0200090000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1308,6 +1341,7 @@
   },
   {
     "id": "c96e012c-0786-4980-9750-bae61de0aa19",
+    "name": "sora synthetic usd",
     "symbol": "xstusd",
     "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1319,6 +1353,7 @@
   },
   {
     "id": "7bcc178d-1ebe-46b8-88fb-79649828f21d",
+    "name": "demeter",
     "symbol": "deo",
     "currencyId": "0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1330,6 +1365,7 @@
   },
   {
     "id": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
+    "name": "ceres",
     "symbol": "ceres",
     "currencyId": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1341,6 +1377,7 @@
   },
   {
     "id": "38eae54b-723d-457c-8d45-4beab249612f",
+    "name": "noir token",
     "symbol": "noir",
     "currencyId": "0x0044aee0776cfb826434af8ef0f8e2c7e9e6644cfda0ae0f02c471b1eebc2483",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1352,6 +1389,7 @@
   },
   {
     "id": "2565e418-d5bc-4318-99b5-53e893681518",
+    "name": "umitoken",
     "symbol": "umi",
     "currencyId": "0x003252667a82d2dd70fa046eea663eaec1f2e37c20879f113b880b04c5ebd805",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1374,6 +1412,7 @@
   },
   {
     "id": "1b20dfcd-a40d-4850-a407-5a45f3bf4889",
+    "name": "binance usd",
     "symbol": "busd",
     "currencyId": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1385,6 +1424,7 @@
   },
   {
     "id": "5c017385-e702-47d2-8f3a-ac8146c2b9dd",
+    "name": "usd coin",
     "symbol": "usdc",
     "currencyId": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
     "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
@@ -1407,6 +1447,7 @@
   },
   {
     "id": "24d0809e-0a4c-42ea-bdd8-dc7a518f389c",
+    "name": "sora validator",
     "symbol": "val",
     "currencyId": "0x0200040000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1418,6 +1459,7 @@
   },
   {
     "id": "37a999a2-5e90-4448-8b0e-98d06ac8f9d4",
+    "name": "polkaswap",
     "symbol": "pswap",
     "currencyId": "0x0200050000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1429,6 +1471,7 @@
   },
   {
     "id": "75a0bc9b-a1fb-446e-8781-621036bfd979",
+    "name": "sora synthetics",
     "symbol": "xst",
     "currencyId": "0x0200090000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1440,6 +1483,7 @@
   },
   {
     "id": "217925d8-c529-4480-98e5-b8bf651129ef",
+    "name": "sora synthetic usd",
     "symbol": "xstusd",
     "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1451,6 +1495,7 @@
   },
   {
     "id": "5e3de486-789e-4e47-8f49-870852cfebb6",
+    "name": "demeter",
     "symbol": "deo",
     "currencyId": "0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1462,6 +1507,7 @@
   },
   {
     "id": "8fe0cbf4-7ece-45f6-968b-5c1b77accff0",
+    "name": "ceres",
     "symbol": "ceres",
     "currencyId": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1473,6 +1519,7 @@
   },
   {
     "id": "079f2a74-1440-440c-b826-6d85a7dd3a91",
+    "name": "noir token",
     "symbol": "noir",
     "currencyId": "0x0044aee0776cfb826434af8ef0f8e2c7e9e6644cfda0ae0f02c471b1eebc2483",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1484,6 +1531,7 @@
   },
   {
     "id": "2de2b668-33cd-4e85-a501-4921481e618f",
+    "name": "umitoken",
     "symbol": "umi",
     "currencyId": "0x003252667a82d2dd70fa046eea663eaec1f2e37c20879f113b880b04c5ebd805",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1506,6 +1554,7 @@
   },
   {
     "id": "23c41bbb-2e1a-4d64-bbab-5080975ecc1c",
+    "name": "binance usd",
     "symbol": "busd",
     "currencyId": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1517,6 +1566,7 @@
   },
   {
     "id": "c8ce20ed-8690-4b46-9b3d-872e325ae636",
+    "name": "usd coin",
     "symbol": "usdc",
     "currencyId": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1528,6 +1578,7 @@
   },
   {
     "id": "1e6f8ba3-5aeb-41d8-b80e-a44ce0f33716",
+    "name": "dai",
     "symbol": "dai",
     "currencyId": "0x0200060000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1539,6 +1590,7 @@
   },
   {
     "id": "82f45df3-b6d8-43e7-a440-c0e73ab59785",
+    "name": "ethereum",
     "symbol": "eth",
     "currencyId": "0x0200070000000000000000000000000000000000000000000000000000000000",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1550,6 +1602,7 @@
   },
   {
     "id": "94e573f3-a9f3-4f7e-9244-8492288ca558",
+    "name": "soshiba",
     "symbol": "soshiba",
     "currencyId": "0x005aa73d7a4a3fdbe830c7d0ee26c09ba7f1db119da86d5b4dcb6609dac5ceb5",
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -1560,6 +1613,7 @@
   },
   {
     "id": "4ea52d6e-a433-4f11-a811-4634068c79a2",
+    "name": "aleph zero",
     "symbol": "azero",
     "chainId": "70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
     "precision": 12,
@@ -1580,6 +1634,7 @@
   },
   {
     "id": "b20185e9-2f5c-4c3d-bd5a-c751cd76d439",
+    "name": "dao ipci",
     "symbol": "mito",
     "chainId": "6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
     "precision": 12,
@@ -1598,6 +1653,7 @@
   },
   {
     "id": "3a1cc15e-903b-4102-9384-364c00e67283",
+    "name": "zero",
     "symbol": "zero",
     "chainId": "2991d4125ac465d64c4c0b915fedd7168b5961b7676480636e3747f1ad64cfb9",
     "precision": 18,
@@ -1616,6 +1672,7 @@
   },
   {
     "id": "b0afcb19-5d4c-442c-ac0f-53c64b1ea0ae",
+    "name": "ajuna network",
     "symbol": "ajun",
     "chainId": "e358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
     "precision": 12,
@@ -1625,6 +1682,7 @@
   },
   {
     "id": "26c62511-6300-41ef-b760-c94dd6b0f8a5",
+    "name": "bitgreen",
     "symbol": "bbb",
     "chainId": "c14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
     "precision": 18,
@@ -1633,6 +1691,7 @@
   },
   {
     "id": "07ad91ea-1cb6-47dd-bc57-0e884727c5bf",
+    "name": "crust network",
     "symbol": "cru",
     "chainId": "4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
     "precision": 12,
@@ -1642,6 +1701,7 @@
   },
   {
     "id": "598af8e7-c0ad-4785-80cf-669705c93dd9",
+    "name": "frequency",
     "symbol": "frqcy",
     "chainId": "4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
     "precision": 8,
@@ -1650,6 +1710,7 @@
   },
   {
     "id": "a99dd750-0c15-49df-a86f-6caa577614bc",
+    "name": "kapex parachain",
     "symbol": "kpx",
     "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
     "precision": 12,
