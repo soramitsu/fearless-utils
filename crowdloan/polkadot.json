@@ -387,7 +387,7 @@
     "token": "VARCH",
     "description": "The ultimate layer-1 network for the DAO economy, an application-specific blockchain & a service parachain that empowers the Polkadot ecosystem.",
     "website": "https://invarch.network/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/invarch.png",
     "rewardRate": 100
   },
   {
@@ -396,7 +396,7 @@
     "token": "PEAQ",
     "description": "A decentralized Web3 network powering the Economy of Things. Built with Substrate and designed to solve some of our biggest societal and economic challenges, it ensures that the incentives of people and increasingly intelligent machines are aligned.",
     "website": "https://peaq.network",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/peak.png",
     "rewardRate": 140
   }
 ]
