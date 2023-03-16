@@ -396,7 +396,7 @@
     "token": "PEAQ",
     "description": "A decentralized Web3 network powering the Economy of Things. Built with Substrate and designed to solve some of our biggest societal and economic challenges, it ensures that the incentives of people and increasingly intelligent machines are aligned.",
     "website": "https://peaq.network",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/peak.png",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/peaq.png",
     "rewardRate": 140
   }
 ]
