@@ -569,7 +569,7 @@
     "externalApi": {
         "staking": {
           "type": "subsquid",
-          "url": "https://squid.subsquid.io/fearless-x-moonriver/v/v1/graphql"
+          "url": "https://squid.subsquid.io/fearless-moonriver-1/v/v2/graphql"
         },
       "history": {
         "type": "giantsquid",
