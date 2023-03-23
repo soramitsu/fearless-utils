@@ -400,5 +400,14 @@
     "website": "https://peaq.network",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/peaq.png",
     "rewardRate": 140
+  },
+  {
+    "paraid": "3334",
+    "name": "Moonsama",
+    "token": "SAMA",
+    "description": "A pioneer generative NFT collection and the first NFT marketplace constructed on the Moonriver Network.",
+    "website": "https://moonsama.com/",
+    "icon": "",
+    "rewardRate": 30
   }
 ]
