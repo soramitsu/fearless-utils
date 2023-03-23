@@ -1285,7 +1285,7 @@
     "externalApi": {
         "staking": {
           "type": "subsquid",
-          "url": "https://squid.subsquid.io/fearless-x-moonbeam/v/v1/graphql"
+          "url": "https://squid.subsquid.io/fearless-x-moonbeam/v/v2/graphql"
         },
       "history": {
         "type": "giantsquid",
