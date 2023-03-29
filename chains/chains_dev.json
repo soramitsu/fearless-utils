@@ -1777,7 +1777,8 @@
         "assets": [
             {
                 "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f",
-                "isUtility": true
+                "isUtility": true,
+                "staking": "relaychain"
             }
         ],
         "nodes": [
@@ -2843,7 +2844,8 @@
     "assets": [
       {
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
-        "isUtility": true
+        "isUtility": true,
+        "staking": "relaychain"
       },
       {
         "type": "soraAsset",
@@ -2944,7 +2946,8 @@
     "assets": [
         {
             "assetId": "4ea52d6e-a433-4f11-a811-4634068c79a2",
-            "isUtility": true
+            "isUtility": true,
+            "staking": "relaychain"
         }
     ],
     "nodes": [
