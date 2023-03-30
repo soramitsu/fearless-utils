@@ -2977,5 +2977,75 @@
       "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kapex.json",
       "overridesCommon": true
     }
+  },
+  {
+    "chainId": "5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
+    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "paraId": "2094",
+    "name": "Pendulum",
+    "assets": [
+      {
+        "assetId": "ebf2822f-2dd4-4f59-aeb3-ae7defa53932",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://rpc-pendulum.prd.pendulumchain.tech",
+        "name": "PendulumChain node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Pendulum.svg",
+    "addressPrefix": 56,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pendulum.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "6859c81ca95ef624c9dfe4dc6e3381c33e5d6509e35e147092bfbc780f777c4e",
+    "name": "Ternoa Mainnet",
+    "assets": [
+      {
+        "assetId": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://mainnet.ternoa.network",
+        "name": "CapsuleCorp node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Ternoa.svg",
+    "addressPrefix": 42,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ternoa.json",
+      "overridesCommon": true
+    }
+  },
+  {
+    "chainId": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
+    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    "paraId": "2011",
+    "name": "SORA Kusama parachain",
+    "assets": [
+      {
+        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604",
+        "isUtility": true
+      }
+    ],
+    "nodes": [
+      {
+        "url": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp",
+        "name": "Soramitsu node"
+      }
+    ],
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
+    "addressPrefix": 420,
+    "types": {
+      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora.json",
+      "overridesCommon": true
+    }
   }
 ]
