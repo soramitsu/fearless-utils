@@ -407,7 +407,7 @@
     "token": "SAMA",
     "description": "A pioneer generative NFT collection and the first NFT marketplace constructed on the Moonriver Network.",
     "website": "https://moonsama.com/",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Moonsama.png",
     "rewardRate": 30
   }
 ]
