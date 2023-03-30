@@ -3243,7 +3243,7 @@
   "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Ternoa.svg",
   "addressPrefix": 42,
   "types": {
-    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/CAPS.json",
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ternoa.json",
     "overridesCommon": true
   }
 },
