@@ -3234,7 +3234,8 @@
   "assets": [
     {
       "assetId": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
-      "isUtility": true
+      "isUtility": true,
+      "staking": "relaychain"
     }
   ],
   "nodes": [
