@@ -1569,5 +1569,24 @@
     "precision": 12,
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/KPX.svg",
     "color": "306EB6"
+  },
+  {
+    "id": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
+    "name": "ternoa",
+    "symbol": "caps",
+    "chainId": "6859c81ca95ef624c9dfe4dc6e3381c33e5d6509e35e147092bfbc780f777c4e",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CAPS.svg",
+    "color": "FF002B"
+  },
+  {
+    "id": "ebf2822f-2dd4-4f59-aeb3-ae7defa53932",
+    "name": "pendulum",
+    "symbol": "pen",
+    "chainId": "5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
+    "precision": 12,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PEN.svg",
+    "color": "8D809E"
   }
 ]
+
