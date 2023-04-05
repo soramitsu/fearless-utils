@@ -2826,6 +2826,10 @@
     "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
     "name": "SORA Mainnet",
     "externalApi": {
+        "staking": {
+            "type": "subquery",
+            "url": "https://api.subquery.network/sq/sora-xor/sora-prod-sub4"
+        },
       "history": {
         "type": "sora",
         "url": "https://api.subquery.network/sq/sora-xor/sora-prod-sub4"
