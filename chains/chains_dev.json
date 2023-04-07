@@ -2843,6 +2843,7 @@
     "assets": [
       {
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
+        "staking": "relaychain",
         "isUtility": true
       },
       {
