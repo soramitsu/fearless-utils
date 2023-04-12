@@ -2730,7 +2730,8 @@
     "assets": [
       {
         "assetId": "b5a44630-920e-43ee-809f-61890d0888b0",
-        "isUtility": true
+        "isUtility": true,
+        "staking": "relaychain"
       },
       {
         "type": "soraAsset",
