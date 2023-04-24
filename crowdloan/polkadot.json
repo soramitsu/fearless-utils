@@ -343,7 +343,8 @@
     "token": "HASH",
     "description": "Hashed Network enables the full lifecycle for digitally-native organizations and web3-curious businesses seeking benefits of decentralized digital economies.",
     "website": "https://hashed.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Hashed.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Hashed.png",
+    "disabled": true
   },
   {
     "paraid": "2092",
@@ -360,7 +361,54 @@
     "token": "PEN",
     "description": "Pendulum is an open-source blockchain that aims to establish the missing link between the fiat and the DeFi ecosystems through a fiat-optimized smart contract blockchain.",
     "website": "https://pendulumchain.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Pendulum.png",
+    "disabled": true
+  },
+  {
+    "paraid": "2097",
+    "name": "2097",
+    "token": "",
+    "description": "",
+    "website": "",
     "icon": "",
+    "disabled": true
+  },
+  {
+    "paraid": "2025",
+    "name": "SORA",
+    "token": "TBCD",
+    "description": "SORA is building a rational monetary system using decentralized technologies with democratic governance by all participants in order to fulfill humanity's true potential towards the next stage of our evolution.",
+    "website": "https://sora.org/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png",
+    "rewardRate": 3
+    
+  },
+  {
+    "paraid": "3340",
+    "name": "InvArch",
+    "token": "VARCH",
+    "description": "The ultimate layer-1 network for the DAO economy, an application-specific blockchain & a service parachain that empowers the Polkadot ecosystem.",
+    "website": "https://invarch.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/invarch.png",
+    "rewardRate": 100
+  },
+  {
+    "paraid": "3338",
+    "name": "peaq",
+    "token": "PEAQ",
+    "description": "A decentralized Web3 network powering the Economy of Things. Built with Substrate and designed to solve some of our biggest societal and economic challenges, it ensures that the incentives of people and increasingly intelligent machines are aligned.",
+    "website": "https://peaq.network",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/peaq.png",
+    "rewardRate": 140
+  },
+  {
+    "paraid": "3334",
+    "name": "Moonsama",
+    "token": "SAMA",
+    "description": "A pioneer generative NFT collection and the first NFT marketplace constructed on the Moonriver Network.",
+    "website": "https://moonsama.com/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/Moonsama.png",
+    "rewardRate": 30,
     "disabled": true
   }
 ]

@@ -10,8 +10,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "GenericEvent": "totem_parachain_runtime::RuntimeEvent",
-                "GenericCall": "totem_parachain_runtime::RuntimeCall"
+                "GenericEvent": "pendulum_runtime::RuntimeEvent",
+                "GenericCall": "pendulum_runtime::RuntimeCall"
             }
         }
     ]
