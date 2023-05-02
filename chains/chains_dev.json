@@ -2907,7 +2907,8 @@
     "assets": [
       {
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
-        "isUtility": true
+        "isUtility": true,
+        "staking": "relaychain"
       },
       {
         "type": "soraAsset",
@@ -3311,7 +3312,8 @@
   "assets": [
     {
       "assetId": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
-      "isUtility": true
+      "isUtility": true,
+      "staking": "relaychain"
     }
   ],
   "nodes": [
