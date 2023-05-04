@@ -1861,8 +1861,8 @@
     "name": "Litentry",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/Litentry-x-Fearless-Wallet"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-litentry/graphql"
       }
     },
     "assets": [
