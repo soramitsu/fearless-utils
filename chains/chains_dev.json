@@ -3307,6 +3307,10 @@
     "history": {
       "type": "giantsquid",
       "url": "https://squid.subsquid.io/gs-main-ternoa/graphql"
+    },
+    "staking": {
+      "type": "giantsquid",
+      "url": "https://squid.subsquid.io/gs-main-ternoa/graphql"
     }
   },
   "assets": [
