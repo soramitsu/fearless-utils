@@ -2989,7 +2989,7 @@
         "name": "SORA Parliament Ministry of Finance Node"
       },
       {
-        "url": "wss://sora.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://sora.api.onfinality.io/public-ws",
         "name": "OnFinality node"
       }
     ],
