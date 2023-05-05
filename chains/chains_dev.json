@@ -2981,11 +2981,11 @@
         "name": "SORA Parliament Ministry of Finance Node"
       },
  	    {
-        "url": "wss://ws.mof2.sora.org",
+        "url": "wss://mof2.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
       {
-        "url": "wss://ws.mof3.sora.org",
+        "url": "wss://mof3.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
       {
