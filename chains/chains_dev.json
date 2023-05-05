@@ -2987,6 +2987,10 @@
       {
         "url": "wss://mof3.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
+      },
+      {
+        "url": "wss://sora.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
