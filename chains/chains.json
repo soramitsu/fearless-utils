@@ -819,8 +819,8 @@
     "name": "KILT Spiritnet",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-kilt"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-kilt/graphql"
       },
       "explorers": [
         {
