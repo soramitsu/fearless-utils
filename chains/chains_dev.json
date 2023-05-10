@@ -1377,8 +1377,12 @@
         "name": "Moonbeam Network node"
       },
       {
-        "url": "wss://rpc.pinknode.io/alphanet/explorer",
-        "name": "Pinknode node"
+        "url": "wss://moonbase-alpha.public.blastapi.io",
+        "name": "Blast node"
+      },
+      {
+        "url": "wss://moonbase.unitedbloc.com",
+        "name": "UnitedBloc node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
