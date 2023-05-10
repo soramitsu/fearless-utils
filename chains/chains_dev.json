@@ -534,10 +534,6 @@
         "name": "Acala Foundation node 0"
       },
       {
-        "url": "wss://karura-rpc-1.aca-api.network",
-        "name": "Acala Foundation node 1"
-      },
-      {
         "url": "wss://karura-rpc-2.aca-api.network/ws",
         "name": "Acala Foundation node 2"
       },
