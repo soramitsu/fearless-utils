@@ -362,11 +362,7 @@
         "name": "Acala Foundation node 0"
       },
       {
-        "url": "wss://acala-rpc-1.aca-api.network",
-        "name": "Acala Foundation node 1"
-      },
-      {
-        "url": "wss://acala-rpc-3.aca-api.network",
+        "url": "wss://acala-rpc-3.aca-api.network/ws",
         "name": "Acala Foundation node 3"
       },
       {
