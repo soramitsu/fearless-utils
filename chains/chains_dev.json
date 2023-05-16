@@ -595,12 +595,16 @@
         "name": "PureStake node"
       },
       {
-        "url": "wss://rpc.pinknode.io/moonriver/explorer",
-        "name": "Pinknode node"
+        "url": "wss://moonriver.unitedbloc.com",
+        "name": "UnitedBloc node"
       },
       {
-        "url": "wss://moonriver-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://wss.api.moonriver.moonbeam.network",
+        "name": "Moonbeam Foundation node"
+      },
+      {
+        "url": "wss://moonriver.public.blastapi.io",
+        "name": "Blast node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
@@ -650,8 +654,8 @@
         "name": "StakeTechnologies node"
       },
       {
-        "url": "wss://rpc.pinknode.io/shiden/explorer",
-        "name": "Pinknode node"
+        "url": "wss://shiden.public.blastapi.io",
+        "name": "Blast node"
       },
       {
         "url": "wss://shiden-rpc.dwellir.com",
@@ -881,7 +885,7 @@
     ],
     "nodes": [
       {
-        "url": "wss://ws.calamari.systems/",
+        "url": "wss://calamari.systems",
         "name": "Manta Network node"
       }
     ],
@@ -919,12 +923,20 @@
         "name": "Unique Europe node"
       },
       {
+        "url": "wss://ws-quartz.unique.network",
+        "name": "Geo Load Balancer node"
+      },
+      {
+        "url": "wss://asia-ws-quartz.unique.network",
+        "name": "Unique Asia node"
+      },
+      {
         "url": "wss://quartz.unique.network",
         "name": "Unique node"
       },
       {
         "url": "wss://us-ws-quartz.unique.network",
-        "name": "Unique US node"
+        "name": "Unique America node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
@@ -1008,11 +1020,11 @@
     "nodes": [
       {
         "url": "wss://picasso-rpc.composable.finance",
-        "name": "Composable node"
+        "name": "Composable Finance node"
       },
       {
-        "url": "wss://picasso-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://rpc.composablenodes.tech",
+        "name": "Composable node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/picasso.svg",
@@ -1087,10 +1099,6 @@
       {
         "url": "wss://pioneer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
-      },
-      {
-        "url": "wss://pioneer-1-rpc.bit.country",
-        "name": "Bit.Country node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/bitcountry.svg",
@@ -1129,12 +1137,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://clover.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://rpc-para.clover.finance",
         "name": "Clover node"
+      },
+      {
+        "url": "wss://clover.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/clover.svg",
@@ -1177,12 +1185,20 @@
         "name": "Astar node"
       },
       {
-        "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://astar.public.blastapi.io",
+        "name": "Blast node"
       },
       {
         "url": "wss://astar-rpc.dwellir.com",
         "name": "Dwellir node"
+      },
+      {
+        "url": "wss://astar.public.curie.radiumblock.co/ws",
+        "name": "RadiumBlock node"
+      },
+      {
+        "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/astar.svg",
@@ -1224,12 +1240,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://parallel.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://rpc.parallel.fi",
         "name": "Parallel node"
+      },
+      {
+        "url": "wss://parallel.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
@@ -1307,16 +1323,24 @@
     ],
     "nodes": [
       {
+        "url": "wss://moonbeam.public.blastapi.io",
+        "name": "Blast node"
+      },
+      {
+        "url": "wss://wss.api.moonbeam.network",
+        "name": "Moonbeam Foundation node"
+      },
+      {
+        "url": "wss://moonbeam.unitedbloc.com",
+        "name": "UnitedBloc node"
+      },
+      {
         "url": "wss://moonbeam.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
-        "url": "wss://wss.api.moonbeam.network",
-        "name": "PureStake node"
-      },
-      {
-        "url": "wss://moonbeam-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://1rpc.io/glmr",
+        "name": "Automata 1RPC node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
@@ -1361,10 +1385,6 @@
     ],
     "nodes": [
       {
-        "url": "wss://moonbeam-alpha.api.onfinality.io/public-ws",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://wss.api.moonbase.moonbeam.network",
         "name": "Moonbeam Network node"
       },
@@ -1375,6 +1395,10 @@
       {
         "url": "wss://moonbase.unitedbloc.com",
         "name": "UnitedBloc node"
+      },
+      {
+        "url": "wss://moonbeam-alpha.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonbeam.svg",
@@ -1408,16 +1432,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://kintsugi.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://api-kusama.interlay.io/parachain",
         "name": "Kintsugi Labs node"
       },
       {
-        "url": "wss://kintsugi-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://kintsugi.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kintsugi.svg",
@@ -1441,8 +1461,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://node1.genshiro.io/",
+        "url": "wss://node.ksm.genshiro.io",
         "name": "Genshiro node"
+      },
+      {
+        "url": "wss://node1.genshiro.io/",
+        "name": "Genshiro 1 node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Genshiro.svg",
@@ -1477,16 +1501,20 @@
     ],
     "nodes": [
       {
-        "url": "wss://kusama.rpc.robonomics.network/",
+        "url": "wss://kusama.rpc.robonomics.network",
         "name": "Airalab node"
       },
       {
-        "url": "wss://robonomics.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "url": "wss://robonomics.leemo.me",
+        "name": "Leemo node"
       },
       {
-        "url": "wss://robonomics-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://robonomics.0xsamsara.com",
+        "name": "Samsara node"
+      },
+      {
+        "url": "wss://robonomics.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/robonomics.svg",
@@ -1545,10 +1573,6 @@
     ],
     "nodes": [
       {
-        "url": "wss://rpc-0.zeitgeist.pm",
-        "name": "ZeitgeistPM node"
-      },
-      {
         "url": "wss://zeitgeist.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "Onfinalty node"
       },
@@ -1598,7 +1622,7 @@
       },
       {
         "url": "wss://efinity.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "name": "OnFinality node"
       },
       {
         "url": "wss://efinity-rpc.dwellir.com",
@@ -1650,7 +1674,11 @@
       },
       {
         "url": "wss://hydradx.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "name": "OnFinality node"
+      },
+      {
+        "url": "wss://rpc-lb.data6.zp-labs.net:8443/hydradx/ws/?token=2ZGuGivPJJAxXiT1hR1Yg2MXGjMrhEBYFjgbdPi",
+        "name": "ZeePrime node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/hydradx.svg",
@@ -1694,7 +1722,7 @@
       },
       {
         "url": "wss://centrifuge-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/centrifuge.svg",
@@ -1717,12 +1745,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://nodle-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://eden-rpc.dwellir.com",
         "name": "Dwellir node"
+      },
+      {
+        "url": "wss://nodle-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/nodle.svg",
@@ -1746,12 +1774,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://interlay.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      },
-      {
         "url": "wss://api.interlay.io/parachain",
         "name": "Kintsugi Labs node"
+      },
+      {
+        "url": "wss://interlay.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/interlay.svg",
@@ -1810,14 +1838,13 @@
         ],
         "nodes": [
             {
-                "url": "wss://polkadex.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-                "name": "Onfinalty node"
+                "url": "wss://mainnet.polkadex.trade",
+                "name": "Polkadex Team node"
             },
             {
-                "url": "wss://mainnet.polkadex.trade",
-                "name": "Polkadex team node"
+              "url": "wss://polkadex.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+              "name": "Onfinalty node"
             }
-
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/polkadex.svg",
         "addressPrefix": 88,
@@ -1907,6 +1934,10 @@
       ],
       "nodes": [
           {
+              "url": "wss://ws.unique.network",
+              "name": "Geo Load Balancer node"
+          },
+          {
               "url": "wss://eu-ws.unique.network",
               "name": "Unique Europe node"
           },
@@ -1957,6 +1988,10 @@
       {
         "url": "wss://hk.p.bifrost-rpc.liebi.com/ws",
         "name": "Liebi node"
+      },
+      {
+        "url": "wss://bifrost-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
@@ -2021,6 +2056,14 @@
       {
         "url": "wss://api.phala.network/ws",
         "name": "Phala node"
+      },
+      {
+        "url": "wss://phala-rpc.dwellir.com",
+        "name": "Dwellir node"
+      },
+      {
+        "url": "wss://phala.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/phala.svg",
@@ -2063,8 +2106,8 @@
         "name": "Composable node"
       },
       {
-        "url": "wss://composable-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://composable.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/composable.svg",
@@ -2098,11 +2141,11 @@
       },
       {
         "url": "wss://bajun.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "name": "OnFinality node"
       },
       {
-        "url": "wss://bajun-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://bajun.public.curie.radiumblock.co/ws",
+        "name": "RadiumBlock node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
@@ -2160,14 +2203,6 @@
       }
     ],
     "nodes": [
-      {
-        "url": "wss://rpc.kico.dico.io",
-        "name": "DICO Foundation node"
-      },
-      {
-        "url": "wss://rpc.api.kico.dico.io",
-        "name": "DICO Foundation 2 node"
-      }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/KICO.svg",
     "addressPrefix": 42,
@@ -2193,8 +2228,16 @@
         "name": "Mangata node"
       },
       {
+        "url": "wss://kusama-archive.mangata.online",
+        "name": "Mangata Archive node"
+      },
+      {
+        "url": "wss://kusama-rpc.mangata.online",
+        "name": "Mangata RPC node"
+      },
+      {
         "url": "wss://mangata-x.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "Onfinality node"
+        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/MagnataX.svg",
@@ -2317,7 +2360,7 @@
     "nodes": [
       {
         "url": "wss://node.pol.equilibrium.io",
-        "name": "Parity node"
+        "name": "Equilibrium node"
       },
       {
         "url": "wss://equilibrium-rpc.dwellir.com",
@@ -2412,6 +2455,14 @@
           "name": "Encointer Association node"
         },
         {
+          "url": "wss://sys.ibp.network/encointer-kusama",
+          "name": "IBP-GeoDNS1 node"
+        },
+        {
+          "url": "wss://sys.dotters.network/encointer-kusama",
+          "name": "IBP-GeoDNS2 node"
+        },
+        {
           "url": "wss://encointer.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
           "name": "Onfinalty node"
         }
@@ -2444,10 +2495,6 @@
         {
           "url": "wss://kusama.kylin-node.co.uk",
           "name": "Kylin Network node"
-        },
-        {
-          "url": "wss://pichiu.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-          "name": "Onfinality node"
         }
       ],
       "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/pichiu.svg",
@@ -2476,8 +2523,8 @@
         ],
         "nodes": [
           {
-            "url": "wss://invarch-tinkernet.api.onfinality.io/public-ws",
-            "name": "InvArch onfinality node"
+            "url": "wss://invarch-tinkernet.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+            "name": "OnFinality node"
           }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Tinkernet.svg",
@@ -2512,12 +2559,7 @@
           {
             "url": "wss://ws.gm.bldnodes.org",
             "name": "bLd Nodes node"
-          },
-          {
-            "url": "wss://intern.gmordie.com",
-            "name": "intern node"
           }
-
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/GM%20Parachain.svg",
         "addressPrefix": 7013,
@@ -2544,11 +2586,6 @@
           }
         ],
         "nodes": [
-          {
-            "url": "wss://imbue-kusama.imbue.network",
-            "name": "Imbue Network node node"
-          }
-
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Imbue.svg",
         "addressPrefix": 42,
@@ -2576,12 +2613,16 @@
         ],
         "nodes": [
           {
+            "url": "wss://rpc-amplitude.pendulumchain.tech",
+            "name": "PendulumChain node"
+          },
+          {
             "url": "wss://amplitude-rpc.dwellir.com",
             "name": "Dwellir node"
           },
           {
-            "url": "wss://rpc-amplitude.pendulumchain.tech",
-            "name": "PendulumChain node"
+            "url": "wss://pencol-kus-01.pendulumchain.tech",
+            "name": "PendulumChain 1 node"
           }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Amplitude.svg",
@@ -2620,8 +2661,16 @@
         ],
         "nodes": [
           {
+            "url": "wss://rpc.darwinia.network",
+            "name": "Darwinia Network node"
+          },
+          {
+            "url": "wss://darwinia-rpc.dwellir.com",
+            "name": "Dwellir node"
+          },
+          {
             "url": "wss://parachain-rpc.darwinia.network",
-            "name": "Darwinia network node"
+            "name": "Darwinia Network 1 node"
           }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg",
@@ -2764,11 +2813,6 @@
           }
       ],
       "nodes": [
-          {
-              "url": "wss://snow-rpc.icenetwork.io",
-              "name": "Snow node"
-          }
-
       ],
       "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SNOW.svg",
       "addressPrefix": 2207,
@@ -2865,10 +2909,6 @@
       {
         "url": "wss://ws.framenode-5.s3.stg1.sora2.soramitsu.co.jp",
         "name": "Sora Test Node #5"
-      },
-      {
-        "url": "wss://ws.framenode-6.s3.stg1.sora2.soramitsu.co.jp",
-        "name": "Sora Test Node #6"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
@@ -3038,6 +3078,14 @@
     {
       "url": "wss://kusama-bridge-hub-rpc.polkadot.io",
       "name": "Parity node"
+    },
+    {
+      "url": "wss://sys.ibp.network/bridgehub-kusama",
+      "name": "IBP-GeoDNS1 node"
+    },
+    {
+      "url": "wss://sys.dotters.network/bridgehub-kusama",
+      "name": "IBP-GeoDNS2 node"
     }
   ],
   "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bridgehub.svg",
@@ -3100,12 +3148,12 @@
   ],
   "nodes": [
     {
-      "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-      "name": "OnFinality node"
-    },
-    {
       "url": "wss://kusama.api.integritee.network",
       "name": "Integritee node"
+    },
+    {
+      "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+      "name": "OnFinality node"
     }
   ],
   "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
@@ -3152,7 +3200,7 @@
   ],
   "nodes": [
     {
-      "url": "wss://rpc-parachain.ajuna.network.io",
+      "url": "wss://rpc-parachain.ajuna.network",
       "name": "AjunaNetwork node"
     },
     {
@@ -3258,6 +3306,10 @@
     {
       "url": "wss://k-ui.kapex.network",
       "name": "Totem node"
+    },
+    {
+      "url": "wss://kapex-rpc.dwellir.com",
+      "name": "Dwellir node"
     }
   ],
   "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kapex%20(Totem).svg",
