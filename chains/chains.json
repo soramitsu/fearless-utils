@@ -56,7 +56,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -127,7 +127,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -186,7 +186,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://westend.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://westend.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -239,7 +239,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://statemine.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://statemine.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -277,7 +277,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://statemint.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://statemint.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -370,7 +370,7 @@
         "name": "Acala Foundation node 3"
       },
       {
-        "url": "wss://acala-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://acala-polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -546,7 +546,7 @@
         "name": "Polkawallet node"
       },
       {
-        "url": "wss://karura.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://karura.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -603,7 +603,7 @@
         "name": "UnitedBloc node"
       },
       {
-        "url": "wss://moonriver.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://moonriver.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Blast node"
       },
       {
-        "url": "wss://shiden.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://shiden.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -753,7 +753,7 @@
         "name": "Liebi node"
       },
       {
-        "url": "wss://bifrost-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://bifrost-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -801,7 +801,7 @@
         "name": "Phala node"
       },
       {
-        "url": "wss://khala.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://khala.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -849,7 +849,7 @@
         "name": "KILT Protocol node"
       },
       {
-        "url": "wss://spiritnet.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://spiritnet.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -939,7 +939,7 @@
         "name": "Unique node"
       },
       {
-        "url": "wss://quartz.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://quartz.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -983,7 +983,7 @@
         "name": "Parallel node"
       },
       {
-        "url": "wss://parallel-heiko.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://parallel-heiko.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1071,7 +1071,7 @@
         "name": "Centrifuge node"
       },
       {
-        "url": "wss://altair.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://altair.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1101,7 +1101,7 @@
     ],
     "nodes": [
       {
-        "url": "wss://pioneer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://pioneer.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1145,7 +1145,7 @@
         "name": "Clover node"
       },
       {
-        "url": "wss://clover.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://clover.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1201,7 +1201,7 @@
         "name": "RadiumBlock node"
       },
       {
-        "url": "wss://astar.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://astar.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1248,7 +1248,7 @@
         "name": "Parallel node"
       },
       {
-        "url": "wss://parallel.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://parallel.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1339,7 +1339,7 @@
         "name": "UnitedBloc node"
       },
       {
-        "url": "wss://moonbeam.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://moonbeam.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -1381,7 +1381,7 @@
         "name": "Kintsugi Labs node"
       },
       {
-        "url": "wss://kintsugi.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://kintsugi.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1458,7 +1458,7 @@
         "name": "Samsara node"
       },
       {
-        "url": "wss://robonomics.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://robonomics.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1506,7 +1506,7 @@
     ],
     "nodes": [
       {
-        "url": "wss://zeitgeist.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://zeitgeist.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -1554,7 +1554,7 @@
         "name": "Efinity node"
       },
       {
-        "url": "wss://efinity.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://efinity.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -1606,7 +1606,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://hydradx.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://hydradx.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -1654,7 +1654,7 @@
         "name": "Centrufge node"
       },
       {
-        "url": "wss://centrifuge-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://centrifuge-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1682,7 +1682,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://nodle-parachain.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://nodle-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1711,7 +1711,7 @@
         "name": "Kintsugi Labs node"
       },
       {
-        "url": "wss://interlay.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://interlay.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1763,7 +1763,7 @@
                 "name": "Polkadex Team node"
             },
             {
-              "url": "wss://polkadex.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+              "url": "wss://polkadex.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
               "name": "Onfinalty node"
             }
         ],
@@ -1870,7 +1870,7 @@
         "name": "Liebi node"
       },
       {
-        "url": "wss://bifrost-polkadot.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://bifrost-polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1942,7 +1942,7 @@
         "name": "Dwellir node"
       },
       {
-        "url": "wss://phala.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://phala.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -1986,7 +1986,7 @@
         "name": "Composable node"
       },
       {
-        "url": "wss://composable.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://composable.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -2014,7 +2014,7 @@
         "name": "AjunaNetwork node"
       },
       {
-        "url": "wss://bajun.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://bajun.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
@@ -2275,7 +2275,7 @@
           "name": "IBP-GeoDNS2 node"
         },
         {
-          "url": "wss://encointer.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+          "url": "wss://encointer.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
           "name": "Onfinalty node"
         }
       ],
@@ -2305,7 +2305,7 @@
         ],
         "nodes": [
           {
-            "url": "wss://invarch-tinkernet.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+            "url": "wss://invarch-tinkernet.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
             "name": "OnFinality node"
           }
         ],
@@ -2601,7 +2601,7 @@
         "name": "SORA Parliament Ministry of Finance Node"
       },
       {
-        "url": "wss://sora.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://sora.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
@@ -2723,7 +2723,7 @@
         "name": "Integritee node"
       },
       {
-        "url": "wss://integritee-kusama.api.onfinality.io/ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       }
     ],
