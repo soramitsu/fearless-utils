@@ -595,10 +595,6 @@
         "name": "Moonbeam Foundation node"
       },
       {
-        "url": "wss://moonriver.public.blastapi.io",
-        "name": "Blast node"
-      },
-      {
         "url": "wss://moonriver.unitedbloc.com",
         "name": "UnitedBloc node"
       },
@@ -1326,10 +1322,6 @@
       }
     ],
     "nodes": [
-      {
-        "url": "wss://moonbeam.public.blastapi.io",
-        "name": "Blast node"
-      },
       {
         "url": "wss://wss.api.moonbeam.network",
         "name": "Moonbeam Foundation node"

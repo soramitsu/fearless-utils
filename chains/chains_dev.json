@@ -601,10 +601,6 @@
       {
         "url": "wss://wss.api.moonriver.moonbeam.network",
         "name": "Moonbeam Foundation node"
-      },
-      {
-        "url": "wss://moonriver.public.blastapi.io",
-        "name": "Blast node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
@@ -1323,10 +1319,6 @@
     ],
     "nodes": [
       {
-        "url": "wss://moonbeam.public.blastapi.io",
-        "name": "Blast node"
-      },
-      {
         "url": "wss://wss.api.moonbeam.network",
         "name": "Moonbeam Foundation node"
       },
@@ -1387,10 +1379,6 @@
       {
         "url": "wss://wss.api.moonbase.moonbeam.network",
         "name": "Moonbeam Network node"
-      },
-      {
-        "url": "wss://moonbase-alpha.public.blastapi.io",
-        "name": "Blast node"
       },
       {
         "url": "wss://moonbase.unitedbloc.com",
