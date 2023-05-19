@@ -1032,6 +1032,15 @@
     "color": "FFFFFF"
   },
   {
+    "id": "27ccf12f-3ae0-4c5e-b337-ee43b7c23928",
+    "name": "mangata x",
+    "symbol": "mgx",
+    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/MGX.svg",
+    "color": "10C5C5"
+  },
+  {
     "id": "15df9971-2e6a-4619-a5ca-9ad571655287",
     "name": "datahighway",
     "symbol": "dhx",
@@ -1266,6 +1275,148 @@
     "color": "FFFFFF"
   },
   {
+    "id": "b5a44630-920e-43ee-809f-61890d0888b0",
+    "name": "sora",
+    "symbol": "xor",
+    "currencyId": "0x0200000000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "sora",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XOR.svg",
+    "color":"EE2233"
+  },
+  {
+    "id": "0ecacd48-ffd4-4a2e-87e3-c5f72f9a9877",
+    "name": "sora validator",
+    "symbol": "val",
+    "currencyId": "0x0200040000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "sora-validator-token",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/VAL.svg",
+    "color":"F3B966",
+    "transfersEnabled": true
+  },
+  {
+    "id": "87ba5538-34db-4d53-9104-25f42b0bb55b",
+    "name": "polkaswap",
+    "symbol": "pswap",
+    "currencyId": "0x0200050000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "polkaswap",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/PSWAP.svg",
+    "color":"FF0066",
+    "transfersEnabled": true
+  },
+  {
+    "id": "038a7045-af00-466d-b72b-95485c4674b7",
+    "name": "sora synthetics",
+    "symbol": "xst",
+    "currencyId": "0x0200090000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "sora-synthetics",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XST.svg",
+    "color":"EE2233",
+    "transfersEnabled": true
+  },
+  {
+    "id": "c96e012c-0786-4980-9750-bae61de0aa19",
+    "name": "sora synthetic usd",
+    "symbol": "xstusd",
+    "currencyId": "0x0200080000000000000000000000000000000000000000000000000000000000",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "sora-synthetic-usd",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/XSTUSD.svg",
+    "color":"EE2233",
+    "transfersEnabled": true
+  },
+  {
+    "id": "7bcc178d-1ebe-46b8-88fb-79649828f21d",
+    "name": "demeter",
+    "symbol": "deo",
+    "currencyId": "0x00f2f4fda40a4bf1fc3769d156fa695532eec31e265d75068524462c0b80f674",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "demeter",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/DEO.svg",
+    "color":"54B198",
+    "transfersEnabled": true
+  },
+  {
+    "id": "79ba9571-6ea4-4790-8fda-d20ddbad4f33",
+    "name": "ceres",
+    "symbol": "ceres",
+    "currencyId": "0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "ceres",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/CERES.svg",
+    "color":"243579",
+    "transfersEnabled": true
+  },
+  {
+    "id": "38eae54b-723d-457c-8d45-4beab249612f",
+    "name": "noir token",
+    "symbol": "noir",
+    "currencyId": "0x0044aee0776cfb826434af8ef0f8e2c7e9e6644cfda0ae0f02c471b1eebc2483",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "noir-phygital",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/NOIR.svg",
+    "color":"A0A7FF",
+    "transfersEnabled": true
+  },
+  {
+    "id": "2565e418-d5bc-4318-99b5-53e893681518",
+    "name": "umitoken",
+    "symbol": "umi",
+    "currencyId": "0x003252667a82d2dd70fa046eea663eaec1f2e37c20879f113b880b04c5ebd805",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/UMI.svg",
+    "color":"3C7EB2",
+    "transfersEnabled": true
+  },
+  {
+    "id": "9b040bf8-a852-4e10-aa14-d3793db27a95",
+    "name": "tether usd",
+    "symbol": "usdt",
+    "currencyId": "0x0083a6b3fbc6edae06f115c8953ddd7cbfba0b74579d6ea190f96853073b76f4",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "tether",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/USDT.svg",
+    "color":"26A17B",
+    "transfersEnabled": true
+  },
+  {
+    "id": "1b20dfcd-a40d-4850-a407-5a45f3bf4889",
+    "name": "binance usd",
+    "symbol": "busd",
+    "currencyId": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "binance-usd",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/BUSD.svg",
+    "color":"F3BA2F",
+    "transfersEnabled": true
+  },
+  {
+    "id": "5c017385-e702-47d2-8f3a-ac8146c2b9dd",
+    "name": "usd coin",
+    "symbol": "usdc",
+    "currencyId": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
+    "chainId": "3266816be9fa51b32cfea58d3e33ca77246bc9618595a4300e44c8856a8d8a17",
+    "precision": 18,
+    "priceId": "usd-coin",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/USDC.svg",
+    "color":"3E73C4",
+    "transfersEnabled": true
+  },
+  {
     "id": "b774c386-5cce-454a-a845-1ec0381538ec",
     "name": "sora",
     "symbol": "xor",
@@ -1432,28 +1583,6 @@
     "transfersEnabled": true
   },
   {
-    "id": "68a46965-94e8-4a03-af65-6237f83d482f",
-    "symbol": "tbcd",
-    "name": "sora tbc dollar",
-    "currencyId": "0x02000a0000000000000000000000000000000000000000000000000000000000",
-    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
-    "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/TBCD.svg",
-    "color":"6D8954",
-    "transfersEnabled": true
-  },
-  {
-    "id": "61f864b5-9fe0-4ba5-b5b6-c338ceaeee91",
-    "name": "hermes dao",
-    "symbol": "hmx",
-    "currencyId": "0x002d4e9e03f192cc33b128319a049f353db98fbf4d98f717fd0b7f66a0462142",
-    "chainId": "7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
-    "precision": 18,
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/tokens/coloured/HMX.svg",
-    "color":"FFFFFF",
-    "transfersEnabled": true
-  },
-  {
     "id": "94e573f3-a9f3-4f7e-9244-8492288ca558",
     "name": "soshiba",
     "symbol": "soshiba",
@@ -1590,4 +1719,3 @@
     "color": "8D809E"
   }
 ]
-

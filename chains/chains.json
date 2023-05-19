@@ -48,16 +48,16 @@
     ],
     "nodes": [
       {
+        "url": "wss://polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
         "url": "wss://rpc.polkadot.io",
         "name": "Parity node"
       },
       {
         "url": "wss://polkadot-rpc.dwellir.com",
         "name": "Dwellir node"
-      },
-      {
-        "url": "wss://polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Polkadot.svg",
@@ -178,16 +178,16 @@
     ],
     "nodes": [
       {
+        "url": "wss://westend.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
         "url": "wss://westend-rpc.polkadot.io",
         "name": "Parity node"
       },
       {
         "url": "wss://westend-rpc.dwellir.com",
         "name": "Dwellir node"
-      },
-      {
-        "url": "wss://westend.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Westend.svg",
@@ -231,16 +231,16 @@
     ],
     "nodes": [
       {
+        "url": "wss://statemine.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
         "url": "wss://statemine-rpc.polkadot.io",
         "name": "Parity node"
       },
       {
         "url": "wss://statemine-rpc.dwellir.com",
         "name": "Dwellir node"
-      },
-      {
-        "url": "wss://statemine.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
@@ -269,16 +269,16 @@
     ],
     "nodes": [
       {
+        "url": "wss://statemint.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
+      },
+      {
         "url": "wss://statemint-rpc.polkadot.io",
         "name": "Parity node"
       },
       {
         "url": "wss://statemint-rpc.dwellir.com",
         "name": "Dwellir node"
-      },
-      {
-        "url": "wss://statemint.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Statemine.svg",
@@ -354,12 +354,8 @@
     ],
     "nodes": [
       {
-        "url": "wss://acala-rpc.dwellir.com",
-        "name": "Dwellir node"
-      },
-      {
-        "url": "wss://acala.polkawallet.io",
-        "name": "Polkawallet node"
+        "url": "wss://acala-polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://acala-rpc-0.aca-api.network",
@@ -370,8 +366,8 @@
         "name": "Acala Foundation node 3"
       },
       {
-        "url": "wss://acala-polkadot.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://acala-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/acala.svg",
@@ -526,8 +522,8 @@
     ],
     "nodes": [
       {
-        "url": "wss://karura-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://karura.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://karura-rpc-0.aca-api.network",
@@ -546,8 +542,8 @@
         "name": "Polkawallet node"
       },
       {
-        "url": "wss://karura.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://karura-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Karura.svg",
@@ -565,7 +561,7 @@
     "externalApi": {
         "staking": {
           "type": "subsquid",
-          "url": "https://squid.subsquid.io/fearless-moonriver-1/v/v2/graphql"
+          "url": "https://squid.subsquid.io/fearless-x-moonriver/v/v1/graphql"
         },
       "history": {
         "type": "giantsquid",
@@ -591,24 +587,24 @@
     ],
     "nodes": [
       {
-        "url": "wss://wss.api.moonriver.moonbeam.network",
-        "name": "Moonbeam Foundation node"
-      },
-      {
-        "url": "wss://moonriver.public.blastapi.io",
-        "name": "Blast node"
-      },
-      {
-        "url": "wss://moonriver.unitedbloc.com",
-        "name": "UnitedBloc node"
-      },
-      {
         "url": "wss://moonriver.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
       },
       {
         "url": "wss://wss.moonriver.moonbeam.network",
         "name": "PureStake node"
+      },
+      {
+        "url": "wss://moonriver.unitedbloc.com",
+        "name": "UnitedBloc node"
+      },
+      {
+        "url": "wss://wss.api.moonriver.moonbeam.network",
+        "name": "Moonbeam Foundation node"
+      },
+      {
+        "url": "wss://moonriver.public.blastapi.io",
+        "name": "Blast node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Moonriver.svg",
@@ -627,10 +623,10 @@
     "paraId": "2007",
     "name": "Shiden",
     "externalApi": {
-      "history": {
-        "type": "giantsquid",
-        "url": "https://squid.subsquid.io/gs-main-shiden/graphql"
-    },
+        "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-shiden/graphql"
+        },
       "explorers": [
         {
           "type": "subscan",
@@ -650,8 +646,8 @@
     ],
     "nodes": [
       {
-        "url": "wss://shiden-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://shiden.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://rpc.shiden.astar.network",
@@ -662,8 +658,8 @@
         "name": "Blast node"
       },
       {
-        "url": "wss://shiden.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://shiden-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Shiden.svg",
@@ -745,16 +741,16 @@
     ],
     "nodes": [
       {
-        "url": "wss://bifrost-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://bifrost-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://bifrost-rpc.liebi.com/ws",
         "name": "Liebi node"
       },
       {
-        "url": "wss://bifrost-parachain.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://bifrost-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bifrost.svg",
@@ -793,16 +789,16 @@
     ],
     "nodes": [
       {
-        "url": "wss://khala-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://khala.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://khala-api.phala.network/ws",
         "name": "Phala node"
       },
       {
-        "url": "wss://khala.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://khala-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Khala.svg",
@@ -841,16 +837,16 @@
     ],
     "nodes": [
       {
-        "url": "wss://kilt-rpc.dwellir.com",
-        "name": "Dwellir node"
+        "url": "wss://spiritnet.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://spiritnet.kilt.io/",
         "name": "KILT Protocol node"
       },
       {
-        "url": "wss://spiritnet.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://kilt-rpc.dwellir.com",
+        "name": "Dwellir node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/kilt.svg",
@@ -919,28 +915,28 @@
     ],
     "nodes": [
       {
-        "url": "wss://ws-quartz.unique.network",
-        "name": "Geo Load Balancer node"
+        "url": "wss://quartz.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+        "name": "OnFinality node"
       },
       {
         "url": "wss://eu-ws-quartz.unique.network",
         "name": "Unique Europe node"
       },
       {
-        "url": "wss://asia-ws-quartz.unique.network",
-        "name": "Unique Asia node"
+        "url": "wss://ws-quartz.unique.network",
+        "name": "Geo Load Balancer node"
       },
       {
-        "url": "wss://us-ws-quartz.unique.network",
-        "name": "Unique America node"
+        "url": "wss://asia-ws-quartz.unique.network",
+        "name": "Unique Asia node"
       },
       {
         "url": "wss://quartz.unique.network",
         "name": "Unique node"
       },
       {
-        "url": "wss://quartz.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
+        "url": "wss://us-ws-quartz.unique.network",
+        "name": "Unique America node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/quartz.svg",
@@ -957,8 +953,8 @@
     "name": "Parallel Heiko",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel_heiko"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-heiko/graphql"
       },
       "explorers": [
         {
@@ -979,12 +975,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://heiko-rpc.parallel.fi",
-        "name": "Parallel node"
-      },
-      {
         "url": "wss://parallel-heiko.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
+      },
+      {
+        "url": "wss://heiko-rpc.parallel.fi",
+        "name": "Parallel node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/parallelfinance.svg",
@@ -1001,8 +997,8 @@
     "name": "Picasso",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-picasso"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-picasso/graphql"
       },
       "explorers": [
         {
@@ -1024,7 +1020,7 @@
     "nodes": [
       {
         "url": "wss://picasso-rpc.composable.finance",
-        "name": "Composable 2 node"
+        "name": "Composable Finance node"
       },
       {
         "url": "wss://rpc.composablenodes.tech",
@@ -1045,8 +1041,8 @@
     "name": "Altair",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-altair"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-altair/graphql"
       },
       "explorers": [
         {
@@ -1067,12 +1063,12 @@
     ],
     "nodes": [
       {
-        "url": "wss://fullnode.altair.centrifuge.io",
-        "name": "Centrifuge node"
-      },
-      {
         "url": "wss://altair.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
         "name": "OnFinality node"
+      },
+      {
+        "url": "wss://fullnode.altair.centrifuge.io",
+        "name": "Centrifuge node"
       }
     ],
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Altair.svg",
@@ -1089,8 +1085,8 @@
     "name": "Bit.Country Pioneer",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-bit_country_pioneer"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-pioneer/graphql"
       }
     },
     "assets": [
@@ -1119,8 +1115,8 @@
     "name": "Clover",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-clover"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-clover/graphql"
       },
       "explorers": [
         {
@@ -1222,8 +1218,8 @@
     "name": "Parallel",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-parallel"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-parallel/graphql"
       },
       "explorers": [
         {
@@ -1266,8 +1262,8 @@
     "name": "Basilisk",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-basilisk"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-basilisk/graphql"
       }
     },
     "assets": [
@@ -1423,6 +1419,10 @@
     "paraId": "2048",
     "name": "Robonomics",
     "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-robonomics/graphql"
+      },
       "explorers": [
         {
           "type": "subscan",
@@ -1432,11 +1432,7 @@
           ],
           "url": "https://robonomics.subscan.io/{type}/{value}"
         }
-      ],
-      "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-robonomics"
-      }
+      ]
     },
     "assets": [
       {
@@ -1474,6 +1470,12 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "paraId": "2100",
     "name": "Subsocial",
+    "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-subsocial/graphql"
+      }
+    },
     "assets": [
       {
         "assetId": "07f9e907-d099-4893-a67b-96cb2fe63049",
@@ -1498,6 +1500,12 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "paraId": "2101",
     "name": "Zeitgeist",
+    "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-zeitgeist/graphql"
+      }
+    },
     "assets": [
       {
         "assetId": "2246fe14-4ec4-460c-8d92-e15bd337f8af",
@@ -1531,16 +1539,16 @@
         "type": "giantsquid",
         "url": "https://squid.subsquid.io/gs-main-efinity/graphql"
       },
-"explorers": [
-  {
-    "type": "subscan",
-    "types": [
-      "extrinsic",
-      "account"
-    ],
-    "url": "https://efinity.subscan.io/{type}/{value}"
-  }
-]
+      "explorers": [
+        {
+          "type": "subscan",
+          "types": [
+            "extrinsic",
+            "account"
+          ],
+          "url": "https://efinity.subscan.io/{type}/{value}"
+        }
+      ]
     },
     "assets": [
       {
@@ -1579,17 +1587,17 @@
         "type": "giantsquid",
         "url": "https://squid.subsquid.io/gs-main-hydradx/graphql"
       },
-      "explorers": [
-        {
-          "type": "subscan",
-          "types": [
-            "extrinsic",
-            "account"
-          ],
-          "url": "https://hydradx.subscan.io/{type}/{value}"
-        }
-      ]
-    },
+        "explorers": [
+          {
+            "type": "subscan",
+            "types": [
+              "extrinsic",
+              "account"
+            ],
+            "url": "https://hydradx.subscan.io/{type}/{value}"
+          }
+        ]
+      },
     "assets": [
       {
         "assetId": "fce79b6c-e071-4271-837e-6ec87a719390",
@@ -1627,21 +1635,21 @@
     "paraId": "2031",
     "name": "Centrifuge",
     "externalApi": {
-      "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-centrifuge"
+        "history": {
+          "type": "giantsquid",
+          "url": "https://squid.subsquid.io/gs-main-centrifuge/graphql"
+        },
+        "explorers": [
+            {
+              "type": "subscan",
+              "types": [
+                "extrinsic",
+                "account"
+              ],
+              "url": "https://centrifuge.subscan.io//{type}/{value}"
+            }
+          ]
       },
-      "explorers": [
-          {
-            "type": "subscan",
-            "types": [
-              "extrinsic",
-              "account"
-            ],
-            "url": "https://centrifuge.subscan.io//{type}/{value}"
-          }
-        ]
-    },
     "assets": [
       {
         "assetId": "7b1963a6-11f1-461c-a9f1-83d82a54b7ee",
@@ -1727,6 +1735,12 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "paraId": "2106",
     "name": "Litmus",
+    "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-litmus/graphql"
+      }
+    },
     "assets": [
       {
         "assetId": "15076759-6a5b-4cd6-b84c-e64842f094e5",
@@ -1751,6 +1765,12 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "paraId": "2040",
         "name": "Polkadex Main Network",
+        "externalApi": {
+          "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-polkadex/graphql"
+          }
+        },
         "assets": [
             {
                 "assetId": "5502c9cb-14f7-4de8-a35d-71263dc3f78f",
@@ -1774,11 +1794,48 @@
             "overridesCommon": true
         }
     },
+    {
+      "chainId": "577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
+      "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+      "paraId": "2115",
+      "name": "Dorafactory Network",
+      "externalApi": {
+        "history": {
+          "type": "giantsquid",
+          "url": "https://squid.subsquid.io/gs-main-dorafactory/graphql"
+        }
+      },
+      "assets": [
+          {
+              "assetId": "c0d1efac-597d-4c56-b5ad-b683b8214ada",
+              "isUtility": true
+          }
+      ],
+      "nodes": [
+          {
+              "url": "wss://kusama.dorafactory.org",
+              "name": "DORA node"
+          }
+
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DoraFactory.svg",
+      "addressPrefix": 128,
+      "types": {
+          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dorafactory.json",
+          "overridesCommon": true
+      }
+  },
   {
       "chainId": "e7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
       "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
       "paraId": "2043",
       "name": "OriginTrail Parachain",
+      "externalApi": {
+        "history": {
+          "type": "giantsquid",
+          "url": "https://squid.subsquid.io/gs-main-origintrail/graphql"
+        }
+      },
       "assets": [
           {
               "assetId": "af5bf9f0-0009-4cf8-98ed-b988268c94f1",
@@ -1847,6 +1904,10 @@
     "paraId": "2030",
     "name": "Bifrost Polkadot",
     "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-bifrostpolkadot/graphql"
+      },
       "explorers": [
         {
           "type": "subscan",
@@ -1922,8 +1983,8 @@
     "name": "Phala",
     "externalApi": {
       "history": {
-        "type": "giantsquid",
-        "url": "https://squid.subsquid.io/gs-main-phala/graphql"
+         "type": "giantsquid",
+         "url": "https://squid.subsquid.io/gs-main-phala/graphql"
       }
     },
     "assets": [
@@ -1960,8 +2021,8 @@
     "name": "Composable Finance",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/Composable-Finance-X-Fearless-Wallet"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-composable/graphql"
       },
       "explorers": [
         {
@@ -2002,6 +2063,12 @@
     "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
     "paraId": "2119",
     "name": "Bajun Kusama",
+    "externalApi": {
+      "history": {
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-bajun/graphql"
+      }
+    },
     "assets": [
       {
         "assetId": "cbf84703-ba1d-4a39-ab5e-424756c91422",
@@ -2036,8 +2103,8 @@
     "name": "Kabocha",
     "externalApi": {
       "history": {
-        "type": "subquery",
-        "url": "https://api.subquery.network/sq/soramitsu/Kabocha-x-Fearless-Wallet"
+        "type": "giantsquid",
+        "url": "https://squid.subsquid.io/gs-main-kabocha/graphql"
       }
     },
     "assets": [
@@ -2066,8 +2133,8 @@
     "name": "DataHighway Tanganika",
     "externalApi": {
         "history": {
-          "type": "subquery",
-          "url": "https://api.subquery.network/sq/soramitsu/DataHighway-Tanganika-x-Fearless-Wallet"
+          "type": "giantsquid",
+          "url": "https://squid.subsquid.io/gs-main-tanganika/graphql"
         }
       },
     "assets": [
@@ -2187,69 +2254,69 @@
     }
 },
 {
-    "chainId": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2039",
-    "name": "Integritee Shell",
-    "externalApi": {
-        "history": {
-            "type": "subquery",
-            "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-integritee"
+        "chainId": "724c168d8e86b78b831c641e2cc822b8d1bf99fa0b4b28fe59985cd6fd580215",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "paraId": "2039",
+        "name": "Integritee Shell",
+        "externalApi": {
+            "history": {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-integritee"
+            }
+        },
+        "assets": [
+            {
+                "assetId": "07c55d3a-b24e-410e-b9ca-7da0707fbd61",
+                "isUtility": true
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://polkadot.api.integritee.network",
+                "name": "Integritee node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
+        "addressPrefix": 13,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee.json",
+            "overridesCommon": true
         }
-    },
-    "assets": [
-        {
-            "assetId": "07c55d3a-b24e-410e-b9ca-7da0707fbd61",
-            "isUtility": true
-        }
-    ],
-    "nodes": [
-        {
-            "url": "wss://polkadot.api.integritee.network",
-            "name": "Integritee node"
-        }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
-    "addressPrefix": 13,
-    "types": {
-        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee.json",
-        "overridesCommon": true
-    }
     },
     {
-      "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
-      "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-      "paraId": "2114",
-      "name": "Turing Network",
-      "externalApi": {
-           "history": {
-              "type": "subquery",
-              "url": "https://api.subquery.network/sq/soramitsu/fearless-wallet-turing"
-          }
-      },
-      "assets": [
-          {
-              "assetId": "148ce615-aea3-42fa-be45-5eb5606813b8",
-              "isUtility": true
-          }
-      ],
-      "nodes": [
-          {
-              "url": "wss://rpc.turing.oak.tech",
-              "name": "OAK node"
-          },
-          {
-            "url": "wss://turing-rpc.dwellir.com",
-            "name": "Dwellir node"
-          }
-      ],
-      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
-      "addressPrefix": 51,
-      "types": {
-          "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/turing.json",
-          "overridesCommon": true
-      }
-  },
+        "chainId": "0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
+        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+        "paraId": "2114",
+        "name": "Turing Network",
+        "externalApi": {
+             "history": {
+                "type": "giantsquid",
+                "url": "https://squid.subsquid.io/gs-main-turing/graphql"
+            }
+        },
+        "assets": [
+            {
+                "assetId": "148ce615-aea3-42fa-be45-5eb5606813b8",
+                "isUtility": true
+            }
+        ],
+        "nodes": [
+            {
+                "url": "wss://rpc.turing.oak.tech",
+                "name": "OAK node"
+            },
+            {
+              "url": "wss://turing-rpc.dwellir.com",
+              "name": "Dwellir node"
+            }
+        ],
+        "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/OAK.svg",
+        "addressPrefix": 51,
+        "types": {
+            "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/turing.json",
+            "overridesCommon": true
+        }
+    },
     {
       "chainId": "7dd99936c1e9e6d1ce7d90eb6f33bea8393b4bf87677d675aa63c9cb3e8c5b5b",
       "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
@@ -2286,17 +2353,47 @@
         "overridesCommon": true
       }
     },
-      {
+    {
+      "chainId": "0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
+      "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+      "paraId": "2102",
+      "name": "Pichiu Network",
+      "externalApi": {
+        "history": {
+           "type": "giantsquid",
+           "url": "https://squid.subsquid.io/gs-main-pichiu/graphql"
+       }
+   },
+      "assets": [
+        {
+          "assetId": "5b196f7c-475a-493e-abbf-9f808d6fb863",
+          "isUtility": true
+        }
+      ],
+      "nodes": [
+        {
+          "url": "wss://kusama.kylin-node.co.uk",
+          "name": "Kylin Network node"
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/pichiu.svg",
+      "addressPrefix": 42,
+      "types": {
+        "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pichiu.json",
+        "overridesCommon": true
+      }
+    },
+    {
         "chainId": "d42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "paraId": "2125",
         "name": "InvArch Tinker Network",
         "externalApi": {
           "history": {
-             "type": "subquery",
-             "url": "https://api.subquery.network/sq/soramitsu/InvArch-Tinker-x-Fearless-Wallet"
-          }
-        },
+             "type": "giantsquid",
+             "url": "https://squid.subsquid.io/gs-main-tinker/graphql"
+         }
+     },
         "assets": [
           {
             "assetId": "8b58d683-fdc9-477e-a1b2-2c95b663e4a5",
@@ -2322,11 +2419,11 @@
         "paraId": "2123",
         "name": "GM Parachain",
         "externalApi": {
-          "history": {
-              "type": "giantsquid",
-              "url": "https://squid.subsquid.io/gs-main-gmordie/graphql"
-          }
-      },
+            "history": {
+                "type": "giantsquid",
+                "url": "https://squid.subsquid.io/gs-main-gmordie/graphql"
+            }
+        },
         "assets": [
           {
             "assetId": "19763697-37d8-4643-b840-3fd8565f5d83",
@@ -2355,6 +2452,12 @@
         "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
         "paraId": "2124",
         "name": "Amplitude",
+        "externalApi": {
+          "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-amplitude/graphql"
+          }
+        },
         "assets": [
           {
             "assetId": "b2e6c029-ae73-46f9-9660-51d7034ddc53",
@@ -2388,17 +2491,21 @@
         "paraId": "2046",
         "name": "Darwinia Parachain",
         "externalApi": {
-          "explorers": [
-            {
-              "type": "subscan",
-              "types": [
-                "extrinsic",
-                "account"
-              ],
-              "url": "https://darwinia-parachain.subscan.io/{type}/{value}"
-            }
-          ]
-        },
+          "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-darwinia/graphql"
+          },
+            "explorers": [
+              {
+                "type": "subscan",
+                "types": [
+                  "extrinsic",
+                  "account"
+                ],
+                "url": "https://darwinia-parachain.subscan.io/{type}/{value}"
+              }
+            ]
+          },
         "assets": [
           {
             "assetId": "b861f610-cf2c-43ad-a660-f6b809a05062",
@@ -2431,6 +2538,12 @@
         "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
         "paraId": "2052",
         "name": "Kylin Network",
+        "externalApi": {
+          "history": {
+            "type": "giantsquid",
+            "url": "https://squid.subsquid.io/gs-main-kylin/graphql"
+          }
+        },
         "assets": [
           {
             "assetId": "7512aeb7-7bdc-42dc-abe3-80ed764c80bd",
@@ -2512,7 +2625,8 @@
     "assets": [
       {
         "assetId": "b774c386-5cce-454a-a845-1ec0381538ec",
-        "isUtility": true
+        "isUtility": true,
+        "staking": "relaychain"
       },
       {
         "type": "soraAsset",
@@ -2576,14 +2690,6 @@
       },
       {
         "type": "soraAsset",
-        "assetId": "68a46965-94e8-4a03-af65-6237f83d482f"
-      },
-      {
-        "type": "soraAsset",
-        "assetId": "61f864b5-9fe0-4ba5-b5b6-c338ceaeee91"
-      },
-      {
-        "type": "soraAsset",
         "assetId": "94e573f3-a9f3-4f7e-9244-8492288ca558"
       }
     ],
@@ -2592,7 +2698,7 @@
         "url": "wss://ws.mof.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
- 	    {
+         {
         "url": "wss://mof2.sora.org",
         "name": "SORA Parliament Ministry of Finance Node"
       },
@@ -2637,327 +2743,348 @@
         "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/aleph.json",
         "overridesCommon": true
     }
-  },
-  {
-    "chainId": "00dcb981df86429de8bbacf9803401f09485366c44efbf53af9ecfab03adc7e5",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "paraId": "1002",
-    "name": "Kusama BridgeHub",
-    "assets": [
-      {
-        "assetId": "f0f8e709-20f3-44e6-a6c3-89e9e82f78ed",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://kusama-bridge-hub-rpc.polkadot.io",
-        "name": "Parity node"
-      },
-      {
-        "url": "wss://sys.ibp.network/bridgehub-kusama",
-        "name": "IBP-GeoDNS1 node"
-      },
-      {
-        "url": "wss://sys.dotters.network/bridgehub-kusama",
-        "name": "IBP-GeoDNS2 node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bridgehub.svg",
-    "addressPrefix": 2,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bridgehub_ksm.json",
-      "overridesCommon": true
+},
+{
+  "chainId": "00dcb981df86429de8bbacf9803401f09485366c44efbf53af9ecfab03adc7e5",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "paraId": "1002",
+  "name": "Kusama BridgeHub",
+  "assets": [
+    {
+      "assetId": "f0f8e709-20f3-44e6-a6c3-89e9e82f78ed",
+      "isUtility": true
     }
-  },
-  {
-    "chainId": "6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "paraId": "2222",
-    "name": "Ipci",
-    "assets": [
-      {
-        "assetId": "b20185e9-2f5c-4c3d-bd5a-c751cd76d439",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://kusama.rpc.ipci.io",
-        "name": "Airalab node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DAOIPCI.svg",
-    "addressPrefix": 32,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dao_ipci.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "cdedc8eadbfa209d3f207bba541e57c3c58a667b05a2e1d1e86353c9000758da",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "paraId": "2015",
-    "name": "Integritee Network (Kusama)",
-    "externalApi": {
-      "explorers": [
-        {
-          "type": "subscan",
-          "types": [
-            "extrinsic",
-            "account"
-          ],
-          "url": "https://integritee.subscan.io/{type}/{value}"
-        }
-      ]
+  ],
+  "nodes": [
+    {
+      "url": "wss://kusama-bridge-hub-rpc.polkadot.io",
+      "name": "Parity node"
     },
-    "assets": [
-      {
-        "assetId": "c8b67e07-8b3b-4b92-b23d-23b5bb1f8f42",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://kusama.api.integritee.network",
-        "name": "Integritee node"
-      },
-      {
-        "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
-        "name": "OnFinality node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
-    "addressPrefix": 13,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee_ksm.json",
-      "overridesCommon": true
+    {
+      "url": "wss://sys.ibp.network/bridgehub-kusama",
+      "name": "IBP-GeoDNS1 node"
+    },
+    {
+      "url": "wss://sys.dotters.network/bridgehub-kusama",
+      "name": "IBP-GeoDNS2 node"
     }
-  },
-  {
-    "chainId": "2991d4125ac465d64c4c0b915fedd7168b5961b7676480636e3747f1ad64cfb9",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "paraId": "2236",
-    "name": "Subzero",
-    "assets": [
-      {
-        "assetId": "3a1cc15e-903b-4102-9384-364c00e67283",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://rpc-1.kusama.node.zero.io",
-        "name": "ZeroNetwork node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Subzero.svg",
-    "addressPrefix": 25,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/subzero.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "e358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2051",
-    "name": "Ajuna Polkadot",
-    "assets": [
-      {
-        "assetId": "b0afcb19-5d4c-442c-ac0f-53c64b1ea0ae",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://rpc-parachain.ajuna.network",
-        "name": "AjunaNetwork node"
-      },
-      {
-        "url": "wss://ajuna.public.curie.radiumblock.co/ws",
-        "name": "RadiumBlock node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
-    "addressPrefix": 1328,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ajuna.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "c14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2048",
-    "name": "Bitgreen",
-    "assets": [
-      {
-        "assetId": "26c62511-6300-41ef-b760-c94dd6b0f8a5",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://mainnet.bitgreen.org",
-        "name": "Bitgreen node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bitgreen.svg",
-    "addressPrefix": 42,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitgreen.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2008",
-    "name": "Crust",
-    "assets": [
-      {
-        "assetId": "07ad91ea-1cb6-47dd-bc57-0e884727c5bf",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://crust-parachain.crustapps.net",
-        "name": "Crust node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Crust.svg",
-    "addressPrefix": 88,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crust.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2091",
-    "name": "Frequency",
-    "assets": [
-      {
-        "assetId": "598af8e7-c0ad-4785-80cf-669705c93dd9",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://0.rpc.frequency.xyz",
-        "name": "Frequency 0 node"
-      },
-      {
-        "url": "wss://1.rpc.frequency.xyz",
-        "name": "Frequency 1 node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Frequency.svg",
-    "addressPrefix": 90,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/frequency.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2007",
-    "name": "Kapex",
-    "assets": [
-      {
-        "assetId": "a99dd750-0c15-49df-a86f-6caa577614bc",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://k-ui.kapex.network",
-        "name": "Totem node"
-      },
-      {
-        "url": "wss://kapex-rpc.dwellir.com",
-        "name": "Dwellir node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kapex%20(Totem).svg",
-    "addressPrefix": 2007,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kapex.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
-    "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "paraId": "2094",
-    "name": "Pendulum",
-    "assets": [
-      {
-        "assetId": "ebf2822f-2dd4-4f59-aeb3-ae7defa53932",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://rpc-pendulum.prd.pendulumchain.tech",
-        "name": "PendulumChain node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Pendulum.svg",
-    "addressPrefix": 56,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pendulum.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "6859c81ca95ef624c9dfe4dc6e3381c33e5d6509e35e147092bfbc780f777c4e",
-    "name": "Ternoa Mainnet",
-    "assets": [
-      {
-        "assetId": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://mainnet.ternoa.network",
-        "name": "CapsuleCorp node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Ternoa.svg",
-    "addressPrefix": 42,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ternoa.json",
-      "overridesCommon": true
-    }
-  },
-  {
-    "chainId": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
-    "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-    "paraId": "2011",
-    "name": "SORA Kusama parachain",
-    "assets": [
-      {
-        "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604",
-        "isUtility": true
-      }
-    ],
-    "nodes": [
-      {
-        "url": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp",
-        "name": "Soramitsu node"
-      }
-    ],
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
-    "addressPrefix": 420,
-    "types": {
-      "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora.json",
-      "overridesCommon": true
-    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bridgehub.svg",
+  "addressPrefix": 2,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bridgehub_ksm.json",
+    "overridesCommon": true
   }
+},
+{
+  "chainId": "6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "paraId": "2222",
+  "name": "Ipci",
+  "assets": [
+    {
+      "assetId": "b20185e9-2f5c-4c3d-bd5a-c751cd76d439",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://kusama.rpc.ipci.io",
+      "name": "Airalab node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/DAOIPCI.svg",
+  "addressPrefix": 32,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/dao_ipci.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "cdedc8eadbfa209d3f207bba541e57c3c58a667b05a2e1d1e86353c9000758da",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "paraId": "2015",
+  "name": "Integritee Network (Kusama)",
+  "externalApi": {
+    "history": {
+      "type": "giantsquid",
+      "url": "https://squid.subsquid.io/gs-main-integritee/graphql"
+    },
+    "explorers": [
+      {
+        "type": "subscan",
+        "types": [
+          "extrinsic",
+          "account"
+        ],
+        "url": "https://integritee.subscan.io/{type}/{value}"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "assetId": "c8b67e07-8b3b-4b92-b23d-23b5bb1f8f42",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://kusama.api.integritee.network",
+      "name": "Integritee node"
+    },
+    {
+      "url": "wss://integritee-kusama.api.onfinality.io/public-ws?apikey=313214ec-15ef-4834-a896-1cf39911f94b",
+      "name": "OnFinality node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/integritee.svg",
+  "addressPrefix": 13,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/integritee_ksm.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "2991d4125ac465d64c4c0b915fedd7168b5961b7676480636e3747f1ad64cfb9",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "paraId": "2236",
+  "name": "Subzero",
+  "assets": [
+    {
+      "assetId": "3a1cc15e-903b-4102-9384-364c00e67283",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://rpc-1.kusama.node.zero.io",
+      "name": "ZeroNetwork node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Subzero.svg",
+  "addressPrefix": 25,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/subzero.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "e358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2051",
+  "name": "Ajuna Polkadot",
+  "assets": [
+    {
+      "assetId": "b0afcb19-5d4c-442c-ac0f-53c64b1ea0ae",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://rpc-parachain.ajuna.network",
+      "name": "AjunaNetwork node"
+    },
+    {
+      "url": "wss://ajuna.public.curie.radiumblock.co/ws",
+      "name": "RadiumBlock node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bajun.svg",
+  "addressPrefix": 1328,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ajuna.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "c14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2048",
+  "name": "Bitgreen",
+  "assets": [
+    {
+      "assetId": "26c62511-6300-41ef-b760-c94dd6b0f8a5",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://mainnet.bitgreen.org",
+      "name": "Bitgreen node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Bitgreen.svg",
+  "addressPrefix": 42,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/bitgreen.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2008",
+  "name": "Crust",
+  "assets": [
+    {
+      "assetId": "07ad91ea-1cb6-47dd-bc57-0e884727c5bf",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://crust-parachain.crustapps.net",
+      "name": "Crust node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Crust.svg",
+  "addressPrefix": 88,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/crust.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2091",
+  "name": "Frequency",
+  "assets": [
+    {
+      "assetId": "598af8e7-c0ad-4785-80cf-669705c93dd9",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://0.rpc.frequency.xyz",
+      "name": "Frequency 0 node"
+    },
+    {
+      "url": "wss://1.rpc.frequency.xyz",
+      "name": "Frequency 1 node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Frequency.svg",
+  "addressPrefix": 90,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/frequency.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2007",
+  "name": "Kapex",
+  "assets": [
+    {
+      "assetId": "a99dd750-0c15-49df-a86f-6caa577614bc",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://k-ui.kapex.network",
+      "name": "Totem node"
+    },
+    {
+      "url": "wss://kapex-rpc.dwellir.com",
+      "name": "Dwellir node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Kapex%20(Totem).svg",
+  "addressPrefix": 2007,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/kapex.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
+  "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+  "paraId": "2094",
+  "name": "Pendulum",
+  "externalApi": {
+    "history": {
+      "type": "giantsquid",
+      "url": "https://squid.subsquid.io/gs-main-pendulum/graphql"
+    }
+  },
+  "assets": [
+    {
+      "assetId": "ebf2822f-2dd4-4f59-aeb3-ae7defa53932",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://rpc-pendulum.prd.pendulumchain.tech",
+      "name": "PendulumChain node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Pendulum.svg",
+  "addressPrefix": 56,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/pendulum.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "6859c81ca95ef624c9dfe4dc6e3381c33e5d6509e35e147092bfbc780f777c4e",
+  "name": "Ternoa Mainnet",
+  "externalApi": {
+    "history": {
+      "type": "giantsquid",
+      "url": "https://squid.subsquid.io/gs-main-ternoa/graphql"
+    },
+    "staking": {
+      "type": "giantsquid",
+      "url": "https://squid.subsquid.io/gs-main-ternoa/graphql"
+    }
+  },
+  "assets": [
+    {
+      "assetId": "2e447cea-6fe1-4b08-8a97-94cc2ee622a6",
+      "isUtility": true,
+      "staking": "relaychain"
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://mainnet.ternoa.network",
+      "name": "CapsuleCorp node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/Ternoa.svg",
+  "addressPrefix": 42,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/ternoa.json",
+    "overridesCommon": true
+  }
+},
+{
+  "chainId": "6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
+  "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+  "paraId": "2011",
+  "name": "SORA Kusama parachain",
+  "assets": [
+    {
+      "assetId": "2df458e8-c4a9-4026-986f-8962a36fe604",
+      "isUtility": true
+    }
+  ],
+  "nodes": [
+    {
+      "url": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp",
+      "name": "Soramitsu node"
+    }
+  ],
+  "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/SORA.svg",
+  "addressPrefix": 420,
+  "types": {
+    "url": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/type_registry/sora.json",
+    "overridesCommon": true
+  }
+}
 ]
