@@ -2394,7 +2394,10 @@
           }
         ],
         "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/icons/chains/white/darwinia.svg",
-        "addressPrefix": 18
+        "addressPrefix": 18,
+        "options": [
+          "ethereumBased"
+        ]
       },
       {
         "chainId": "f2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
