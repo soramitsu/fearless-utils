@@ -346,8 +346,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "darwinia_parachain_runtime::RuntimeEvent",
-                    "GenericCall": "darwinia_parachain_runtime::RuntimeCall"
+                    "GenericEvent": "darwinia_runtime::RuntimeEvent",
+                    "GenericCall": "darwinia_runtime::RuntimeCall"
                 }
             }
         ]
