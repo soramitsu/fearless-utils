@@ -60,8 +60,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "amplitude_runtime::Event",
-                    "GenericCall": "amplitude_runtime::Call"
+                    "GenericEvent": "amplitude_runtime::RuntimeEvent",
+                    "GenericCall": "amplitude_runtime::RuntimeCall"
                 }
             }
         ]
@@ -113,8 +113,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "bajun_runtime::Event",
-                    "GenericCall": "bajun_runtime::Call"
+                    "GenericEvent": "bajun_runtime::RuntimeEvent",
+                    "GenericCall": "bajun_runtime::RuntimeCall"
                 }
             }
         ]
@@ -289,8 +289,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "composable_runtime::Event",
-                    "GenericCall": "composable_runtime::Call"
+                    "GenericEvent": "composable_runtime::RuntimeEvent",
+                    "GenericCall": "composable_runtime::RuntimeCall"
                 }
             }
         ]
@@ -346,8 +346,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "darwinia_parachain_runtime::Event",
-                    "GenericCall": "darwinia_parachain_runtime::Call"
+                    "GenericEvent": "darwinia_parachain_runtime::RuntimeEvent",
+                    "GenericCall": "darwinia_parachain_runtime::RuntimeCall"
                 }
             }
         ]
@@ -753,8 +753,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "litentry_parachain_runtime::Event",
-                    "GenericCall": "litentry_parachain_runtime::Call"
+                    "GenericEvent": "litentry_parachain_runtime::RuntimeEvent",
+                    "GenericCall": "litentry_parachain_runtime::RuntimeCall"
                 }
             }
         ]
@@ -1002,8 +1002,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "phala_parachain_runtime::Event",
-                    "GenericCall": "phala_parachain_runtime::Call"
+                    "GenericEvent": "phala_parachain_runtime::RuntimeEvent",
+                    "GenericCall": "phala_parachain_runtime::RuntimeCall"
                 }
             }
         ]
@@ -1443,8 +1443,8 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
-                    "GenericEvent": "unique_runtime::Event",
-                    "GenericCall": "unique_runtime::Call"
+                    "GenericEvent": "unique_runtime::RuntimeEvent",
+                    "GenericCall": "unique_runtime::RuntimeCall"
                 }
             }
         ]
@@ -1736,8 +1736,8 @@
             "types": {
                 "Balance": "u128",
                 "Index": "u32",
-                "GenericEvent": "subzero_runtime::Event",
-                "GenericCall": "subzero_runtime::Call"
+                "GenericEvent": "subzero_runtime::RuntimeEvent",
+                "GenericCall": "subzero_runtime::RuntimeCall"
             }
         }
     ]
