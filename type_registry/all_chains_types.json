@@ -346,6 +346,29 @@
                 "types": {
                     "Balance": "u128",
                     "Index": "u32",
+                    "Phase": "175",
+                    "H160": "[u8; 20]",
+                    "0": "H160",
+                    "Address": "0",
+                    "EthereumSignature": {
+                        "type": "struct",
+                        "type_mapping": [
+                            [
+                                "r",
+                                "H256"
+                            ],
+                            [
+                                "s",
+                                "H256"
+                            ],
+                            [
+                                "v",
+                                "u8"
+                            ]
+                        ]
+                    },
+                    "ExtrinsicSignature": "EthereumSignature",
+                    "ParaId": "83",
                     "GenericEvent": "darwinia_runtime::RuntimeEvent",
                     "GenericCall": "darwinia_runtime::RuntimeCall"
                 }
