@@ -4,7 +4,7 @@
     "name": "Polkadot",
     "externalApi": {
       "staking": {
-        "type": "subquery",
+        "type": "subsquid",
         "url": "https://squid.subsquid.io/fearless-x-polkadot/v/v1/graphql"
       },
       "history": {
