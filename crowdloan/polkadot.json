@@ -376,10 +376,11 @@
   {
     "paraid": "2025",
     "name": "SORA",
-    "token": "TBCD",
+    "token": "XSTXAU",
     "description": "SORA is building a rational monetary system using decentralized technologies with democratic governance by all participants in order to fulfill humanity's true potential towards the next stage of our evolution.",
     "website": "https://sora.org/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png",
+    "rewardRate": 0.004716
     
   },
   {
@@ -389,7 +390,8 @@
     "description": "The ultimate layer-1 network for the DAO economy, an application-specific blockchain & a service parachain that empowers the Polkadot ecosystem.",
     "website": "https://invarch.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/invarch.png",
-    "rewardRate": 100
+    "rewardRate": 100,
+    "disabled": true
   },
   {
     "paraid": "3338",
