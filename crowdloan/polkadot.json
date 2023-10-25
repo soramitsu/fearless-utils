@@ -232,7 +232,6 @@
   },
   {
     "paraid": "2037",
-    "disabled": true,
     "name": "Unique Network",
     "token": "UNQ",
     "description": "THE UNIQUE CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
@@ -243,7 +242,6 @@
   },
   {
     "paraid": "2013",
-    "disabled": true,
     "name": "Litentry",
     "token": "LIT",
     "description": "THE LITENTRY CROWDLOAN IS OVER! NO MORE CONTRIBUTIONS WILL BE ACCEPTED!",
@@ -376,11 +374,11 @@
   {
     "paraid": "2025",
     "name": "SORA",
-    "token": "XSTXAU",
+    "token": "Kensetsu Gold",
     "description": "SORA is building a rational monetary system using decentralized technologies with democratic governance by all participants in order to fulfill humanity's true potential towards the next stage of our evolution.",
     "website": "https://sora.org/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/sora.png",
-    "rewardRate": 0.004716
+    "rewardRate": 0.001337
     
   },
   {
