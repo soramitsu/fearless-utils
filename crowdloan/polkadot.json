@@ -70,12 +70,13 @@
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
    },
   {
-    "paraid": "2012",
+    "paraid": "3350",
     "name": "Parallel Finance",
     "token": "PARA",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
     "website": "https://parallel.fi/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png",
+     "disabled": true
   },
   {
     "paraid": "2002",
@@ -83,7 +84,8 @@
     "token": "CLV",
     "description": "A substrate-based smart contract platform built for Polkadot",
     "website": "https://clover.finance/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/clover.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/clover.png",
+     "disabled": true
   },
   {
     "paraid": "2015",
