@@ -418,6 +418,7 @@
     "token": "LGNT",
     "description": "Empowring tokens on any blockchain as legal-grade digital assets",
     "website": "https://logion.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/logion.png"
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/logion.png",
+    "disabled": true
   }
 ]
