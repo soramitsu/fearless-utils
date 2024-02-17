@@ -420,5 +420,14 @@
     "website": "https://logion.network/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/logion.png",
     "disabled": true
+  },
+  {
+    "paraid": "3359",
+    "name": "Integritee Polkadot",
+    "token": "TEER",
+    "description": "The most scalable public blockchain solution for securely processing sensitive business or personal data",
+    "website": "https://dot.crowdloan.integritee.network/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/integritee.png",
+    "rewardRate": 2.5
   }
 ]
