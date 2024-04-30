@@ -437,6 +437,7 @@
     "description": "LAOS is the first Layer 1 protocol that permits large-scale minting on Ethereum and all EVM chains without incurring native gas fees, and without bridges",
     "website": "https://laosnetwork.io/",
     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/laos.png",
-    "rewardRate": 100
+    "rewardRate": 100,
+    "disabled": true
   }
 ]
